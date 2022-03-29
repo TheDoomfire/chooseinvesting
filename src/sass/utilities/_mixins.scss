@@ -1,0 +1,24 @@
+@use "./variables" as *;
+
+@mixin container($size) {
+    margin: 0 auto;
+    padding: 0 $padding-sides;
+
+    @if $size == small {
+        max-width: $size-small;
+    } @else if $size == medium {
+        max-width: $size-medium;
+    } @else if $size == big {
+        max-width: $size-big;
+    }
+};
+
+@mixin screen($size) {
+    @if $size == phone {
+        @media (min-width: $size-phone) { @content; }
+    } @else if $size == tablet {
+        @media (min-width: $size-tablet) { @content; }
+    } @else if $size == pc {
+        @media (min-width: $size-pc) { @content; }
+    }
+};

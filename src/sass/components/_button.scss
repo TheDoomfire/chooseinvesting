@@ -1,0 +1,21 @@
+@use "../utilities" as *;
+
+.btn {
+    background-color: $color-special;
+    width: 100%;
+    color: white;
+    font-size: $font-size * 1.5;
+    font-weight: 500;
+    padding: 0.7em 1.5em;
+    border-radius: 8px;
+
+    &:hover {
+        background-color: $color-special-100;
+        color: $color-light;
+    }
+
+    @include screen(pc) {
+        padding: 0.7em;
+        font-size: $font-size * 1.2;
+    }
+}

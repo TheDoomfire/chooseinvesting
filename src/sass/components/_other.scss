@@ -1,0 +1,106 @@
+@use "../utilities" as *;
+
+.text-box {
+    padding: 1em;
+    border-radius: 8px;
+    margin: 1em 0;
+
+    background-color: $color-dark;
+    color: $color-light;
+
+    p {
+        color: $color-light;
+    }
+}
+
+.text-box-2 {
+    @extend .text-box;
+    background-color: $color-grey-200;
+    color: black;
+
+}
+
+.zoom {
+    transition: transform .2s; /* Animation */
+  }
+  
+  .zoom:hover {
+    transform: scale(1.5); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+  }
+
+.text-centered {
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
+
+.text-light {
+    font-weight: 300;
+    font-size: $font-size * 0.9;
+}
+
+.text-warning {
+    @extend .text-box;
+    background-color: $color-red;
+    color: $color-light;
+
+    &::before {
+        content: "WARNING! - ";
+        font-weight: 500;
+        font-size: $font-size * 1.2;
+    }
+}
+
+.text-underline {
+    text-decoration: underline $color-grey 0.05em;
+    //text-decoration-color: $color-special;
+    //text-decoration-thickness: 0.05em;
+}
+
+.text-plus {
+    color: $color-green;
+
+    &::before {
+        content: "+";
+    }
+
+}
+
+.text-minus {
+    color: $color-red;
+}
+
+.color-special {
+    color: $color-special;
+}
+
+.mr-top {
+    //content: "";
+    margin-top: $between-pages * 0.3;
+}
+
+.tooltip {
+    position: relative;
+    display: inline-block;
+    border-bottom: 1px dotted black;
+
+    text {
+        visibility: hidden;
+        width: 120px;
+        background-color: black;
+        color: #fff;
+        text-align: center;
+        padding: 5px 0;
+        border-radius: 6px;
+
+        width: 120px;
+        bottom: 100%;
+        left: 50%;
+        margin-left: -60px; /* Use half of the width (120/2 = 60), to center the tooltip */
+    }
+
+    &:hover text {
+        visibility: visible;
+    }
+}

@@ -1,0 +1,17 @@
+    <ul role="list" class="snippet-featured">
+        <div class="container">
+            {%- for post in collections.featured | reverse -%}
+            <li>
+                <article>
+                    <img src="{{ post.data.image }}" alt="{{ post.data.imageAlt }}">
+                    <div class="content">
+                        <h3>{{ post.data.title }}</h3>
+                        <p>Last updated on <span>{{ post.date | postDate }}</span></p>
+                        <p>{{ post.data.description }}</p>
+                        <a class="btn" href="{{ post.url }}">Read More...</a>
+                    </div>
+                </article>
+            </li>
+            {%- endfor -%}
+        </div>
+    </ul>

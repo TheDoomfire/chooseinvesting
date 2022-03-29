@@ -1,0 +1,10 @@
+@use "../utilities" as *;
+
+footer {
+    background-color: $color-special;
+    color: $color-light;
+    padding: 3em;
+    .container {
+        @include container(medium);
+    }
+}

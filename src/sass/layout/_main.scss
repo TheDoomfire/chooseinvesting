@@ -1,0 +1,21 @@
+@use "../utilities" as *;
+
+main {
+    .container {
+        @include container(medium);
+    }
+    
+    margin-bottom: $between-pages;
+}
+
+article {
+    img {
+        max-height: 25em;
+    }
+
+    p {
+        :first-child {
+            margin-bottom: 5em;
+        }
+    }
+}

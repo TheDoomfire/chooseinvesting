@@ -1,0 +1,107 @@
+@use "../utilities" as *;
+
+header {
+    background-color: $color-background;
+
+    padding: 0.8em 0 2em 0;
+
+
+    nav {
+
+        a {
+            font-weight: 500;
+            color: $color-dark;
+            z-index: 4;
+        }
+    }
+
+    ul {
+        display: flex;
+        background-color: $color-background;
+        z-index: 5;
+
+        position: fixed;
+        right: -100%;
+        top: 25px;
+        gap: 0;
+        flex-direction: column;
+        text-align: center;
+        gap: 1em;
+        transition: 0.3s;
+        width: 100%;
+        font-size: $font-size * 1.5;
+        font-weight: 700;
+
+        justify-content: space-between;
+        padding: 0 24px;
+
+
+        @include screen(tablet) {
+            position: static;
+            right: 0;
+            top: auto;
+
+            flex-direction: row;
+
+            font-size: $font-size;
+            font-weight: 400;
+
+            a {
+                font-weight: 300;
+                font-size: $font-size *1.1;
+            }
+
+        }
+        
+    }
+
+    .nav-menu {
+        &.active {
+            left: 0;
+        }
+
+        @include screen(tablet) {
+            left: 0;
+        }
+    }
+
+    .container {
+        @include container(medium);
+
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+}
+
+.hamburger {
+    cursor: pointer;
+
+    span {
+        display: block;
+        width: 25px;
+        height: 3px;
+        margin: 5px auto;
+        -webkit-transition: all 0.3s ease-in-out;
+        transition: all 0.3s ease-in-out;
+        background-color: $color-dark;
+    }
+
+    &.active {
+        span {
+            &:nth-child(2) {
+                opacity: 0;
+            }
+            &:nth-child(1) {
+                transform: translateY(8px) rotate(45deg);
+            }
+            &:nth-child(3) {
+                transform: translateY(-8px) rotate(-45deg);
+            }
+        }
+    }
+
+    @include screen(tablet) {
+        display: none;
+    }
+}

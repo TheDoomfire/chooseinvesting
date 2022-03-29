@@ -1,0 +1,28 @@
+---
+title: Blog
+layout: 'base.njk'
+---
+
+<div class="hero-special">
+    <div class="container">
+        <h1>Blog</h1>
+    </div>
+</div>
+<div class="container">
+    
+    <ul role="list" class="snippet">
+    {%- for post in collections.post | reverse -%}
+    <li>
+        <article>
+            <img src="{{ post.data.image }}" alt="{{ post.data.imageAlt }}">
+            <div class="content">
+                <h2>{{ post.data.title }}</h2>
+                <p>Last updated on <span>{{ post.date | postDate }}</span></p>
+                <p>{{ post.data.description }}</p>
+                <a class="btn" href="{{ post.url }}">Read More...</a>
+            </div>
+        </article>
+    </li>
+    {%- endfor -%}
+    </ul>
+</div>
