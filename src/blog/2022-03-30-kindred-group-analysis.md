@@ -8,6 +8,7 @@ tags:
   - post
   - stock
   - analysis
+  - featured
 keywords: stock, gambling, growth stock, investment, analysis, dividend stock,
   stock chart, company
 image: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Kindredgroup_logo.jpg/375px-Kindredgroup_logo.jpg
