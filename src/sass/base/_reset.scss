@@ -42,6 +42,15 @@ img {
     object-fit: cover;
 }
 
+iframe {
+    width: 100%;
+    height: 371px;
+}
+
+figcaption {
+    margin-bottom: 1em;
+}
+
 ::selection {
     background: $color-special-100;
     color: $color-light;
@@ -62,3 +71,14 @@ hr.style-one {
     background: #333;
     background-image: linear-gradient(to right, #ccc, #333, #ccc);
 }
+
+.responsive-wrapper {
+    position: relative;
+    height: 0;  
+}
+
+#Iframe-Training-Sheet {
+    max-width: 600px;
+    max-height: 100%; 
+    overflow: hidden;
+  }

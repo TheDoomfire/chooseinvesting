@@ -1,11 +1,12 @@
 ---
 title: VNV Global Analysis
 author: Albini
-date: 2022-04-02
-tags: ["post", "featured", "stock"]
+date: 2022-03-30
+tags: ["post", "featured", "stock", "analysis"]
 image: https://www.paretosec.se/admin/public/getimage.ashx?Image=/Files/Files/VNV-Global5.JPG&Width=1230&Compression=85
 imageAlt: VNV Global
 description: Is an investment company that’s investing in mostly unlisted companies. And since the war in Ukraine people have been selling it like crazy.
+keywords: investment company, stock, bargain, discounted, nav discount, value
 ---
 
 {% include '../_includes/components/warning-investing.njk' %}
@@ -25,12 +26,14 @@ description: Is an investment company that’s investing in mostly unlisted comp
     Let’s start by checking what holdings they own to better understand the company.
 </p>
 
-<div class="text-centered">
-    <h2 class="mr-top">Diversification</h2>
-    <p>From the 2021 annual report</p>
-</div>
-<br>
-<img src="https://i.imgur.com/2NQyZfd.png" alt="Chart over VNV Globas holdings" class="zoom">
+<figure class="screen-size">
+    <figcaption class="text-centered">
+        <h2 class="mr-top">Diversification</h2>
+        <p>From the 2021 annual report</p>
+    </figcaption>
+    <img class="phone" src="https://i.imgur.com/2NQyZfd.png" alt="Chart over VNV Globas holdings" class="zoom">
+    <iframe class="tablet" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR5uLLAFQe_DMRauHKpv9DgK1mP0SaAjps7_YvyiHwoo_B0cDcK0e_-MoPSSO0ZVimUmKBG4dVPNGZ-/pubchart?oid=1087617479&amp;format=interactive"></iframe>
+</figure>
 
 <br>
 <p>
@@ -48,12 +51,13 @@ description: Is an investment company that’s investing in mostly unlisted comp
     And now we know what companies we should look at first. Lets go from biggest to smallest. Aka most important to least. Later down the road.
 </p>
 
-<div class="text-centered">
-    <h2 class="mr-top">Net Asset Value</h2>
-    <p>From <a href="http://ibindex.se/ibi/#/company/VNV" target="_blank">Ibindex.se</a></p>
-</div>
-<br>
-<img src="https://i.imgur.com/HfFhNVr.png" alt="Max, low & Average NAV">
+<figure>
+    <figcaption class="text-centered">
+        <h2 class="mr-top">Net Asset Value</h2>
+        <p>From: <a href="http://ibindex.se/ibi/#/company/VNV" target="_blank">Ibindex.se</a></p>
+    </figcaption>
+    <img src="https://i.imgur.com/HfFhNVr.png" alt="Max, low & Average NAV">
+</figure>
 
 <br>
 <p>

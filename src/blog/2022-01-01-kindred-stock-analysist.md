@@ -1,14 +1,22 @@
 ---
-title: My First Article
-author: Kevin Powell
+title: Kindred Stock Analysis
+author: Albini
 date: 2022-01-01
-tags: ["post", "featured"]
-image: https://images.unsplash.com/photo-1558090265-89855e03c9fb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=873&q=80
-imageAlt: This is a test
+tags: ["post", "featured", "stock", "analysis"]
+image: https://upload.wikimedia.org/wikipedia/commons/4/45/Kindredgroup_logo.jpg
+imageAlt: Kindred Group Logo
 description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis accusantium sit illo neque rem omnis quaerat, nam similique vitae delectus ad magni vel quo maxime, magnam placeat. Reprehenderit, distinctio aliquam?
+keywords: gambling company, high growth, stock, company
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Risus commodo viverra maecenas accumsan lacus vel. Donec ultrices tincidunt arcu non sodales. Mattis rhoncus urna neque viverra justo nec ultrices dui sapien. Pretium quam vulputate dignissim suspendisse in est. Lobortis mattis aliquam faucibus purus in massa tempor nec. Elit ullamcorper dignissim cras tincidunt lobortis feugiat vivamus at augue. Quis ipsum suspendisse ultrices gravida dictum fusce ut placerat. Vulputate eu scelerisque felis imperdiet proin. Nisl nisi scelerisque eu ultrices.
+
+<iframe seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR5uLLAFQe_DMRauHKpv9DgK1mP0SaAjps7_YvyiHwoo_B0cDcK0e_-MoPSSO0ZVimUmKBG4dVPNGZ-/pubchart?oid=929293869&amp;format=interactive"></iframe>
+
+<div class="phone-or-tablet">
+    <iframe class="tablet" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR5uLLAFQe_DMRauHKpv9DgK1mP0SaAjps7_YvyiHwoo_B0cDcK0e_-MoPSSO0ZVimUmKBG4dVPNGZ-/pubchart?oid=1087617479&amp;format=interactive"></iframe>
+    <div class="phone">Phone</div>
+</div>
 
 Enim nulla aliquet porttitor lacus luctus accumsan. Vulputate mi sit amet mauris commodo quis. Accumsan in nisl nisi scelerisque eu ultrices vitae auctor. Tellus pellentesque eu tincidunt tortor aliquam nulla facilisi cras. Placerat orci nulla pellentesque dignissim. Consequat mauris nunc congue nisi. Nec nam aliquam sem et tortor consequat. Consequat semper viverra nam libero justo laoreet sit amet. Id interdum velit laoreet id donec. Turpis in eu mi bibendum neque. Tincidunt vitae semper quis lectus. Suscipit adipiscing bibendum est ultricies integer quis auctor. Posuere urna nec tincidunt praesent semper. Sagittis id consectetur purus ut faucibus pulvinar elementum. Diam maecenas ultricies mi eget mauris. Nunc mi ipsum faucibus vitae aliquet nec ullamcorper. Dui sapien eget mi proin sed.
 

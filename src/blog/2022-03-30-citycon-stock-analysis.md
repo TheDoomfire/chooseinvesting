@@ -1,11 +1,12 @@
 ---
 title: Citycon Stock Analysis
-author: Kevin Powell
-date: 2022-04-02
-tags: ["post", "featured", "stock"]
+author: Albini
+date: 2022-03-30
+tags: ["post", "featured", "stock", "analysis"]
 image: https://upload.wikimedia.org/wikipedia/commons/8/8a/Kista_Galleria_Entrance_-_oct17.jpg
 imageAlt: Kista galleria
 description: A real estate company that invests mainly in shopping malls is selling so low it's starting to get really interesting.
+keywords: shopping malls, stock, real estate, company, discounted nav, value
 ---
 
 {% include '../_includes/components/warning-investing.njk' %}
@@ -37,12 +38,14 @@ description: A real estate company that invests mainly in shopping malls is sell
     What first sparked my interest was the fact that the stock is trading for far less than the value of their properties. Here is some data from their annual reports.
 </p>
 
-<div class="text-centered">
-    <h2 class="mr-top">EPRA NAV</h2>
-    <p>Year on Year growth</p>
-    <p class="text-light">(Adjusted for current amount of shares) Except for 2021</p>
-</div>
-<img src="https://i.imgur.com/QVRlQaL.png" alt="EPRA NAV YoY Citycon" class="zoom">
+<figure>
+    <figcaption class="text-centered">
+        <h2 class="mr-top">EPRA NAV</h2>
+        <p>Year on Year growth</p>
+        <p class="text-light">(Adjusted for current amount of shares) Except for 2021</p>
+    </figcaption>
+    <img src="https://i.imgur.com/QVRlQaL.png" alt="EPRA NAV YoY Citycon" class="zoom">
+</figure>
 
 <p>
     <a href="https://quoteddata.com/glossary/epra-nav/" target="_blank">EPRA NAV</a>
@@ -74,13 +77,14 @@ description: A real estate company that invests mainly in shopping malls is sell
     I believe it's harder to say how much, let's say, an education will be worth, and easier to say how much a car is worth (and you can cash in on it sooner).
 </p>
 
-<div class="text-centered">
-    <h2 class="mr-top">Net Rental Icome</h2>
-    <p>Year on Year growth</p>
-    <p class="text-light">(Adjusted for current amount of shares)</p>
-</div>
-
-<img src="https://i.imgur.com/eog2aTj.png" alt="Citycon Net Renatl Icome 2016-2022" class="zoom">
+<figure>
+    <figcaption class="text-centered">
+        <h2 class="mr-top">Net Rental Icome</h2>
+        <p>Year on Year growth</p>
+        <p class="text-light">(Adjusted for current amount of shares)</p>
+    </figcaption>
+    <img src="https://i.imgur.com/eog2aTj.png" alt="Citycon Net Renatl Icome 2016-2022" class="zoom">
+</figure>
 
 <br>
 <p>
@@ -131,12 +135,14 @@ description: A real estate company that invests mainly in shopping malls is sell
     I don’t believe growth is really necessary IF you buy it cheaply enough and the company is pretty stable.
 </p>
 
-<div class="text-centered">
-    <h2 class="mr-top">Dividends</h2>
-    <p>Year on Year growth</p>
-    <p class="text-light">(per share)</p>
-</div>
-<img src="https://i.imgur.com/pU7pLvy.png" alt="Citycon Oyj Dividend 2012-2021 YoY" class="zoom">
+<figure>
+    <figcaption class="text-centered">
+        <h2 class="mr-top">Dividends</h2>
+        <p>Year on Year growth</p>
+        <p class="text-light">(per share)</p>
+    </figcaption>
+    <img src="https://i.imgur.com/pU7pLvy.png" alt="Citycon Oyj Dividend 2012-2021 YoY" class="zoom">
+</figure>
 
 <p>
     Dividends have been decreasing, but solely looking at the dividend ratio is not enough.
@@ -158,12 +164,13 @@ description: A real estate company that invests mainly in shopping malls is sell
     I don’t  really know what they do with the rest of the 58%, but I'm guessing very long-term investments and maybe some repayment of loans.
 </p>
 
-<div class="text-centered">
-    <h2 class="mr-top">Equity Ratio</h2>
-    <p>Year on Year growth</p>
-</div>
-
-<img src="https://i.imgur.com/I94stnN.png" alt="Citycon Oyj Equity Ratio 2012-2021 YoY" class="zoom">
+<figure>
+    <figcaption class="text-centered">
+        <h2 class="mr-top">Equity Ratio</h2>
+        <p>Year on Year growth</p>
+    </figcaption>
+    <img src="https://i.imgur.com/I94stnN.png" alt="Citycon Oyj Equity Ratio 2012-2021 YoY" class="zoom">
+</figure>
 
 <br>
 <p>

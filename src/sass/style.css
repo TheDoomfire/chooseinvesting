@@ -39,6 +39,15 @@ img {
      object-fit: cover;
 }
 
+iframe {
+  width: 100%;
+  height: 371px;
+}
+
+figcaption {
+  margin-bottom: 1em;
+}
+
 ::-moz-selection {
   background: #05b105;
   color: white;
@@ -59,6 +68,17 @@ hr.style-one {
   height: 1px;
   background: #333;
   background-image: linear-gradient(to right, #ccc, #333, #ccc);
+}
+
+.responsive-wrapper {
+  position: relative;
+  height: 0;
+}
+
+#Iframe-Training-Sheet {
+  max-width: 600px;
+  max-height: 100%;
+  overflow: hidden;
 }
 
 body {
@@ -286,6 +306,18 @@ h4 {
 }
 .tooltip:hover text {
   visibility: visible;
+}
+
+.screen-size .tablet {
+  display: none;
+}
+@media (min-width: 600px) {
+  .screen-size .phone {
+    display: none;
+  }
+  .screen-size .tablet {
+    display: block;
+  }
 }
 
 .snippet-basic h2, .snippet-featured h2, .snippet h2, .snippet-basic h3, .snippet-featured h3, .snippet h3 {

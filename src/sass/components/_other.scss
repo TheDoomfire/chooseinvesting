@@ -104,3 +104,18 @@ align-items: center;
         visibility: visible;
     }
 }
+
+.screen-size {
+    .tablet {
+        display: none;
+    }
+
+    @include screen(phone) {
+        .phone {
+            display: none;
+        }
+        .tablet {
+            display: block;
+        }
+    }
+}
