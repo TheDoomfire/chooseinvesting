@@ -326,8 +326,8 @@ h4 {
 .snippet-basic li, .snippet-featured li, .snippet li {
   margin-top: 3em;
 }
-.snippet-basic li:first-child, .snippet-featured li:first-child, .snippet li:first-child {
-  margin: 0;
+.snippet-basic img, .snippet-featured img, .snippet img {
+  min-height: 14em;
 }
 
 .snippet img {
@@ -517,8 +517,8 @@ article p :first-child {
   margin-top: 5em;
 }
 .posts h1 {
-  margin-top: 0.5em;
-  margin-bottom: 0.2em;
+  margin-top: 1em;
+  margin-bottom: 0.3em;
 }
 .posts .container {
   margin: 0 auto;
@@ -527,6 +527,23 @@ article p :first-child {
 }
 .posts img:first-child {
   max-height: 20em;
+}
+.posts ul {
+  margin-top: 3em;
+  padding-left: 2em;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5em;
+}
+.posts ul li {
+  list-style-type: square;
+}
+.posts ul a {
+  color: inherit;
+  font-size: 1.5rem;
+}
+.posts ul a:hover {
+  color: #478B8F;
 }
 
 .post-title p {

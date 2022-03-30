@@ -11,30 +11,32 @@ tags:
   - featured
 keywords: stock, gambling, growth stock, investment, analysis, dividend stock,
   stock chart, company
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Kindredgroup_logo.jpg/375px-Kindredgroup_logo.jpg
+image: https://images.unsplash.com/photo-1592398191627-25b41eeaa398?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80
 imageAlt: Kindred Group Logo
 ---
+
+{% include '../_includes/components/warning-investing.njk' %}
+
+<br>
 <p>
-
 Kindred has grown massively but could still be traded for rather cheap as we will see in this analysis.
-
 </p>
 
 <ul>
 
-<li><a href="#about-kindred">About Kindred & Cons</li>
+<li><a href="#about-kindred">About Kindred & Cons</a></li>
 
-<li><a href="#revenue">Net Revenue</li>
+<li><a href="#revenue">Net Revenue</a></li>
 
-<li><a href="#earnings">Earnings</li>
+<li><a href="#earnings">Earnings</a></li>
 
-<li><a href="#equity">Equity Ratio</li>
+<li><a href="#equity">Equity Ratio</a></li>
 
-<li><a href="#conclusion">Conclusion</li>
+<li><a href="#conclusion">Conclusion</a></li>
 
 </ul>
 
-<h2 id="about-kindred">About Kindred & Cons</h2>
+<h2 class="mr-top" id="about-kindred">About Kindred & Cons</h2>
 
 <br>
 
@@ -90,7 +92,7 @@ Many **funds won’t buy** gamling companies because it flags them as unethical.
 
 <p>Net Revenue / total share</p>
 
-<p class="text-light">YoY from <a href="www.borsdata.se" target="_blank">borsdata.se</a>
+<p class="text-light">YoY from <a href="www.borsdata.se" target="_blank">borsdata.se</a></p>
 
 </figcapture>
 
@@ -100,15 +102,15 @@ Many **funds won’t buy** gamling companies because it flags them as unethical.
 
 <br>
 
-<p>If we look at the chart we see that the revenue has increased on average over 21% or a total of about 583% since 2012.</p>
+<p>If we look at the chart we see that the revenue has increased on average over <span class="text-plus">21%</span> or a total of about <span class="text-plus">683%</span> since 2012.</p>
 
 <br>
 
-<p>And very steadily we can see they have increased their sales **every year.**</p>
+<p>And very steadily we can see they have increased their sales <b>every year.</b></p>
 
 <br>
 
-<p>These returns are not something that’s sustainable because nothing can grow <span class="plus">21%</span> YoY forever without soon conquering the earth.</p>
+<p>These returns are not something that’s sustainable because nothing can grow <span class="text-plus">21%</span> YoY forever without soon conquering the earth.</p>
 
 <br>
 
@@ -140,9 +142,10 @@ Many **funds won’t buy** gamling companies because it flags them as unethical.
 
 <br>
 
-<p>The earnings are **fluctuating a lot** more than the revenue. But a lot better earnings than the revenue because It’s a hell of a lot more important long-term.</p>
+<p>The earnings are <b>fluctuating a lot</b> more than the revenue. But a lot better earnings than the revenue because It’s a hell of a lot more important long-term.</p>
 
-<p>The earnings have been increasing <span class="plus">1000%</span> or a <span class="plus">26%</span> YoY increase. Also very unsustainable. But as we see clearly they have a high profit margin that has been increasing.</p>
+<br>
+<p>The earnings have been increasing <span class="text-plus">1000%</span> or a <span class="text-plus">26%</span> YoY increase. Also very unsustainable. But as we see clearly they have a high profit margin that has been increasing.</p>
 
 <br>
 
@@ -166,11 +169,11 @@ Many **funds won’t buy** gamling companies because it flags them as unethical.
 
 <br>
 
-<p>Kindred Group has grown their revenue by <span class="plus">21%</span> year by year since 2012. Meaning they increase their sales every year and by a very huge amount.</p>
+<p>Kindred Group has grown their revenue by <span class="text-plus">21%</span> year by year since 2012. Meaning they increase their sales every year and by a very huge amount.</p>
 
 <br>
 
-<p>Earnings are fluctuating year to year so not as stable but have been increasing <span class="plus">26%</span> YoY over a 10 year period.</p>
+<p>Earnings are fluctuating year to year so not as stable but have been increasing <span class="text-plus">26%</span> YoY over a 10 year period.</p>
 
 <br>
 
