@@ -55,7 +55,7 @@ keywords: treasure asa, stock, company, discounted nav, value, value investing, 
 </p>
 
 <p>
-    But no additional l<a href=”https://www.investopedia.com/terms/l/leverage.asp” target=”_blank”>leverage</a>. But when you loan money and the underlying asset also has loans it can mean much added risk.
+    But no additional <a href=”https://www.investopedia.com/terms/l/leverage.asp” target=”_blank”>leverage</a>. But when you loan money and the underlying asset also has loans it can mean much added risk.
 </p>
 
 <h2 id="underlyingasset">The Underlying Asset</h2>
@@ -78,7 +78,7 @@ keywords: treasure asa, stock, company, discounted nav, value, value investing, 
 </figure>
 
 <p>
-    Steady increase of sales, corona (2020) hit but not hard at all. 85% total over 10 years or a 6.3% YoY increase. Not the best but stable and clearly growing every year.
+    Steady increase of sales, corona (2020) hit but not hard at all. <span class="text-plus">85%</span> total over 10 years or a <span class="text-plus">6.3%</span> YoY increase. Not the best but stable and clearly growing every year.
 </p>
 
 <figure class="screen-size">
@@ -96,7 +96,7 @@ keywords: treasure asa, stock, company, discounted nav, value, value investing, 
 </p>
 
 <p>
-    57% Increase in 10 years or 4.6% YoY Average. A lot of news talks about 20% you returns are stuff like that and if it’s true if you look only a few years back.
+    <span class="text-plus">57%</span> Increase in 10 years or <span class="text-plus">4.6%</span> YoY Average. A lot of news talks about 20% you returns are stuff like that and if it’s true if you look only a few years back.
 </p>
 
 <p>
@@ -113,7 +113,7 @@ keywords: treasure asa, stock, company, discounted nav, value, value investing, 
     <img class="phone" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRVDFXlJytQKG1gES42t1S7E4bfK9aaO3An8_dpAMyX9CilMh4eNZYcDuMieVFcDVFOY4rbpJU0JobP/pubchart?oid=326709176&amp;format=image" alt="">
 </figure>
 <p>
-    Not any unacceptable number since ever really. 10% in 10 years is not that impressive but seems stable. Not any problems that required adding additional debt.
+    Not any unacceptable number since ever really. <span class="text-plus">10%</span> in 10 years is not that impressive but seems stable. Not any problems that required adding additional debt.
 </p>
 <p>
     The company seems to focus on their growth rather on lowering their debt. And leverage clearly is working and safely for this company.
@@ -126,7 +126,7 @@ keywords: treasure asa, stock, company, discounted nav, value, value investing, 
 </p>
 
 <p>
-    If I add up the cash & cash equivalents, other current financial assets & receivables and divide it by the assets I get about 0.43 meaning at least 43% is somewhat tangible.
+    If I add up the cash & cash equivalents, other current financial assets & receivables and divide it by the assets I get about 0.43 meaning at least <span class="text-plus">43%</span> is somewhat tangible.
 </p>
 
 <p>
@@ -140,7 +140,7 @@ keywords: treasure asa, stock, company, discounted nav, value, value investing, 
 </p>
 
 <p>
-    The underlying asset (Hyundai Glovis) is trading for about 40% less than Treasure is trading for. Which means you essentially buy Hyundai Glovis but at a 40% discount with Treasure.
+    The underlying asset (Hyundai Glovis) is trading for about 40% less than Treasure is trading for. Which means you essentially buy Hyundai Glovis but at a <span class="text-plus">40%</span> discount with Treasure.
 </p>
 
 <p>
@@ -152,11 +152,11 @@ keywords: treasure asa, stock, company, discounted nav, value, value investing, 
 </p>
 
 <p>
-    Hyundai Glovis is not that bad, they have been increasing their revenue steadily every year and about 85% in 10 years total. About 6.3% YoY.
+    Hyundai Glovis is not that bad, they have been increasing their revenue steadily every year and about <span class="text-plus">85%</span> in 10 years total. About <span class="text-plus">6.3%</span> YoY.
 </p>
 
 <p>
-    Their earnings are less impressive with 57% 10year total and 4.6% YoY.
+    Their earnings are less impressive with <span class="text-plus">57%</span> 10year total and <span class="text-plus">4.6%</span> YoY.
 </p>
 
 <p>
