@@ -36,9 +36,7 @@ Kindred has grown massively but could still be traded for rather cheap as we wil
 
 </ul>
 
-<h2 class="mr-top" id="about-kindred">About Kindred & Cons</h2>
-
-<br>
+<h2 id="about-kindred">About Kindred & Cons</h2>
 
 <p>
 
@@ -46,15 +44,11 @@ It’s a gambling company and seen by many as some sort of drug and is being **h
 
 </p>
 
-<br>
-
 <p>
 
 There is an **extremely high** probability that there will be more and harder regulations on gambling. And it’s illegal in several countries.
 
 </p>
-
-<br>
 
 <p>
 
@@ -62,21 +56,16 @@ Gambling is highly addictive and that’s a *fact.*
 
 </p>
 
-<br>
-
 <p>
 
 Kindred and other companies in the gambling business could lose their licences in an entity country making them lose all the revenue for that country.
 
 </p>
-
-<br><p>
+<p>
 
 And theoretically could lose many countries at the same time making them lose huge portions of their revenue and potential growth.
 
 </p>
-
-<br>
 
 <p>
 
@@ -86,41 +75,27 @@ Many **funds won’t buy** gamling companies because it flags them as unethical.
 
 <figure>
 
-<figcapture class="text-centered">
+<figcaption class="text-centered">
 
-<h2 class="mr-top" id="revenue">Net Revenue</h2>
+  <h2 id="revenue">Net Revenue</h2>
+  <p>Net Revenue / total share</p>
+  <p class="text-light">YoY from <a href="www.borsdata.se" target="_blank">borsdata.se</a></p>
 
-<p>Net Revenue / total share</p>
-
-<p class="text-light">YoY from <a href="www.borsdata.se" target="_blank">borsdata.se</a></p>
-
-</figcapture>
+</figcaption>
 
 <iframe seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTZ6q_7lsfgYji-CUQAKaYxp87WSM9Gk8QT04MVgoJKYI9egNezBpvFnp667fKEtTvlFegjwOBVow3o/pubchart?oid=690255900&amp;format=interactive"></iframe>
 
 </figure>
 
-<br>
-
 <p>If we look at the chart we see that the revenue has increased on average over <span class="text-plus">21%</span> or a total of about <span class="text-plus">683%</span> since 2012.</p>
-
-<br>
 
 <p>And very steadily we can see they have increased their sales <b>every year.</b></p>
 
-<br>
-
 <p>These returns are not something that’s sustainable because nothing can grow <span class="text-plus">21%</span> YoY forever without soon conquering the earth.</p>
-
-<br>
 
 <p>So they have had a big growth but someday has to slow down and eventually maybe even shrink.</p>
 
-<br>
-
 <p>The big question is can they continue to grow and for how long?</p>
-
-<br>
 
 <p>If we're gonna go from this chart I’d say they will continue to grow for the next 10 years but not as fast so I’m going to assume they will at least have a 10% YoY average growth for the next years to come and probably more but maybe less.</p>
 
@@ -128,11 +103,11 @@ Many **funds won’t buy** gamling companies because it flags them as unethical.
 
 <figcaption class="text-centered">
 
-<h2 class="mr-top" id="earnings">Earnings</h2>
+  <h2 id="earnings">Earnings</h2>
 
-<p>Earning / total shares YoY</p>
+  <p>Earning / total shares YoY</p>
 
-<p class="text-light">From <a href="www.borsdata.se" target="_blank">borsdata.se</a>
+  <p class="text-light">From <a href="www.borsdata.se" target="_blank">borsdata.se</a>
 
 </figcaption>
 
@@ -140,57 +115,32 @@ Many **funds won’t buy** gamling companies because it flags them as unethical.
 
 </figure>
 
-<br>
-
 <p>The earnings are <b>fluctuating a lot</b> more than the revenue. But a lot better earnings than the revenue because It’s a hell of a lot more important long-term.</p>
 
-<br>
 <p>The earnings have been increasing <span class="text-plus">1000%</span> or a <span class="text-plus">26%</span> YoY increase. Also very unsustainable. But as we see clearly they have a high profit margin that has been increasing.</p>
-
-<br>
 
 <p>The fluctuations are probably investments and other stuff that has clearly worked because of profits growing even more than the revenue.</p>
 
-<br>
-
 <p>There is a very high probability that earnings will have a high drop and scare share owners in selling their holdings. But if we hold them long term we will probably see an increase in profits in the future.</p>
-
-<br>
 
 <p>Also likely that they can’t keep up these earnings because 26% YoY is clearly way too much. Just likely more of a slow decline making long-term shareholders still happy and earnings still increasing.</p>
 
-<h2 class="mr-top" id="equity">Equity Ratio</h2>
-
-<br>
+<h2 id="equity">Equity Ratio</h2>
 
 <p>Over 50% own equity making is looking good for a company making these kinds of money. Pretty sustainable.</p>
 
-<h2 class="mr-top" id="conclusion">Conclusion</h2>
-
-<br>
+<h2 id="conclusion">Conclusion</h2>
 
 <p>Kindred Group has grown their revenue by <span class="text-plus">21%</span> year by year since 2012. Meaning they increase their sales every year and by a very huge amount.</p>
 
-<br>
-
 <p>Earnings are fluctuating year to year so not as stable but have been increasing <span class="text-plus">26%</span> YoY over a 10 year period.</p>
-
-<br>
 
 <p>With fluctuations comes fear meaning that if the earnings drop by a high margin, which is very likely according to the earnings chart. People will panic sell causing a huge drop.</p>
 
-<br>
-
 <p>Both these numbers are really amazing but not very stable because a company can’t grow that much every year forever, it has to slow down at some point.</p>
-
-<br>
 
 <p>The company has over 50% own equity which makes it extremely likely that the company will endure higher interest rates and can survive lower earnings.</p>
 
-<br>
-
 <p>Many funds won’t touch gambling companies such as Kindred Group because it will increase their “possible unethical” rating.</p>
-
-<br>
 
 <p>I believe this could be a good long-term investment if you can hold it for years to come.</p>
