@@ -1,5 +1,5 @@
 ---
-title: Treasure ASA
+title: Treasure ASA Analysis
 author: Albini
 date: 2022-03-31
 tags: ["post", "stock", "analysis"]
@@ -174,6 +174,7 @@ keywords: treasure asa, stock, company, discounted nav, value, value investing, 
 <p>
     Is the P/E 9? It means you get it for 5.4. And that’s about what the P/E is now.
 </p>
+
 <p>
     The dividend yield that Treasure is providing is rather high 6%+ but half of that is from the dividends from Hyundai Glovis.
 </p>

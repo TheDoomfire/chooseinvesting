@@ -22,7 +22,7 @@ a {
   color: #478B8F;
 }
 a:hover {
-  color: #05b105;
+  color: rgb(5, 177, 5);
 }
 
 li {
@@ -49,12 +49,12 @@ figcaption {
 }
 
 ::-moz-selection {
-  background: #05b105;
+  background: rgb(5, 177, 5);
   color: white;
 }
 
 ::selection {
-  background: #05b105;
+  background: rgb(5, 177, 5);
   color: white;
 }
 
@@ -147,7 +147,7 @@ h4 {
   border-radius: 8px;
 }
 .btn:hover {
-  background-color: #05b105;
+  background-color: rgb(5, 177, 5);
   color: white;
 }
 @media (min-width: 1100px) {
@@ -201,7 +201,7 @@ h4 {
   top: 0;
   width: 100%;
   height: 100%;
-  background: linear-gradient(0deg, #00000088 30%, #ffffff44 100%);
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.5333333333) 30%, rgba(255, 255, 255, 0.2666666667) 100%);
   z-index: 1;
 }
 .hero-img img {
@@ -225,7 +225,7 @@ h4 {
 }
 
 .text-box-2 {
-  background-color: #dad6d6;
+  background-color: rgb(218, 214, 214);
   color: black;
 }
 
