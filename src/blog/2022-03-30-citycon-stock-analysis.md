@@ -142,7 +142,7 @@ keywords: shopping malls, stock, real estate, company, discounted nav, value
 </p>
 
 <p>
-    I don’t  really know what they do with the rest of the 58%, but I'm guessing very long-term investments and maybe some repayment of loans.
+    Other than <a href="https://www.investopedia.com/terms/b/buyback.asp" target="_blank">buybacks</a> I don’t  really know what they do with the rest of the 58%, but I'm guessing very long-term investments and maybe some repayment of loans.
 </p>
 
 <figure>
