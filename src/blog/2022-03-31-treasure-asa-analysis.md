@@ -3,16 +3,16 @@ title: Treasure ASA Analysis
 author: Albini
 date: 2022-03-31
 tags: ["post", "stock", "analysis"]
-image: https://www.hyundaimotorgroup.com/image/upload/asset_library/MDA00000000000008129/28b31201508f4ebd87ea522a05bbb4e8.jpg
+image: https://www.vesselfinder.com/images/media/20200903/81284-976b3446f77ed6169b958c0d569feae3.jpg
 imageAlt: Hyundai Glovis Boat
 description: An investment company with only one holding that could be very cheap.
-keywords: treasure asa, stock, company, discounted nav, value, value investing, shipping, cheap stock, Analysis
+keywords: treasure asa, stock, company, discounted nav, value investing, shipping, cheap stock, stock analysis, stock dividend, share fundamental analysis
 ---
 
 {% include '../_includes/components/warning-investing.njk' %}
 
 <p>
-    Treasure only has one holding (<a href=”https://finance.yahoo.com/quote/086280.KS/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAMHcjEbndZjRoeyGPc25e7Xwk3hGBuBoqfDdZKF2bbjZ9ytPxhurgMmttJ3pbbYQa_O1NThQwnjGBTFUY4scF5ZZKjhMwm_KstEeAC3lOVbcJj_iUX94NZ-JFIRG1Ap94CdyFExHoo52Ub64ULcmH1RFSZGzT6_Ta3-2a5rJTCpL” target=”_blank”>Hyundai Glovis</a>) and that’s making us not receiving the safety of <a href=”https://www.investopedia.com/terms/d/diversification.asp” target=”_blank>diversification</a>
+    Treasure only has one holding <a href="https://www.google.com/finance/quote/086280:KRX?sa=X&ved=2ahUKEwiK-Iq47_z2AhWMv4sKHcifDEUQ3ecFegQIOxAi" target="_blank">Hyundai Glovis</a> and that’s making us not receiving the safety of <a href=”https://www.investopedia.com/terms/d/diversification.asp” target=”_blank”>diversification</a>
 </p>
 
 <p>

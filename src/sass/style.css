@@ -19,10 +19,10 @@ dd {
 a {
   text-decoration: none;
   font-weight: 500;
-  color: #478B8F;
+  color: #11823b;
 }
 a:hover {
-  color: rgb(5, 177, 5);
+  color: #48bf53;
 }
 
 li {
@@ -49,12 +49,12 @@ figcaption {
 }
 
 ::-moz-selection {
-  background: rgb(5, 177, 5);
+  background: #48bf53;
   color: white;
 }
 
 ::selection {
-  background: rgb(5, 177, 5);
+  background: #48bf53;
   color: white;
 }
 
@@ -127,7 +127,7 @@ h4 {
   color: inherit;
 }
 .title span {
-  color: #478B8F;
+  color: #11823b;
 }
 
 .copyright {
@@ -138,7 +138,7 @@ h4 {
 }
 
 .btn {
-  background-color: #478B8F;
+  background-color: #11823b;
   width: 100%;
   color: white;
   font-size: 1.5rem;
@@ -147,7 +147,7 @@ h4 {
   border-radius: 8px;
 }
 .btn:hover {
-  background-color: rgb(5, 177, 5);
+  background-color: #48bf53;
   color: white;
 }
 @media (min-width: 1100px) {
@@ -184,7 +184,7 @@ h4 {
 }
 
 .hero-special {
-  background-color: #478B8F;
+  background-color: #11823b;
 }
 
 .hero-img {
@@ -279,7 +279,7 @@ h4 {
 }
 
 .color-special {
-  color: #478B8F;
+  color: #11823b;
 }
 
 .mr-top {
@@ -404,7 +404,7 @@ h4 {
 }
 
 footer {
-  background-color: #478B8F;
+  background-color: #11823b;
   color: white;
   padding: 3em;
 }
@@ -549,7 +549,7 @@ article p :first-child {
   font-size: 1.5rem;
 }
 .posts ul a:hover {
-  color: #478B8F;
+  color: #11823b;
 }
 .posts figure figcaption p {
   margin-top: 0.3em;

@@ -9,8 +9,8 @@ tags:
   - stock
   - analysis
   - featured
-keywords: stock, gambling, growth stock, investment, analysis, dividend stock,
-  stock chart, company
+keywords: stock, gambling, growth stock, investment, stock analysis, dividend stock,
+  stock chart, company, fundamental stock charts, share fundamental analysis
 image: https://images.unsplash.com/photo-1592398191627-25b41eeaa398?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80
 imageAlt: Kindred Group Logo
 ---
@@ -79,7 +79,7 @@ Many **funds won’t buy** gamling companies because it flags them as unethical.
 
   <h2 id="revenue">Net Revenue</h2>
   <p>Net Revenue / total share</p>
-  <p class="text-light">YoY from <a href="www.borsdata.se" target="_blank">borsdata.se</a></p>
+  <p class="text-light">YoY from <a href="https://borsdata.se/" target="_blank">borsdata.se</a></p>
 
 </figcaption>
 

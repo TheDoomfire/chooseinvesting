@@ -6,7 +6,7 @@ tags: ["post", "featured", "stock", "analysis"]
 image: https://upload.wikimedia.org/wikipedia/commons/8/8a/Kista_Galleria_Entrance_-_oct17.jpg
 imageAlt: Kista galleria
 description: A real estate company that invests mainly in shopping malls is selling so low it's starting to get really interesting.
-keywords: shopping malls, stock, real estate, company, discounted nav, value
+keywords: shopping malls, stock, real estate, company, discounted nav, value investing, stock analysis, dividend stock, fundamental stock charts, quarterly dividend, share fundamental analysis
 ---
 
 {% include '../_includes/components/warning-investing.njk' %}
