@@ -74,7 +74,7 @@ keywords: treasure asa, stock, company, discounted nav, value investing, shippin
         <p class="text-light">From the annual reports</p>
     </figcaption>
     <iframe class="tablet" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRVDFXlJytQKG1gES42t1S7E4bfK9aaO3An8_dpAMyX9CilMh4eNZYcDuMieVFcDVFOY4rbpJU0JobP/pubchart?oid=1416238548&amp;format=interactive"></iframe>
-    <img class="phone" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRVDFXlJytQKG1gES42t1S7E4bfK9aaO3An8_dpAMyX9CilMh4eNZYcDuMieVFcDVFOY4rbpJU0JobP/pubchart?oid=1416238548&amp;format=image" alt="Hyundai Glovis Sales 2012-2021 Chart">
+    <img loading="lazy" class="phone" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRVDFXlJytQKG1gES42t1S7E4bfK9aaO3An8_dpAMyX9CilMh4eNZYcDuMieVFcDVFOY4rbpJU0JobP/pubchart?oid=1416238548&amp;format=image" alt="Hyundai Glovis Sales 2012-2021 Chart">
 </figure>
 
 <p>
@@ -88,7 +88,7 @@ keywords: treasure asa, stock, company, discounted nav, value investing, shippin
         <p class="text-light">From the annual reports</p>
     </figcaption>
     <iframe class="tablet" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRVDFXlJytQKG1gES42t1S7E4bfK9aaO3An8_dpAMyX9CilMh4eNZYcDuMieVFcDVFOY4rbpJU0JobP/pubchart?oid=127101071&amp;format=interactive"></iframe>
-    <img class="phone" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRVDFXlJytQKG1gES42t1S7E4bfK9aaO3An8_dpAMyX9CilMh4eNZYcDuMieVFcDVFOY4rbpJU0JobP/pubchart?oid=127101071&amp;format=image" alt="Hyundai Glovis Net Profits 2012-2021 Chart">
+    <img loading="lazy" class="phone" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRVDFXlJytQKG1gES42t1S7E4bfK9aaO3An8_dpAMyX9CilMh4eNZYcDuMieVFcDVFOY4rbpJU0JobP/pubchart?oid=127101071&amp;format=image" alt="Hyundai Glovis Net Profits 2012-2021 Chart">
 </figure>
 
 <p>
@@ -110,7 +110,7 @@ keywords: treasure asa, stock, company, discounted nav, value investing, shippin
         <p class="text-light">From the annual reports</p>
     </figcaption>
     <iframe class="tablet" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRVDFXlJytQKG1gES42t1S7E4bfK9aaO3An8_dpAMyX9CilMh4eNZYcDuMieVFcDVFOY4rbpJU0JobP/pubchart?oid=326709176&amp;format=interactive"></iframe>
-    <img class="phone" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRVDFXlJytQKG1gES42t1S7E4bfK9aaO3An8_dpAMyX9CilMh4eNZYcDuMieVFcDVFOY4rbpJU0JobP/pubchart?oid=326709176&amp;format=image" alt="">
+    <img loading="lazy" class="phone" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRVDFXlJytQKG1gES42t1S7E4bfK9aaO3An8_dpAMyX9CilMh4eNZYcDuMieVFcDVFOY4rbpJU0JobP/pubchart?oid=326709176&amp;format=image" alt="">
 </figure>
 <p>
     Not any unacceptable number since ever really. <span class="text-plus">10%</span> in 10 years is not that impressive but seems stable. Not any problems that required adding additional debt.

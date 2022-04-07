@@ -3,7 +3,7 @@
             {%- for post in collections.featured | reverse -%}
             <li>
                 <article>
-                    <img src="{{ post.data.image }}" alt="{{ post.data.imageAlt }}">
+                    <img loading="lazy" src="{{ post.data.image }}" alt="{{ post.data.imageAlt }}">
                     <div class="content">
                         <h3>{{ post.data.title }}</h3>
                         <p>Last updated on <span>{{ post.date | postDate }}</span></p>

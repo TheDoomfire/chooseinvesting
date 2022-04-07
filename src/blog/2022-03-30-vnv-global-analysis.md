@@ -28,7 +28,7 @@ keywords: investment company, stock, stock bargain, nav discount, value investme
         <h2>Diversification</h2>
         <p>From the 2021 annual report</p>
     </figcaption>
-    <img class="phone" src="https://i.imgur.com/2NQyZfd.png" alt="Chart over VNV Globas holdings" class="zoom">
+    <img loading="lazy" class="phone" src="https://i.imgur.com/2NQyZfd.png" alt="Chart over VNV Globas holdings" class="zoom">
     <iframe class="tablet" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR5uLLAFQe_DMRauHKpv9DgK1mP0SaAjps7_YvyiHwoo_B0cDcK0e_-MoPSSO0ZVimUmKBG4dVPNGZ-/pubchart?oid=1087617479&amp;format=interactive"></iframe>
 </figure>
 
@@ -50,7 +50,7 @@ keywords: investment company, stock, stock bargain, nav discount, value investme
         <h2>Net Asset Value</h2>
         <p>From: <a href="http://ibindex.se/ibi/#/company/VNV" target="_blank">Ibindex.se</a></p>
     </figcaption>
-    <img src="https://i.imgur.com/HfFhNVr.png" alt="Max, low & Average NAV">
+    <img loading="lazy" src="https://i.imgur.com/HfFhNVr.png" alt="Max, low & Average NAV">
 </figure>
 
 <p>

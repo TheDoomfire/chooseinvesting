@@ -17,7 +17,7 @@ keywords: investing, stocks, cheap, value
     {%- for post in collections.post | reverse -%}
     <li>
         <article>
-            <img src="{{ post.data.image }}" alt="{{ post.data.imageAlt }}">
+            <img loading="lazy" src="{{ post.data.image }}" alt="{{ post.data.imageAlt }}">
             <div class="content">
                 <h2>{{ post.data.title }}</h2>
                 <p>Last updated on <span>{{ post.date | postDate }}</span></p>

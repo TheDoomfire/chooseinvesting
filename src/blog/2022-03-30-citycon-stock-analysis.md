@@ -41,7 +41,7 @@ keywords: shopping malls, stock, real estate, company, discounted nav, value inv
         <p>Year on Year growth</p>
         <p class="text-light">(Adjusted for current amount of shares) Except for 2021</p>
     </figcaption>
-    <img src="https://i.imgur.com/QVRlQaL.png" alt="EPRA NAV YoY Citycon" class="zoom">
+    <img loading="lazy" src="https://i.imgur.com/QVRlQaL.png" alt="EPRA NAV YoY Citycon" class="zoom">
 </figure>
 
 <p>
@@ -76,7 +76,7 @@ keywords: shopping malls, stock, real estate, company, discounted nav, value inv
         <p>Year on Year growth</p>
         <p class="text-light">(Adjusted for current amount of shares)</p>
     </figcaption>
-    <img src="https://i.imgur.com/eog2aTj.png" alt="Citycon Net Renatl Icome 2016-2022" class="zoom">
+    <img loading="lazy" src="https://i.imgur.com/eog2aTj.png" alt="Citycon Net Renatl Icome 2016-2022" class="zoom">
 </figure>
 
 <p>
@@ -125,7 +125,7 @@ keywords: shopping malls, stock, real estate, company, discounted nav, value inv
         <p>Year on Year growth</p>
         <p class="text-light">(per share)</p>
     </figcaption>
-    <img src="https://i.imgur.com/pU7pLvy.png" alt="Citycon Oyj Dividend 2012-2021 YoY" class="zoom">
+    <img loading="lazy" src="https://i.imgur.com/pU7pLvy.png" alt="Citycon Oyj Dividend 2012-2021 YoY" class="zoom">
 </figure>
 
 <p>
@@ -150,7 +150,7 @@ keywords: shopping malls, stock, real estate, company, discounted nav, value inv
         <h2>Equity Ratio</h2>
         <p>Year on Year growth</p>
     </figcaption>
-    <img src="https://i.imgur.com/I94stnN.png" alt="Citycon Oyj Equity Ratio 2012-2021 YoY" class="zoom">
+    <img loading="lazy" src="https://i.imgur.com/I94stnN.png" alt="Citycon Oyj Equity Ratio 2012-2021 YoY" class="zoom">
 </figure>
 
 <p>
