@@ -3,7 +3,7 @@ title: Citycon Stock Analysis
 author: Albini
 date: 2022-03-30
 tags: ["post", "featured", "stock", "analysis"]
-image: https://upload.wikimedia.org/wikipedia/commons/8/8a/Kista_Galleria_Entrance_-_oct17.jpg
+image: https://i.imgur.com/jbL9B4u.jpeg
 imageAlt: Kista galleria
 description: A real estate company that invests mainly in shopping malls is selling so low it's starting to get really interesting.
 keywords: shopping malls, stock, real estate, company, discounted nav, value investing, stock analysis, dividend stock, fundamental stock charts, quarterly dividend, share fundamental analysis

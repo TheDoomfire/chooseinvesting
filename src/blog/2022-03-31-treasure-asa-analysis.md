@@ -3,7 +3,7 @@ title: Treasure ASA Analysis
 author: Albini
 date: 2022-03-31
 tags: ["post", "stock", "analysis"]
-image: https://www.vesselfinder.com/images/media/20200903/81284-976b3446f77ed6169b958c0d569feae3.jpg
+image: https://i.imgur.com/wP5gRJo.jpeg
 imageAlt: Hyundai Glovis Boat
 description: An investment company with only one holding that could be very cheap.
 keywords: treasure asa, stock, company, discounted nav, value investing, shipping, cheap stock, stock analysis, stock dividend, share fundamental analysis
