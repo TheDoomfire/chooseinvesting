@@ -83,7 +83,7 @@ Many **funds won’t buy** gamling companies because it flags them as unethical.
 
 </figcaption>
 
-<iframe seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTZ6q_7lsfgYji-CUQAKaYxp87WSM9Gk8QT04MVgoJKYI9egNezBpvFnp667fKEtTvlFegjwOBVow3o/pubchart?oid=690255900&amp;format=interactive"></iframe>
+<iframe loading="lazy" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTZ6q_7lsfgYji-CUQAKaYxp87WSM9Gk8QT04MVgoJKYI9egNezBpvFnp667fKEtTvlFegjwOBVow3o/pubchart?oid=690255900&amp;format=interactive"></iframe>
 
 </figure>
 
@@ -111,7 +111,7 @@ Many **funds won’t buy** gamling companies because it flags them as unethical.
 
 </figcaption>
 
-<iframe seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTZ6q_7lsfgYji-CUQAKaYxp87WSM9Gk8QT04MVgoJKYI9egNezBpvFnp667fKEtTvlFegjwOBVow3o/pubchart?oid=1231751740&amp;format=interactive"></iframe>
+<iframe loading="lazy" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTZ6q_7lsfgYji-CUQAKaYxp87WSM9Gk8QT04MVgoJKYI9egNezBpvFnp667fKEtTvlFegjwOBVow3o/pubchart?oid=1231751740&amp;format=interactive"></iframe>
 
 </figure>
 
