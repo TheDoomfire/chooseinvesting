@@ -8,6 +8,7 @@ image: https://i.imgur.com/jbL9B4u.jpeg
 imageAlt: Kista galleria
 description: A real estate company that invests mainly in shopping malls is selling so low it's starting to get really interesting.
 keywords: shopping malls, stock, real estate, company, discounted nav, value investing, stock analysis, dividend stock, fundamental stock charts, quarterly dividend, share fundamental analysis
+canonical: blog/2022-03-30-citycon-stock-analysis/
 ---
 
 {% include '../_includes/components/warning-investing.njk' %}

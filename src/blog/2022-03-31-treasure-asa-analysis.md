@@ -8,6 +8,7 @@ image: https://i.imgur.com/wP5gRJo.jpeg
 imageAlt: Hyundai Glovis Boat
 description: An investment company with only one holding that could be very cheap.
 keywords: treasure asa, stock, company, discounted nav, value investing, shipping, cheap stock, stock analysis, stock dividend, share fundamental analysis
+canonical: blog/2022-03-31-treasure-asa-analysis/
 ---
 
 {% include '../_includes/components/warning-investing.njk' %}

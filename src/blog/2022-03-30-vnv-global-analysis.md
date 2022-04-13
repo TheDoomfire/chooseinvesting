@@ -8,6 +8,7 @@ image: https://www.paretosec.se/admin/public/getimage.ashx?Image=/Files/Files/VN
 imageAlt: VNV Global
 description: Is an investment company that’s investing in mostly unlisted companies. And since the war in Ukraine people have been selling it like crazy.
 keywords: investment company, stock, stock bargain, nav discount, value investment, cheap stock, stock analysis, fundamental stock charts, share fundamental analysis
+canonical: blog/2022-03-30-vnv-global-analysis/
 ---
 
 {% include '../_includes/components/warning-investing.njk' %}

@@ -14,6 +14,7 @@ keywords: stock, gambling, growth stock, investment, stock analysis, dividend st
   stock chart, company, fundamental stock charts, share fundamental analysis
 image: https://images.unsplash.com/photo-1592398191627-25b41eeaa398?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80
 imageAlt: Kindred Group Logo
+canonical: blog/2022-03-30-kindred-group-analysis/
 ---
 
 {% include '../_includes/components/warning-investing.njk' %}
