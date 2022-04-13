@@ -3,3 +3,4 @@ Disallow: /admin/
 Disallow: /sass/
 Disallow: /scripts/
 Disallow: /about/
+Disallow: /blog/index.html
