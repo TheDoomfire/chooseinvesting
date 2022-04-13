@@ -8,7 +8,7 @@ image: https://images.unsplash.com/photo-1543286386-713bdd548da4?ixlib=rb-1.2.1&
 imageAlt: Paper Chart
 description: Fundamental analysis is the first step toward value investing. Fundamental to know if you wish to get somewhat serious with purchasing stocks.
 keywords: stock, company, value investing, cheap stock, stock analysis, stock dividend, share fundamental analysis
-canonical: blog/2022-04-13-basics-of-fundamental-analysis
+canonical: blog/2022-04-13-basics-of-fundamental-analysis/
 ---
  
 The whole point is more or less to understand the company's intrinsic value.
