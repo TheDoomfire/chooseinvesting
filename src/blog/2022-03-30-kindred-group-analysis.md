@@ -4,6 +4,7 @@ description: A gambling company that’s been consistently growing but has high
   fluctuations and disliked by funds because of gambling seen as unethical.
 author: Albini
 date: 2022-03-30T18:20:09.421Z
+type: article
 tags:
   - post
   - stock

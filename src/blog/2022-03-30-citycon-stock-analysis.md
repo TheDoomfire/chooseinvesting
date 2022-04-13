@@ -3,6 +3,7 @@ title: Citycon Stock Analysis
 author: Albini
 date: 2022-03-30
 tags: ["post", "featured", "stock", "analysis"]
+type: article
 image: https://i.imgur.com/jbL9B4u.jpeg
 imageAlt: Kista galleria
 description: A real estate company that invests mainly in shopping malls is selling so low it's starting to get really interesting.

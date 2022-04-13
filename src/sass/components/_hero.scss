@@ -3,6 +3,10 @@
 .hero {
     margin-bottom: 5em;
 
+    img {
+        width: 100%;
+    }
+
     h1, h2, p {
         color: $color-light;
         margin-bottom: 0.2em;

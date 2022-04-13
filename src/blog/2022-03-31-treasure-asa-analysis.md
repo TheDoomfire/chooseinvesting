@@ -2,6 +2,7 @@
 title: Treasure ASA Analysis
 author: Albini
 date: 2022-03-31
+type: article
 tags: ["post", "stock", "analysis"]
 image: https://i.imgur.com/wP5gRJo.jpeg
 imageAlt: Hyundai Glovis Boat

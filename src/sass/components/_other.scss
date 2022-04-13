@@ -72,6 +72,10 @@ align-items: center;
     color: $color-red;
 }
 
+.float-right {
+    float: right;
+}
+
 .color-special {
     color: $color-special;
 }
@@ -119,4 +123,8 @@ align-items: center;
             display: block;
         }
     }
+}
+
+.max-width {
+    max-width: 100%;
 }
