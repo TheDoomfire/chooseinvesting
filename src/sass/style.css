@@ -564,7 +564,7 @@ article p :first-child {
   color: #11823b;
 }
 .posts figure figcaption p {
-  margin-top: 0.3em;
+  margin-top: 1em;
 }
 
 .post-title p {
@@ -575,8 +575,8 @@ article p :first-child {
 }
 
 .post-description {
-  font-size: 1.3rem;
+  font-size: 1.4rem;
   margin-bottom: 1em;
-  color: #3A4E4F;
-  margin-top: 0.2em;
+  color: #333333;
+  margin-top: 0.5em;
 }/*# sourceMappingURL=style.css.map */

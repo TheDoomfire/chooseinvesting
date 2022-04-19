@@ -5,3 +5,5 @@ Disallow: /sass/
 Disallow: /scripts/
 Disallow: /about/
 Disallow: /blog/index.html
+
+Sitemap: https://www.chooseinvesting.com/sitemap.xml
