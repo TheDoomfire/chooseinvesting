@@ -1,0 +1,14 @@
+@use "../utilities" as *;
+
+.share {
+    display: none;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 30%;
+    margin: auto;
+    width: 50%;
+    z-index: 1;
+    padding: 1em;
+    background-color: $color-light;
+}

@@ -25,6 +25,33 @@ let cityconNavDiscount = 1 - (citycon / ( cityconEpraNav2020 / cityconAmountOfSh
 
 document.getElementById("citycon").innerHTML = citycon;
 
+//Share Button
+const shareButton = document.querySelector('.sharethis');
+const overlay = document.querySelector('.overlay-fullscreen');
+const shareModal = document.querySelector('.share');
+
+const title = window.document.title;
+const url = window.document.location.href;
+
+shareButton.addEventListener('click', () => {
+
+  if (navigator.share) {
+    navigator.share({
+      title: `${title}`,
+      url: `${url}`
+    }).then(() => {
+      console.log('Thanks for sharing!');
+    }).catch(console.error);
+  } else {
+    overlay.classList.add("show-share");
+    shareModal.classList.add("show-share");
+  }
+})
+
+overlay.addEventListener('click', () => {
+  overlay.classList.remove('show-share');
+  shareModal.classList.remove('show-share');
+})
 
 // jQuery and Underscore.js are dependencies
 // Code from:

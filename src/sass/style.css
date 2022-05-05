@@ -42,7 +42,7 @@ img {
 
 iframe {
   width: 100%;
-  aspect-ratio: 2/1;
+  aspect-ratio: 16/9;
 }
 
 figcaption {
@@ -331,6 +331,31 @@ h4 {
 
 .max-width {
   max-width: 100%;
+}
+
+.overlay-fullscreen {
+  display: none;
+  opacity: 1;
+  position: absolute;
+  z-index: 0;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.share {
+  display: none;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 30%;
+  margin: auto;
+  width: 50%;
+  z-index: 1;
+  padding: 1em;
+  background-color: white;
 }
 
 .snippet-basic h2, .snippet-featured h2, .snippet h2, .snippet-basic h3, .snippet-featured h3, .snippet h3 {
