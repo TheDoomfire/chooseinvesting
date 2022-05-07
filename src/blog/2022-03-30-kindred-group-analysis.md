@@ -17,8 +17,6 @@ imageAlt: Kindred Group Logo
 canonical: blog/2022-03-30-kindred-group-analysis/
 ---
 
-{% include '../_includes/components/warning-investing.njk' %}
-
 <br>
 <p>
 Kindred has grown massively but could still be traded for rather cheap as we will see in this analysis.

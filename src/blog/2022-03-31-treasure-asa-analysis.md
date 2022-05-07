@@ -11,8 +11,6 @@ keywords: treasure asa, stock, company, discounted nav, value investing, shippin
 canonical: blog/2022-03-31-treasure-asa-analysis/
 ---
 
-{% include '../_includes/components/warning-investing.njk' %}
-
 <p>
     Treasure only has one holding <a href="https://www.google.com/finance/quote/086280:KRX?sa=X&ved=2ahUKEwiK-Iq47_z2AhWMv4sKHcifDEUQ3ecFegQIOxAi" target="_blank">Hyundai Glovis</a> and that’s making us not receiving the safety of <a href=”https://www.investopedia.com/terms/d/diversification.asp” target=”_blank”>diversification</a>
 </p>

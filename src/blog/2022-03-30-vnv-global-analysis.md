@@ -11,8 +11,6 @@ keywords: investment company, stock, stock bargain, nav discount, value investme
 canonical: blog/2022-03-30-vnv-global-analysis/
 ---
 
-{% include '../_includes/components/warning-investing.njk' %}
-
 <p>
     In the fear of them owning Russian and possibly some underlying asset getting revenue or having investments from Russia. Or at least that’s what I’m guessing.
 </p>

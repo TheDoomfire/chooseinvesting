@@ -11,8 +11,6 @@ keywords: shopping malls, stock, real estate, company, discounted nav, value inv
 canonical: blog/2022-03-30-citycon-stock-analysis/
 ---
 
-{% include '../_includes/components/warning-investing.njk' %}
-
 <p>
     This is why I think this company could possibly be very undervalued.
 </p>
