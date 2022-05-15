@@ -2,36 +2,45 @@
 # yarn lockfile v1
 
 
-"@11ty/dependency-tree@^2.0.0":
-  "integrity" "sha512-tYrGX3Tvccufy2jaYDkYpjBmVP1LeQq6b/d0r4GYThTXL4f3ZR7yMAl/0r8h9xvnsP+gkO53wfnV7s8cXcCtEg=="
-  "resolved" "https://registry.npmjs.org/@11ty/dependency-tree/-/dependency-tree-2.0.0.tgz"
-  "version" "2.0.0"
+"@11ty/dependency-tree@^2.0.1":
+  "integrity" "sha512-5R+DsT9LJ9tXiSQ4y+KLFppCkQyXhzAm1AIuBWE/sbU0hSXY5pkhoqQYEcPJQFg/nglL+wD55iv2j+7O96UAvg=="
+  "resolved" "https://registry.npmjs.org/@11ty/dependency-tree/-/dependency-tree-2.0.1.tgz"
+  "version" "2.0.1"
 
-"@11ty/eleventy@^1.0.0":
-  "integrity" "sha512-UMZghkMFwovu3Vh6DzjJ9GbcBnlE3nydGmLAti2AB1d6etQE+jXgfuHNxOyV1em33ywsBgGUCtLmLHaaTSU+Nw=="
-  "resolved" "https://registry.npmjs.org/@11ty/eleventy/-/eleventy-1.0.0.tgz"
-  "version" "1.0.0"
+"@11ty/eleventy-utils@^1.0.1":
+  "integrity" "sha512-HPpCTz4PzudcQU+i+x6GSNHVqgnvRhnVYg5dLKaAoRWLN966odAGsBxKSyhF8i1MdlOPtsytYb2AGWP7jISC5w=="
+  "resolved" "https://registry.npmjs.org/@11ty/eleventy-utils/-/eleventy-utils-1.0.1.tgz"
+  "version" "1.0.1"
   dependencies:
-    "@11ty/dependency-tree" "^2.0.0"
+    "normalize-path" "^3.0.0"
+
+"@11ty/eleventy@^1.0.1":
+  "integrity" "sha512-2fJDHVBkRr1SB7CqBexwoLdiOGUE0f22O+Ie1TT/FI65XQZWshgHVZzvmZfmtKvQW4qtaC/FuJG3wMxkXfel7w=="
+  "resolved" "https://registry.npmjs.org/@11ty/eleventy/-/eleventy-1.0.1.tgz"
+  "version" "1.0.1"
+  dependencies:
+    "@11ty/dependency-tree" "^2.0.1"
+    "@11ty/eleventy-utils" "^1.0.1"
     "@iarna/toml" "^2.2.5"
     "@sindresorhus/slugify" "^1.1.2"
-    "browser-sync" "^2.27.7"
-    "chokidar" "^3.5.2"
-    "debug" "^4.3.3"
+    "browser-sync" "^2.27.9"
+    "chokidar" "^3.5.3"
+    "cross-spawn" "^7.0.3"
+    "debug" "^4.3.4"
     "dependency-graph" "^0.11.0"
     "ejs" "^3.1.6"
-    "fast-glob" "^3.2.9"
-    "graceful-fs" "^4.2.9"
+    "fast-glob" "^3.2.11"
+    "graceful-fs" "^4.2.10"
     "gray-matter" "^4.0.3"
     "hamljs" "^0.6.2"
     "handlebars" "^4.7.7"
     "is-glob" "^4.0.3"
     "kleur" "^4.1.4 "
-    "liquidjs" "^9.32.0"
+    "liquidjs" "^9.36.1"
     "lodash" "^4.17.21"
-    "luxon" "^2.3.0"
+    "luxon" "^2.3.2"
     "markdown-it" "^12.3.2"
-    "minimist" "^1.2.5"
+    "minimist" "^1.2.6"
     "moo" "^0.5.1"
     "multimatch" "^5.0.0"
     "mustache" "^4.2.0"
@@ -41,8 +50,8 @@
     "please-upgrade-node" "^3.2.0"
     "pretty" "^2.0.0"
     "pug" "^3.0.2"
-    "recursive-copy" "^2.0.13"
-    "semver" "^7.3.5"
+    "recursive-copy" "^2.0.14"
+    "semver" "^7.3.7"
     "slugify" "^1.6.5"
 
 "@babel/helper-validator-identifier@^7.16.7":
@@ -399,7 +408,7 @@
     "socket.io-client" "^4.4.1"
     "stream-throttle" "^0.1.3"
 
-"browser-sync@^2.27.7":
+"browser-sync@^2.27.7", "browser-sync@^2.27.9":
   "integrity" "sha512-3zBtggcaZIeU9so4ja9yxk7/CZu9B3DOL6zkxFpzHCHsQmkGBPVXg61jItbeoa+WXgNLnr1sYES/2yQwyEZ2+w=="
   "resolved" "https://registry.npmjs.org/browser-sync/-/browser-sync-2.27.9.tgz"
   "version" "2.27.9"
@@ -524,7 +533,7 @@
   "resolved" "https://registry.npmjs.org/chart.js/-/chart.js-3.7.1.tgz"
   "version" "3.7.1"
 
-"chokidar@^3.3.0", "chokidar@^3.3.1", "chokidar@^3.5.1", "chokidar@^3.5.2", "chokidar@>=3.0.0 <4.0.0":
+"chokidar@^3.3.0", "chokidar@^3.3.1", "chokidar@^3.5.1", "chokidar@^3.5.3", "chokidar@>=3.0.0 <4.0.0":
   "integrity" "sha512-Dr3sfKRP6oTcjf2JmUmFJfeVMvXBdegxB0iVQ5eb2V10uFJUCAS8OByZdVAyVb8xXNz3GjjTgj9kLWsZTqE6kw=="
   "resolved" "https://registry.npmjs.org/chokidar/-/chokidar-3.5.3.tgz"
   "version" "3.5.3"
@@ -698,6 +707,15 @@
     "shebang-command" "^2.0.0"
     "which" "^2.0.1"
 
+"cross-spawn@^7.0.3":
+  "integrity" "sha512-iRDPJKUPVEND7dHPO8rkbOnPpyDygcDFtWjpeWNCgy8WP2rXcxXL8TskReQl6OrB2G7+UJrags1q15Fudc7G6w=="
+  "resolved" "https://registry.npmjs.org/cross-spawn/-/cross-spawn-7.0.3.tgz"
+  "version" "7.0.3"
+  dependencies:
+    "path-key" "^3.1.0"
+    "shebang-command" "^2.0.0"
+    "which" "^2.0.1"
+
 "css-declaration-sorter@^6.0.3":
   "integrity" "sha512-lpfkqS0fctcmZotJGhnxkIyJWvBXgpyi2wsFd4J8VB7wzyrT6Ch/3Q+FMNJpjK4gu1+GN5khOnpU2ZVKrLbhCw=="
   "resolved" "https://registry.npmjs.org/css-declaration-sorter/-/css-declaration-sorter-6.1.4.tgz"
@@ -797,7 +815,7 @@
   dependencies:
     "ms" "2.0.0"
 
-"debug@^4.3.3", "debug@~4.3.1", "debug@~4.3.2":
+"debug@^4.3.4", "debug@~4.3.1", "debug@~4.3.2":
   "integrity" "sha512-PRWFHuSU3eDtQJPvnNY7Jcket1j0t5OuOsFzPPzsekD52Zl8qUfFIPEiswXqIvHWGVHOgX+7G/vCNNhehwxfkQ=="
   "resolved" "https://registry.npmjs.org/debug/-/debug-4.3.4.tgz"
   "version" "4.3.4"
@@ -1092,7 +1110,7 @@
   dependencies:
     "is-extendable" "^0.1.0"
 
-"fast-glob@^3.2.7", "fast-glob@^3.2.9":
+"fast-glob@^3.2.11", "fast-glob@^3.2.7":
   "integrity" "sha512-xrO3+1bxSo3ZVHAnqzyuewYT6aMFHRAd4Kcs92MAonjwQZLsK9d0SF1IyQ3k5PoirxTW0Oe/RqFgMQ6TcNE5Ew=="
   "resolved" "https://registry.npmjs.org/fast-glob/-/fast-glob-3.2.11.tgz"
   "version" "3.2.11"
@@ -1238,10 +1256,10 @@
     "merge2" "^1.4.1"
     "slash" "^4.0.0"
 
-"graceful-fs@^4.1.2", "graceful-fs@^4.1.4", "graceful-fs@^4.1.6", "graceful-fs@^4.2.0", "graceful-fs@^4.2.9":
-  "integrity" "sha512-NtNxqUcXgpW2iMrfqSfR73Glt39K+BLwWsPs94yR63v45T0Wbej7eRmL5cWfwEgqXnmjQp3zaJTshdRW/qC2ZQ=="
-  "resolved" "https://registry.npmjs.org/graceful-fs/-/graceful-fs-4.2.9.tgz"
-  "version" "4.2.9"
+"graceful-fs@^4.1.2", "graceful-fs@^4.1.4", "graceful-fs@^4.1.6", "graceful-fs@^4.2.0", "graceful-fs@^4.2.10":
+  "integrity" "sha512-9ByhssR2fPVsNZj478qUUbKfmL0+t5BDVyjShtyZZLiK7ZDAArFFfopyOTj0M05wE2tJPisA4iTnnXl2YoPvOA=="
+  "resolved" "https://registry.npmjs.org/graceful-fs/-/graceful-fs-4.2.10.tgz"
+  "version" "4.2.10"
 
 "gray-matter@^4.0.3":
   "integrity" "sha512-5v6yZd4JK3eMI3FqqCouswVqwugaA9r4dNZB1wwcmrD02QkV5H0y7XBQW8QwQqEaZY1pM9aqORSORhJRdNK44Q=="
@@ -1680,10 +1698,10 @@
   dependencies:
     "uc.micro" "^1.0.1"
 
-"liquidjs@^9.32.0":
-  "integrity" "sha512-HbU4xBsY1r3ZEORTgPsiluXsOtMx8iI0MqTsPejgIk+sIgta5wQUYsoQgUPuGKWVHKKKMO9PidiMEPKlePl8rg=="
-  "resolved" "https://registry.npmjs.org/liquidjs/-/liquidjs-9.36.0.tgz"
-  "version" "9.36.0"
+"liquidjs@^9.36.1":
+  "integrity" "sha512-qDj9iiNdB+QNZTR4iKjiQzoHQma7V8Itx5oZG/ZCP7xjebh1LI+s5IG2ZYUbs1ALO6hBzmW36Ptd8RR4eohuDA=="
+  "resolved" "https://registry.npmjs.org/liquidjs/-/liquidjs-9.37.0.tgz"
+  "version" "9.37.0"
 
 "load-json-file@^4.0.0":
   "integrity" "sha1-L19Fq5HjMhYjT9U62rZo607AmTs="
@@ -1752,10 +1770,10 @@
   dependencies:
     "yallist" "^4.0.0"
 
-"luxon@^2.3.0":
-  "integrity" "sha512-I8vnjOmhXsMSlNMZlMkSOvgrxKJl0uOsEzdGgGNZuZPaS9KlefpE9KV95QFftlJSC+1UyCC9/I69R02cz/zcCA=="
-  "resolved" "https://registry.npmjs.org/luxon/-/luxon-2.3.1.tgz"
-  "version" "2.3.1"
+"luxon@^2.3.2":
+  "integrity" "sha512-w+NAwWOUL5hO0SgwOHsMBAmZ15SoknmQXhSO0hIbJCAmPKSsGeK8MlmhYh2w6Iib38IxN2M+/ooXWLbeis7GuA=="
+  "resolved" "https://registry.npmjs.org/luxon/-/luxon-2.4.0.tgz"
+  "version" "2.4.0"
 
 "markdown-it@^12.3.2":
   "integrity" "sha512-TchMembfxfNVpHkbtriWltGWc+m3xszaRD0CZup7GFFhzIgQqxIfn3eGj1yZpfuflzPvfkt611B2Q/Bsk1YnGg=="
@@ -1830,7 +1848,7 @@
   dependencies:
     "brace-expansion" "^1.1.7"
 
-"minimist@^1.2.5":
+"minimist@^1.2.5", "minimist@^1.2.6":
   "integrity" "sha512-Jsjnk4bw3YJqYzbdyBiNsPWHPfO++UGG749Cxs6peCu5Xg4nrena6OVxOYxrQTqww0Jmwt+Ref8rggumkTLz9Q=="
   "resolved" "https://registry.npmjs.org/minimist/-/minimist-1.2.6.tgz"
   "version" "1.2.6"
@@ -2639,7 +2657,7 @@
   dependencies:
     "picomatch" "^2.2.1"
 
-"recursive-copy@^2.0.13":
+"recursive-copy@^2.0.14":
   "integrity" "sha512-K8WNY8f8naTpfbA+RaXmkaQuD1IeW9EgNEfyGxSqqTQukpVtoOKros9jUqbpEsSw59YOmpd8nCBgtqJZy5nvog=="
   "resolved" "https://registry.npmjs.org/recursive-copy/-/recursive-copy-2.0.14.tgz"
   "version" "2.0.14"
@@ -2767,10 +2785,10 @@
   "resolved" "https://registry.npmjs.org/semver/-/semver-5.7.1.tgz"
   "version" "5.7.1"
 
-"semver@^7.3.5":
-  "integrity" "sha512-PoeGJYh8HK4BTO/a9Tf6ZG3veo/A7ZVsYrSA6J8ny9nb3B1VrpkuN+z9OE5wfE5p6H4LchYZsegiQgbJD94ZFQ=="
-  "resolved" "https://registry.npmjs.org/semver/-/semver-7.3.5.tgz"
-  "version" "7.3.5"
+"semver@^7.3.7":
+  "integrity" "sha512-QlYTucUYOews+WeEujDoEGziz4K6c47V/Bd+LjSSYcA94p+DmINdf7ncaUinThfvZyu13lN9OY1XDxt8C0Tw0g=="
+  "resolved" "https://registry.npmjs.org/semver/-/semver-7.3.7.tgz"
+  "version" "7.3.7"
   dependencies:
     "lru-cache" "^6.0.0"
 
