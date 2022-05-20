@@ -1,29 +1,32 @@
 @use "../utilities" as *;
 
-header {
+.main-header {
     background-color: $color-background;
-
     padding: 0.8em 0 2em 0;
+    z-index: 10;
+
+    top: 0;
+    left: 0;
+    right: 0;
+
+    &.active {
+        position: fixed;
+    }
+
+
+    @include screen(tablet) {
+        position: static;
+    }
 
 
     nav {
-
-        a {
-            font-weight: 500;
-            color: $color-dark;
-            z-index: 4;
-        }
-    }
-
-    ul {
         display: flex;
         background-color: $color-background;
-        z-index: 5;
+        z-index: 3;
 
         position: fixed;
         right: -100%;
-        top: 25px;
-        gap: 0;
+        top: 50px;
         flex-direction: column;
         text-align: center;
         gap: 1em;
@@ -32,19 +35,25 @@ header {
         font-size: $font-size * 1.5;
         font-weight: 700;
 
+        padding: 2em;
         justify-content: space-between;
-        padding: 0 24px;
+        
 
+        &.active {
+            left: 0;
+        }
 
         @include screen(tablet) {
             position: static;
             right: 0;
+            left: 0;
             top: auto;
 
             flex-direction: row;
-
             font-size: $font-size;
             font-weight: 400;
+
+            padding: 0;
 
             a {
                 font-weight: 300;
@@ -55,22 +64,22 @@ header {
         
     }
 
-    .nav-menu {
-        &.active {
-            left: 0;
-        }
-
-        @include screen(tablet) {
-            left: 0;
-        }
-    }
-
     .container {
         @include container(medium);
 
         display: flex;
         justify-content: space-between;
         align-items: center;
+
+    }
+}
+
+.main-menu {
+
+    a {
+        font-weight: 500;
+        color: $color-dark;
+        z-index: 4;
     }
 }
 

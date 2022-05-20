@@ -42,6 +42,11 @@ h4 {
     span {
         color: $color-special;
     }
+
+    @include screen(tablet) {
+        position: static;
+    }
+
 }
 
 .copyright {

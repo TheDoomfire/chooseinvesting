@@ -130,6 +130,11 @@ h4 {
 .title span {
   color: #11823b;
 }
+@media (min-width: 900px) {
+  .title {
+    position: static;
+  }
+}
 
 .copyright {
   display: flex;
@@ -451,23 +456,29 @@ footer .container {
   max-width: 1000px;
 }
 
-header {
+.main-header {
   background-color: white;
   padding: 0.8em 0 2em 0;
+  z-index: 10;
+  top: 0;
+  left: 0;
+  right: 0;
 }
-header nav a {
-  font-weight: 500;
-  color: #3A4E4F;
-  z-index: 4;
+.main-header.active {
+  position: fixed;
 }
-header ul {
+@media (min-width: 900px) {
+  .main-header {
+    position: static;
+  }
+}
+.main-header nav {
   display: flex;
   background-color: white;
-  z-index: 5;
+  z-index: 3;
   position: fixed;
   right: -100%;
-  top: 25px;
-  gap: 0;
+  top: 50px;
   flex-direction: column;
   text-align: center;
   gap: 1em;
@@ -475,38 +486,41 @@ header ul {
   width: 100%;
   font-size: 1.5rem;
   font-weight: 700;
+  padding: 2em;
   justify-content: space-between;
-  padding: 0 24px;
+}
+.main-header nav.active {
+  left: 0;
 }
 @media (min-width: 900px) {
-  header ul {
+  .main-header nav {
     position: static;
     right: 0;
+    left: 0;
     top: auto;
     flex-direction: row;
     font-size: 1rem;
     font-weight: 400;
+    padding: 0;
   }
-  header ul a {
+  .main-header nav a {
     font-weight: 300;
     font-size: 1.1rem;
   }
 }
-header .nav-menu.active {
-  left: 0;
-}
-@media (min-width: 900px) {
-  header .nav-menu {
-    left: 0;
-  }
-}
-header .container {
+.main-header .container {
   margin: 0 auto;
   padding: 0 1.5em;
   max-width: 1000px;
   display: flex;
   justify-content: space-between;
   align-items: center;
+}
+
+.main-menu a {
+  font-weight: 500;
+  color: #3A4E4F;
+  z-index: 4;
 }
 
 .hamburger {
