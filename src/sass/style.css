@@ -89,7 +89,7 @@ body {
 }
 
 p {
-  font-size: 1rem;
+  font-size: clamp(1rem, 1.5vw, 1.3rem);
   color: #3A4E4F;
   max-width: 40em;
 }
@@ -99,25 +99,15 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 3.5rem;
-}
-@media (min-width: 900px) {
-  h1 {
-    font-size: 4rem;
-  }
+  font-size: clamp(2rem, 5vw, 4rem);
 }
 
 h2 {
-  font-size: 2.8rem;
-}
-@media (min-width: 900px) {
-  h2 {
-    font-size: 3rem;
-  }
+  font-size: clamp(1.7rem, 4vw, 3rem);
 }
 
 h3 {
-  font-size: 2rem;
+  font-size: clamp(1.5rem, 3vw, 2.5rem);
 }
 
 h4 {
