@@ -1,0 +1,59 @@
+@use "../utilities" as *;
+
+
+// Defaults
+
+li {
+    a {
+        color: inherit;
+        font-size: $font-size *1.5;
+
+        &:hover {
+            color: $color-special;
+        }
+    }
+}
+
+// Custom Lists
+.list-arrow {
+
+    li {
+        &::before {
+            content: "\00BB";
+        }
+    }
+
+}
+
+.list-image {
+
+    li {
+        list-style-image:URL('https://media.geeksforgeeks.org/wp-content/uploads/20200331172037/image47.png');
+        list-style-position: inside;
+    }
+}
+
+//Want to remove this and make normal lists.
+.posts {
+
+    ul {
+        margin-top: 3em;
+        padding-left: 2em;
+        display: flex;
+        flex-direction: column;
+        gap: 0.5em;
+
+        li {
+            list-style-type: square;
+        }
+
+        a {
+            color: inherit;
+            font-size: $font-size *1.5;
+
+            &:hover {
+                color: $color-special;
+            }
+        }
+}
+}
