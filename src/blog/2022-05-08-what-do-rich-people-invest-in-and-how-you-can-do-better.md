@@ -30,7 +30,7 @@ Many rich people have long-term thinking about their wealth. which often stretch
 
 And they have pretty nice and boring investments on average.
 
-<ul>
+<nav class="list-nav">
     <li><a href="#inflation">Protect Against Inflation</a></li>
     <li><a href="#markets">Private & Public Markets</a></li>
     <li><a href="#diversification">Investment Diversification</a></li>
@@ -39,7 +39,7 @@ And they have pretty nice and boring investments on average.
     <li><a href="#strategy">Investment Strategy</a></li>
     <li><a href="#emerging">Emerging Markets</a></li>
     <li><a href="#lowhigh">Buy Low Sell High</a></li>
-</ul>
+</nav>
 
 <h2 id="inflation">Protect Against Inflation</h2>
 

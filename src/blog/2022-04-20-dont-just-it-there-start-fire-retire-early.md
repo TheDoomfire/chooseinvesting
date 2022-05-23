@@ -18,7 +18,7 @@ Work more *now* and work *less* in the future and hence <u>in total</u>.
  
 Even if you don’t want to retire early, a lot can be gained with the FIRE retire early mentally. It will make you able to *work much less* in the future.
 
-<ul>
+<nav class="list-nav">
 <li><a href="#basics">Basics</a></li>
 <li><a href="#default">Default Retirement Plan</a></li>
 <li><a href="#whatshould">What Should We Do?</a></li>
@@ -35,7 +35,7 @@ Even if you don’t want to retire early, a lot can be gained with the FIRE reti
 <li><a href="#kill">Kill, Scale down or Increase</a></li>
 <li><a href="#historic">Historic Prices</a></li>
 <li><a href="#warehouse">Building a Warehouse</a></li>
-</ul>
+</nav>
 
 <h2 id="basics">Basics</h2>
 

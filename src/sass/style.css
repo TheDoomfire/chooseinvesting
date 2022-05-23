@@ -215,10 +215,13 @@ h4 {
 
 li a {
   color: inherit;
-  font-size: 1.5rem;
 }
 li a:hover {
   color: #11823b;
+}
+
+.list, .list-nav {
+  padding: 2em;
 }
 
 .list-arrow li::before {
@@ -236,16 +239,24 @@ li a:hover {
   display: flex;
   flex-direction: column;
   gap: 0.5em;
+  /*         a {
+              color: inherit;
+              font-size: $font-size *1.5;
+
+              &:hover {
+                  color: $color-special;
+              }
+          } */
 }
 .posts ul li {
   list-style-type: square;
 }
-.posts ul a {
-  color: inherit;
-  font-size: 1.5rem;
+
+.list-nav {
+  margin-top: 3em;
 }
-.posts ul a:hover {
-  color: #11823b;
+.list-nav li a {
+  font-size: clamp(1.2rem, 5vw, 1.8rem);
 }
 
 .text-box, .text-warning, .text-box-2 {

@@ -6,12 +6,15 @@
 li {
     a {
         color: inherit;
-        font-size: $font-size *1.5;
 
         &:hover {
             color: $color-special;
         }
     }
+}
+
+.list {
+    padding: 2em;
 }
 
 // Custom Lists
@@ -47,13 +50,25 @@ li {
             list-style-type: square;
         }
 
-        a {
+/*         a {
             color: inherit;
             font-size: $font-size *1.5;
 
             &:hover {
                 color: $color-special;
             }
-        }
+        } */
 }
+}
+
+.list-nav {
+    @extend .list;
+    margin-top: 3em;
+    
+    li {
+          
+        a {
+            font-size: clamp($font-size * 1.2, 5vw, $font-size * 1.8);
+        }
+    }
 }

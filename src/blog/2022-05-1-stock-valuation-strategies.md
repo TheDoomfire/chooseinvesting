@@ -10,14 +10,14 @@ description: When researching what stocks to buy we can often struggle with what
 keywords: stock valuation, how stock valuation is done, stock, fundamental analysis, valuation, dividend growth model, discounted cash flow, residual income, comparables model, asset based model
 ---
 
-<ul>
+<nav class="list-nav">
     <li><a href="#ggm">Gordon Growth Model</a></li>
     <li><a href="#dcf">Discounted Cash Flow</a></li>
     <li><a href="#ri">Residual Income Model</a></li>
     <li><a href="#ab">Asset-Based Model</a></li>
     <li><a href="#capm">Capital Asset Pricing Model</a></li>
     <li><a href="#tc">The Comparables Model</a></li>
-</ul>
+</nav>
 <br>
 
 All methods here are not an exact science since most of them need some forecasting. And we can never for sure know what the future holds.
