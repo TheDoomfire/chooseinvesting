@@ -2,10 +2,12 @@
 // https://www.youtube.com/watch?v=flItyHiDm7E&t=22s
 const hamburger = document.querySelector(".hamburger");
 const navMenu = document.querySelector(".main-nav");
+const header = document.querySelector(".main-header");
 
 hamburger.addEventListener("click", () => {
     hamburger.classList.toggle("active");
     navMenu.classList.toggle("active");
+    header.classList.toggle("active");
 });
 
 document.querySelectorAll("nav-link").forEach(n => n.addEventListener("click", () => {
