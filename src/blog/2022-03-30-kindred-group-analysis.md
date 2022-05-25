@@ -107,7 +107,7 @@ Many **funds won’t buy** gamling companies because it flags them as unethical.
 
   <p>Earning / total shares YoY</p>
 
-  <p class="text-light">From <a href="www.borsdata.se" target="_blank">borsdata.se</a>
+  <p class="text-light">From <a href="https://www.borsdata.se" target="_blank">borsdata.se</a>
 
 </figcaption>
 

@@ -110,7 +110,7 @@ canonical: blog/2022-03-31-treasure-asa-analysis/
         <p class="text-light">From the annual reports</p>
     </figcaption>
     <iframe loading="lazy" loading="lazy" class="tablet" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRVDFXlJytQKG1gES42t1S7E4bfK9aaO3An8_dpAMyX9CilMh4eNZYcDuMieVFcDVFOY4rbpJU0JobP/pubchart?oid=326709176&amp;format=interactive"></iframe>
-    <img loading="lazy" class="phone" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRVDFXlJytQKG1gES42t1S7E4bfK9aaO3An8_dpAMyX9CilMh4eNZYcDuMieVFcDVFOY4rbpJU0JobP/pubchart?oid=326709176&amp;format=image" alt="">
+    <img loading="lazy" class="phone" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRVDFXlJytQKG1gES42t1S7E4bfK9aaO3An8_dpAMyX9CilMh4eNZYcDuMieVFcDVFOY4rbpJU0JobP/pubchart?oid=326709176&amp;format=image" alt="Debt to equity for Treasure ASA 2012-2021">
 </figure>
 <p>
     Not any unacceptable number since ever really. <span class="text-plus">10%</span> in 10 years is not that impressive but seems stable. Not any problems that required adding additional debt.

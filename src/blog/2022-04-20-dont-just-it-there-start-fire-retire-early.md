@@ -259,7 +259,7 @@ Online Shopping can be tricky. There are a lot of tricks websites do to try to m
 
 A price tracker is the first step. Or we check all stores.
 
-1.  <a href="Camelcamelcamel.com" target="_blank">Amazon</a>
+1.  <a href="https://Camelcamelcamel.com/" target="_blank">Amazon</a>
 1.  <a href="https://keepa.com/#!" target="_blank">Amazon</a>
 1.  <a href="https://pcpartpicker.com/" target="_blank">PC Parts</a>
 1.  <a href="https://www.cheapshark.com/" target="_blank">PC Games</a>
@@ -273,7 +273,7 @@ There are discount extensions for the browser to make it easier.
 
 Some websites have different currencies and changing the currencies can sometimes save money.
 
-I have saved over <span class="text-plus">30%</span> by doing this check <a href="www.coinyep.com" target="_blank">Coinyep</a> for exchange rates.
+I have saved over <span class="text-plus">30%</span> by doing this check <a href="https:/www.coinyep.com" target="_blank">Coinyep</a> for exchange rates.
 
 Whatever that can save you the money, **do it**. 
 

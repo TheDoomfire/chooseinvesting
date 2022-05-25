@@ -72,3 +72,51 @@ li {
         }
     }
 }
+
+.list-pro {
+
+    li {
+        list-style-image:URL('../../assets/images/green-yes.svg');
+        list-style-position: inside;
+
+    }
+
+    span {
+        &:first-child {
+            color: green;
+        }
+    }
+
+    svg {
+        fill: $color-green;
+    }
+}
+
+.test {
+
+    span {
+        &:first-child {
+            color: green;
+        }
+    }
+}
+
+*, ::before, ::after {
+    box-sizing: border-box;
+}
+
+blockquote {
+    margin: 0px;
+    padding: 0px;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 40px;
+    margin-inline-end: 40px;
+    display: flex;
+
+    p {
+        margin: 0;
+        padding: 0;
+    }
+}

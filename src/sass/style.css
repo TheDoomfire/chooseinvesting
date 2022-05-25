@@ -259,6 +259,44 @@ li a:hover {
   font-size: clamp(1.2rem, 5vw, 1.8rem);
 }
 
+.list-pro li {
+  list-style-image: URL("../../assets/images/green-yes.svg");
+  list-style-position: inside;
+}
+.list-pro span:first-child {
+  color: green;
+}
+.list-pro svg {
+  fill: #30AA47;
+}
+
+.test span:first-child {
+  color: green;
+}
+
+*, ::before, ::after {
+  box-sizing: border-box;
+}
+
+blockquote {
+  margin: 0px;
+  padding: 0px;
+  display: block;
+  -webkit-margin-before: 1em;
+          margin-block-start: 1em;
+  -webkit-margin-after: 1em;
+          margin-block-end: 1em;
+  -webkit-margin-start: 40px;
+          margin-inline-start: 40px;
+  -webkit-margin-end: 40px;
+          margin-inline-end: 40px;
+  display: flex;
+}
+blockquote p {
+  margin: 0;
+  padding: 0;
+}
+
 .text-box, .text-warning, .text-box-2 {
   padding: 1em;
   border-radius: 8px;
