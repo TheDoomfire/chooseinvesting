@@ -693,11 +693,12 @@ article p :first-child {
 }
 .post-title span {
   font-weight: 500;
+  color: #333333;
 }
 
 .post-description {
-  font-size: 1.4rem;
+  font-size: clamp(1.3rem, 2vw, 1.8rem);
   margin-bottom: 1em;
-  color: #333333;
+  color: black;
   margin-top: 0.5em;
 }/*# sourceMappingURL=style.css.map */

@@ -3,7 +3,7 @@ title: Treasure ASA Analysis
 author: Albini
 date: 2022-03-31
 type: article
-tags: ["post", "stock", "analysis"]
+tags: ["post", "stock", "analysis", "featured"]
 image: https://i.imgur.com/wP5gRJo.jpeg
 imageAlt: Hyundai Glovis Boat
 description: An investment company with only one holding that could be very cheap.
