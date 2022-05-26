@@ -61,7 +61,7 @@
 <body>
 
     {% include 'header.njk' %}
-
+        
     <main>
         {{ content | safe }}
     </main>
@@ -69,6 +69,10 @@
     {% include 'footer.njk' %}
     
     <script src="/script.js"></script>
+
+    <!-- Go to www.addthis.com/dashboard to customize your tools --> 
+    <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-628f4fd3c34bb241"></script>
+
     <script>
         if (window.netlifyIdentity) {
             window.netlifyIdentity.on("init", user => {
