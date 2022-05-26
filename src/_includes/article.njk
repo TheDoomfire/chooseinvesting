@@ -6,15 +6,17 @@ layout: 'base.njk'
     <div class="container">
 
         <figure>
+            <figcaption class="post-title">
+                <h1>{{ title }}</h1>
+
+                <p>Last updated: <span>{{ date | postDate }}</span></p>
+            </figcaption>
+            <br>
             <img src="{{ image }}" alt="{{ imageAlt }}" width="100%">
             <figcaption class="post-title">
 
                 <!-- Go to www.addthis.com/dashboard to customize your tools --> 
                 <div class="addthis_inline_share_toolbox"></div>
-
-                <h1>{{ title }}</h1>
-
-                <p>Last updated: <span>{{ date | postDate }}</span></p>
 
                 <p class="post-description">
                     {{ description }}
