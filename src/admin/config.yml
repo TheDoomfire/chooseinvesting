@@ -21,7 +21,7 @@ collections:
       - { label: "Featured Image", name: "image", widget: "string" }
       - { label: "Image Text", name: "imageAlt", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
-    - name: "stocks"
+  - name: "stocks"
     label: "Stocks"
     folder: "src/stocks"
     create: true
