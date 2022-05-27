@@ -2,6 +2,7 @@
 title: Don't Just Sit There! Start FIRE Retire Early
 author: Albini
 date: 2022-04-20
+dateposted: 2022-04-20
 tags: ["post"]
 type: article
 image: https://images.unsplash.com/photo-1576477987917-9d056d379228?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80

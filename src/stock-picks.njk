@@ -1,0 +1,32 @@
+---
+title: Stock Picks
+layout: 'base.njk'
+type: website
+description: Stock analyzes for intresting companies with diffrent kind of criterias.
+author: Albini
+keywords: investing, stocks, cheap, value
+---
+
+<div class="hero-special">
+    <div class="container">
+        <h1>{{ title }}</h1>
+    </div>
+</div>
+<div class="container">
+    
+    <ul role="list" class="snippet">
+    {%- for analysis in collections.analysis | reverse -%}
+    <li>
+        <article>
+            <img loading="lazy" src="{{ analysis.data.image }}" alt="{{ analysis.data.imageAlt }}">
+            <div class="content">
+                <h2>{{ analysis.data.title }}</h2>
+                <p>Last updated on <span>{{ analysis.date | postDate }}</span></p>
+                <p>{{ analysis.data.description }}</p>
+                <a class="btn" href="{{ analysis.url }}">Read More...</a>
+            </div>
+        </article>
+    </li>
+    {%- endfor -%}
+    </ul>
+</div>

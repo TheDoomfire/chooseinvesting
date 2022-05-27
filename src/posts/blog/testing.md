@@ -1,7 +1,8 @@
 ---
-title: What Do Rich People Invest In? And How YOU Can Do Better
+title: The Test
 author: Albini
-date: 2022-05-08
+date: 2022-05-07
+dateposted: 2022-05-07
 tags: ["post", "stock"]
 type: article
 image: https://images.unsplash.com/photo-1507679799987-c73779587ccf?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80

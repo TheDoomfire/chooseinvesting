@@ -2,7 +2,8 @@
 title: Citycon Stock Analysis
 author: Albini
 date: 2022-03-30
-tags: ["post", "featured", "stock", "analysis"]
+dateposted: 2022-03-30
+tags: ["featured", "stock", "analysis"]
 type: article
 image: https://i.imgur.com/jbL9B4u.jpeg
 imageAlt: Kista galleria

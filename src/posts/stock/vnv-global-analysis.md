@@ -2,7 +2,8 @@
 title: VNV Global Analysis
 author: Albini
 date: 2022-03-30
-tags: ["post", "featured", "stock", "analysis"]
+dateposted: 2022-03-30
+tags: ["featured", "stock", "analysis"]
 type: article
 image: https://www.paretosec.se/admin/public/getimage.ashx?Image=/Files/Files/VNV-Global5.JPG&Width=1230&Compression=85
 imageAlt: VNV Global logo

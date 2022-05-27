@@ -2,6 +2,7 @@
 title: 6 Stock Valuation Strategies
 author: Albini
 date: 2022-05-01
+dateposted: 2022-05-01
 tags: ["post", "stock"]
 type: article
 image: https://images.unsplash.com/photo-1550418290-a8d86ad674a6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80
