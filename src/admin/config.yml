@@ -4,6 +4,9 @@ backend:
 media_folder: "public/assets/images/blog"
 public_folder: "/images/blog"
 publish_mode: editorial_workflow
+logo_url: https://www.chooseinvesting.com/assets/images/logo.png
+site_url: https://chooseinvesting.com
+display_url: https://chooseinvesting.com
 collections: 
   - name: "blog"
     label: "Blog"
