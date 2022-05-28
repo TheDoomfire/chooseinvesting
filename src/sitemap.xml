@@ -9,52 +9,62 @@
 
 <url>
   <loc>https://www.chooseinvesting.com/</loc>
-  <lastmod>2022-05-25T19:35:23+00:00</lastmod>
+  <lastmod>2022-05-28T14:02:57+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
+  <loc>https://www.chooseinvesting.com/stocks/</loc>
+  <lastmod>2022-05-28T14:02:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
   <loc>https://www.chooseinvesting.com/blog/</loc>
-  <lastmod>2022-05-25T19:35:23+00:00</lastmod>
+  <lastmod>2022-05-28T14:02:57+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.chooseinvesting.com/blog/2022-03-30-kindred-group-analysis/</loc>
-  <lastmod>2022-05-25T19:35:23+00:00</lastmod>
+  <loc>https://www.chooseinvesting.com/stocks/treasure-asa-analysis/</loc>
+  <lastmod>2022-05-28T14:02:57+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.chooseinvesting.com/blog/2022-03-30-vnv-global-analysis/</loc>
-  <lastmod>2022-05-25T19:35:23+00:00</lastmod>
+  <loc>https://www.chooseinvesting.com/stocks/vnv-global-analysis/</loc>
+  <lastmod>2022-05-28T14:02:57+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.chooseinvesting.com/blog/2022-03-30-citycon-stock-analysis/</loc>
-  <lastmod>2022-05-25T19:35:23+00:00</lastmod>
+  <loc>https://www.chooseinvesting.com/stocks/citycon-stock-analysis/</loc>
+  <lastmod>2022-05-28T14:02:57+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.chooseinvesting.com/blog/2022-05-08-what-do-rich-people-invest-in-and-how-you-can-do-better/</loc>
-  <lastmod>2022-05-25T19:35:23+00:00</lastmod>
+  <loc>https://www.chooseinvesting.com/stocks/kindred-group-analysis/</loc>
+  <lastmod>2022-05-28T14:02:57+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.chooseinvesting.com/blog/2022-05-1-stock-valuation-strategies/</loc>
-  <lastmod>2022-05-25T19:35:23+00:00</lastmod>
+  <loc>https://www.chooseinvesting.com/blog/garp-investment-strategy-a-hybrid-of-growth-and-value-investing/</loc>
+  <lastmod>2022-05-28T14:02:57+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.chooseinvesting.com/blog/2022-04-20-dont-just-it-there-start-fire-retire-early/</loc>
-  <lastmod>2022-05-25T19:35:23+00:00</lastmod>
+  <loc>https://www.chooseinvesting.com/blog/what-do-rich-people-invest-in-and-how-you-can-do-better/</loc>
+  <lastmod>2022-05-28T14:02:57+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.chooseinvesting.com/blog/2022-04-13-basics-of-fundamental-analysis/</loc>
-  <lastmod>2022-05-25T19:35:23+00:00</lastmod>
+  <loc>https://www.chooseinvesting.com/blog/stock-valuation-strategies/</loc>
+  <lastmod>2022-05-28T14:02:57+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.chooseinvesting.com/blog/2022-03-31-treasure-asa-analysis/</loc>
-  <lastmod>2022-05-25T19:35:23+00:00</lastmod>
+  <loc>https://www.chooseinvesting.com/blog/dont-just-it-there-start-fire-retire-early/</loc>
+  <lastmod>2022-05-28T14:02:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.chooseinvesting.com/blog/basics-of-fundamental-analysis/</loc>
+  <lastmod>2022-05-28T14:02:57+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 
