@@ -27,6 +27,10 @@
     span {
         color: $color-dark;
         font-weight: 500;
+
+        @include theme(dark) {
+            color: $color-light;
+        }
     }
 
     p {
@@ -35,6 +39,10 @@
         &:nth-child(3) {
             color: $color-dark;
             margin-bottom: 2em;
+            
+            @include theme(dark) {
+                color: $color-light;
+            }
         }
     }
 
@@ -60,6 +68,10 @@
 
             span {
                 color: $color-dark;
+
+                @include theme(dark){
+                    color: $color-light;
+                }
             }
         }
 

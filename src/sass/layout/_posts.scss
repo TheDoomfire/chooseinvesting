@@ -64,6 +64,10 @@
     span {
         font-weight: 500;
         color: $color-grey;
+
+        @include theme(dark) {
+            color: $color-light;
+        }
     }
 }
 
@@ -72,4 +76,8 @@
     margin-bottom: 1em;
     color: $color-black;
     margin-top: 0.5em;
+
+    @include theme(dark) {
+        color: $color-light;
+    }
 }

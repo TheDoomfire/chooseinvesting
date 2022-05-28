@@ -3,6 +3,20 @@
 * {
     box-sizing: border-box;
 }
+
+:root {
+    //Going to have "light dark"
+    color-scheme: light dark;
+}
+
+body {
+    background-color: $color-light;
+
+    @include theme(dark) {
+        background-color: $color-dark-background;
+    }
+}
+
 /* Remove default margin */
 body,
 h1,
@@ -23,6 +37,10 @@ a {
     font-weight: 500;
 
     color: $color-special;
+
+    @include theme(dark){
+        color: $color-special-200;
+    }
 
     &:hover {
         color: $color-special-100; 

@@ -24,3 +24,11 @@
         @media (min-width: $size-pc) { @content; }
     }
 };
+
+@mixin theme($color) {
+    @if $color == dark {
+        @media (prefers-color-scheme: dark) { @content; }
+    } @else {
+        @media (prefers-color-scheme: light) { @content; }
+    }
+};

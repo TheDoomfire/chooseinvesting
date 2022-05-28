@@ -3,6 +3,19 @@
   box-sizing: border-box;
 }
 
+:root {
+  color-scheme: light dark;
+}
+
+body {
+  background-color: white;
+}
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #292929;
+  }
+}
+
 /* Remove default margin */
 body,
 h1,
@@ -21,6 +34,11 @@ a {
   text-decoration: none;
   font-weight: 500;
   color: #11823b;
+}
+@media (prefers-color-scheme: dark) {
+  a {
+    color: #30AA47;
+  }
 }
 a:hover {
   color: #4c9230;
@@ -94,6 +112,11 @@ p {
   color: #3A4E4F;
   max-width: 40em;
 }
+@media (prefers-color-scheme: dark) {
+  p {
+    color: #ececec;
+  }
+}
 
 h1, h2, h3, h4, h5, h6 {
   line-height: 1;
@@ -120,6 +143,11 @@ h4 {
 }
 .title span {
   color: #11823b;
+}
+@media (prefers-color-scheme: dark) {
+  .title span {
+    color: #30AA47;
+  }
 }
 @media (min-width: 900px) {
   .title {
@@ -254,6 +282,9 @@ li a:hover {
 
 .list-nav {
   margin-top: 3em;
+}
+.list-nav li {
+  list-style: circle;
 }
 .list-nav li a {
   font-size: clamp(1.2rem, 5vw, 1.8rem);
@@ -458,12 +489,22 @@ blockquote p {
   color: #3A4E4F;
   font-weight: 500;
 }
+@media (prefers-color-scheme: dark) {
+  .snippet span {
+    color: white;
+  }
+}
 .snippet p {
   margin: 0.7em 0;
 }
 .snippet p:nth-child(3) {
   color: #3A4E4F;
   margin-bottom: 2em;
+}
+@media (prefers-color-scheme: dark) {
+  .snippet p:nth-child(3) {
+    color: white;
+  }
 }
 @media (min-width: 900px) {
   .snippet article {
@@ -481,6 +522,11 @@ blockquote p {
 }
 .snippet-featured p:nth-child(2) span {
   color: #3A4E4F;
+}
+@media (prefers-color-scheme: dark) {
+  .snippet-featured p:nth-child(2) span {
+    color: white;
+  }
 }
 .snippet-featured p:nth-child(3) {
   margin-bottom: 2em;
@@ -543,6 +589,11 @@ footer .container {
   left: 0;
   right: 0;
 }
+@media (prefers-color-scheme: dark) {
+  .main-header {
+    background-color: #292929;
+  }
+}
 .main-header.active {
   position: fixed;
 }
@@ -567,6 +618,17 @@ footer .container {
   font-weight: 700;
   padding: 2em;
   justify-content: space-between;
+}
+@media (prefers-color-scheme: dark) {
+  .main-header nav {
+    background-color: #292929;
+  }
+  .main-header nav a {
+    color: white;
+  }
+  .main-header nav a:hover {
+    color: #4c9230;
+  }
 }
 .main-header nav.active {
   left: 0;
@@ -612,6 +674,11 @@ footer .container {
   margin: 5px auto;
   transition: all 0.3s ease-in-out;
   background-color: #3A4E4F;
+}
+@media (prefers-color-scheme: dark) {
+  .hamburger span {
+    background-color: white;
+  }
 }
 .hamburger.active span:nth-child(2) {
   opacity: 0;
@@ -695,10 +762,20 @@ article p :first-child {
   font-weight: 500;
   color: #333333;
 }
+@media (prefers-color-scheme: dark) {
+  .post-title span {
+    color: white;
+  }
+}
 
 .post-description {
   font-size: clamp(1.3rem, 2vw, 1.8rem);
   margin-bottom: 1em;
   color: black;
   margin-top: 0.5em;
+}
+@media (prefers-color-scheme: dark) {
+  .post-description {
+    color: white;
+  }
 }/*# sourceMappingURL=style.css.map */
