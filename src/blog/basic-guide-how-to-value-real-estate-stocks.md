@@ -4,8 +4,8 @@ description: This guide will go over what I find to be good and bad prices. What
   kind of multipliers is more important in this kind of branch. And what else to
   keep in mind before buying a real estate company.
 author: Albini
-date: 2022-05-28T23:34:21.128Z
-dateposted: 2022-05-28T23:34:21.194Z
+date: 2022-05-29T23:34:21.128Z
+dateposted: 2022-05-29T23:34:21.194Z
 tags:
   - post
   - guide
