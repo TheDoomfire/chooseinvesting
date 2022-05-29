@@ -65,18 +65,18 @@ It’s understandable why it’s hard to distinguish higher valuations from prof
 
 Basic real estate companies
 
-<!-- <table>
+<table>
 
-  Cheapest I've seen
+  Cheapest I've bought - See the <a href="https://www.chooseinvesting.com/stocks/citycon-stock-analysis/">stock analysis here</a>.
   <tr>
     <th>NAV Discount</th>
     <th>P / NRI</th>
     <th>D / E</th>
   </tr>
   <tr>
-    <th>42%</th>
-    <th>6</th>
-    <th>---</th>
+    <th>52%</th>
+    <th>5.9</th>
+    <th>0.92</th>
   </tr>
 </table>
 
@@ -89,12 +89,14 @@ Basic real estate companies
     <th>D / E</th>
   </tr>
   <tr>
-    <th>1</th>
-    <th>2</th>
-    <th>3</th>
+    <th>20%</th>
+    <th>10</th>
+    <th>1.5</th>
   </tr>
-</table> -->
+</table>
 
+<br>
+<br>
 <p id="multipliers">
 
 Important Multipliers for Real Estate Companies:

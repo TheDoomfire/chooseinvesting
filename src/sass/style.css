@@ -444,6 +444,13 @@ blockquote p {
   max-width: 100%;
 }
 
+.read-more {
+  margin-top: 7em;
+}
+.read-more p {
+  font-size: 1rem;
+}
+
 .overlay-fullscreen {
   display: none;
   opacity: 1;

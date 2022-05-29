@@ -128,3 +128,11 @@ align-items: center;
 .max-width {
     max-width: 100%;
 }
+
+.read-more {
+    margin-top: 7em;
+
+    p {
+        font-size: $font-size;
+    }
+}

@@ -1,0 +1,18 @@
+    
+    {# Read More About Nunjucks Here #}
+    {# https://mozilla.github.io/nunjucks/templating.html #}
+
+    {# Checks if any post shows in tags #}
+    {% if 'post' in tags %}
+
+    <p>
+        Post
+    </p>
+
+    {% elseif 'stock' in tags %}
+
+    <p>
+        Stocks
+    </p>
+    
+    {% endif %}
