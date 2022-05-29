@@ -39,8 +39,8 @@ List of everything in this basic guide:
   <li><a href="#quantitative">Quantitative</a></li>
   <li><a href="#multipliers">Important Multipliers</a></li>
   <li><a href="#qualitative">Qualitative</a></li>
-  <li><a href="#types">Types of Real Estate</li>
-  <li><a href="#emerging">Emerging Markets</li>
+  <li><a href="#types">Types of Real Estate</a></li>
+  <li><a href="#emerging">Emerging Markets</a></li>
 </nav>
 
 <h2 id="quantitative">Quantitative</h2>
