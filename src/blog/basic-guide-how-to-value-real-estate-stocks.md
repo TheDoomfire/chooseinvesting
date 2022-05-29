@@ -37,6 +37,8 @@ List of everything in this basic guide:
 
 <h2 id="quantitative">Quantitative</h2>
 
+<br>
+
 <figure>
 
 <img loading="lazy" src="https://images.unsplash.com/photo-1502570149819-b2260483d302?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80" alt="numbers">
