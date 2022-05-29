@@ -65,7 +65,35 @@ It’s understandable why it’s hard to distinguish higher valuations from prof
 
 Basic real estate companies
 
-((Tablet of Real Estate Data))
+<!-- <table>
+
+  Cheapest I've seen
+  <tr>
+    <th>NAV Discount</th>
+    <th>P / NRI</th>
+    <th>D / E</th>
+  </tr>
+  <tr>
+    <th>42%</th>
+    <th>6</th>
+    <th>---</th>
+  </tr>
+</table>
+
+<table>
+
+  Cheap
+  <tr>
+    <th>NAV Discount</th>
+    <th>P / NRI</th>
+    <th>D / E</th>
+  </tr>
+  <tr>
+    <th>1</th>
+    <th>2</th>
+    <th>3</th>
+  </tr>
+</table> -->
 
 <p id="multipliers">
 

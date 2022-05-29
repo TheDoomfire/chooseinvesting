@@ -566,8 +566,26 @@ blockquote p {
   }
 }
 
-table, th, td {
-  border: 1px solid red;
+th, tr, td {
+  border: 1px solid black;
+}
+@media (prefers-color-scheme: dark) {
+  th, tr, td {
+    border-color: #ececec;
+  }
+}
+
+th {
+  padding: 0.4em;
+}
+
+table {
+  width: 100%;
+}
+@media (min-width: 900px) {
+  table {
+    width: auto;
+  }
 }
 
 footer {

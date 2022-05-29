@@ -1,5 +1,22 @@
 @use "../utilities" as *;
 
-table, th, td {
-    border: 1px solid red;
+th, tr, td {
+    border: 1px solid $color-black;
+
+    @include theme(dark) {
+      border-color: $color-light-200;
+    }
+  }
+
+  th {
+    padding: 0.4em;
+  }
+
+  table {
+    width: 100%;
+
+    @include screen(tablet) {
+      width: auto;
+    }
+
   }
