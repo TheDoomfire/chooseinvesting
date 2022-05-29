@@ -8,7 +8,9 @@ date: 2022-05-28T23:34:21.128Z
 dateposted: 2022-05-28T23:34:21.194Z
 tags:
   - post
-keywords: stocks
+  - guide
+keywords: stocks, quarterly dividend, real estate investment company, investing,
+  how to invest, buy stocks, value investing, dividend investing
 image: https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80
 imageAlt: Office Building
 draft: true
