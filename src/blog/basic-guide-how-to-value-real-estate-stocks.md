@@ -1,5 +1,5 @@
 ---
-title: " Basic Guide: How to Value Real Estate Stocks"
+title: "Basic Guide: How to Value Real Estate Stocks"
 description: This guide will go over what I find to be good and bad prices. What
   kind of multipliers is more important in this kind of branch. And what else to
   keep in mind before buying a real estate company.
