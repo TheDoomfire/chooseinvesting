@@ -297,13 +297,17 @@ YouTube Shortcuts:
 
 </ul>
 
-More Windows Shortcuts - <https://www.windowscentral.com/best-windows-10-keyboard-shortcuts>
+More Windows Shortcuts
 
-More Chrome / browser Shortcuts - https://www.businessinsider.com/chrome-keyboard-shortcuts?r=US&IR=T
+<a target="_blank" href="<https://www.windowscentral.com/best-windows-10-keyboard-shortcuts>">More Windows Shortcuts</a>
 
-If you find it very interesting you can even create your own Hotkeys with AutoHotkeys
+<a target="_blank" href="https://www.businessinsider.com/chrome-keyboard-shortcuts?r=US&IR=T[](https://www.windowscentral.com/best-windows-10-keyboard-shortcuts)">More Chrome / Browser Shortcuts</a>
 
-Google More Specific
+If you find it very interesting you can even create your own Hotkeys with <a target="_blank" href="https://www.autohotkey.com/">AutoHotkeys</a>
+
+
+
+<h2 id="google">Google More Specific</h2>
 
 Let’s say we want a report of a company. We can simple typ type in “Company Name * “Annual Report” filetype:pdf”  and it should be somewhere in the front page.
 
@@ -321,15 +325,15 @@ Type - before a word to exclude it from search.
 
 List of more googe tips - <https://www.technolush.com/blog/advanced-google-search-tips>
 
-More - <https://i.redd.it/k1nso4ysq2yy.jpg>
+More <https://i.redd.it/k1nso4ysq2yy.jpg>
 
-More - <https://www.reddit.com/r/AskReddit/comments/5t3rk4/people_who_are_google_search_geniuses_what_is/>
+Even More <https://www.reddit.com/r/AskReddit/comments/5t3rk4/people_who_are_google_search_geniuses_what_is/>
 
 Google Advanced Search - https://www.google.com/advanced_search
 
 Using forums like reddit could provide useful. Just make sure the forums are not bias, so I prefer reddit.
 
-Google Spreadsheets
+<h2 id="spreadsheets">Google Spreadsheets</h2>
 
 Any Spreadsheets will do but I prefer google drive since it’s in the cloud
 
@@ -337,7 +341,7 @@ Since we sometimes have to calculate ourselves and rely on several years of data
 
 Because it’s easy to forget or not see the whole picture.
 
-Settings
+<h2 id="settings">Settings</h2>
 
 Fixing our settings and making our device run more smoothly will in turn result in higher productivity.
 
@@ -347,7 +351,7 @@ In the browser we can set up startup pages, making us even more ready.
 
 Startup programs in windows do so we have less annoying crap distracting us at the start of the computer and forcing us to have to turn it off
 
-Automation
+<h2 id="automation">Automation</h2>
 
 The tool we use to conduct our research is a machine capable of automation. We always have to keep that in mind.
 
