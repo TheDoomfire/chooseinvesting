@@ -8,7 +8,8 @@ date: 2022-05-31T13:03:26.568Z
 dateposted: 2022-05-31T13:03:26.652Z
 tags:
   - post
-keywords: Stocks, researching, productivity, windows
+  - productivity
+keywords: Stocks, researching, productivity, windows,browsers
 image: https://images.unsplash.com/photo-1555212697-194d092e3b8f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80
 imageAlt: Get shit down painting
 draft: true
