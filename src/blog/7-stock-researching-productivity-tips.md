@@ -309,27 +309,27 @@ If you find it very interesting you can even create your own Hotkeys with <a tar
 
 <h2 id="google">Google More Specific</h2>
 
-Let’s say we want a report of a company. We can simple typ type in “Company Name * “Annual Report” filetype:pdf”  and it should be somewhere in the front page.
+Let’s say we want a report of a company. We can simple typ type in <abbr>Company Name * “Annual Report” filetype:pdf</abbr>  and it should be somewhere in the front page.
 
-This: * is to fill in the blanks between words.
+<abbr>*</abbr> is to fill in the blanks between words.
 
-The parentheses “” and the search must cointaint that word or sentence.
+The parentheses <abbr>“”</abbr> and the search must cointaint that word or sentence.
 
-2020..2022 means  within the range of 2020..2022 meaning we should only get those years annual reports in search.
+<abbr>..</abbr> means within the range of 2020..2022.
 
-So if we wouldnt see any annual reports we can type in “annual report”
+So if we wouldnt see any annual reports we can type in <abbr>“annual report”</abbr>
 
-Google something like “company name site:reddit.com” do only find in that specific webpage
+Google something like <abbr>company name site:reddit.com</abbr> do only find in that specific webpage
 
-Type - before a word to exclude it from search.
+Type <abbr>-</abbr> before a word to exclude it from search.
 
-List of more googe tips - <https://www.technolush.com/blog/advanced-google-search-tips>
+<a target="_blank" href="<https://www.technolush.com/blog/advanced-google-search-tips>">List of more googe tips</a>
 
-More <https://i.redd.it/k1nso4ysq2yy.jpg>
+<a target="_blank" href="<https://i.redd.it/k1nso4ysq2yy.jpg>">More</a>
 
-Even More <https://www.reddit.com/r/AskReddit/comments/5t3rk4/people_who_are_google_search_geniuses_what_is/>
+<a target="_blank" href="<https://www.reddit.com/r/AskReddit/comments/5t3rk4/people_who_are_google_search_geniuses_what_is/>">Even More </a>
 
-Google Advanced Search - https://www.google.com/advanced_search
+<a target="_blank" href="https://www.google.com/advanced_search">Google Advanced Search</a>[](https://www.reddit.com/r/AskReddit/comments/5t3rk4/people_who_are_google_search_geniuses_what_is/)
 
 Using forums like reddit could provide useful. Just make sure the forums are not bias, so I prefer reddit.
 
@@ -357,6 +357,8 @@ The tool we use to conduct our research is a machine capable of automation. We a
 
 When we make our device work more smothless we will in turn do more productive research.
 
-If we do repetitive tasks some can be automated, if not all. Windows Task Scheduler is a great tool for some automation.
+If we do repetitive tasks some can be automated, if not all. <a target="_blank" href="https://www.groovypost.com/howto/6-cool-uses-for-the-task-scheduler-in-windows-10/">Windows Task Scheduler</a> is a tool for some automation.
+
+<a target="_blank" href="https://powerautomate.microsoft.com/">Power Automate</a> & AutoHotKey is also automation tools.
 
 Whenever we do a repetitive task we have to think for ourself if a computer could do it. In some cases their are people that have already automated that task.
