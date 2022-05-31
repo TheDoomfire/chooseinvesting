@@ -297,8 +297,6 @@ YouTube Shortcuts:
 
 </ul>
 
-More Windows Shortcuts
-
 <a target="_blank" href="<https://www.windowscentral.com/best-windows-10-keyboard-shortcuts>">More Windows Shortcuts</a>
 
 <a target="_blank" href="https://www.businessinsider.com/chrome-keyboard-shortcuts?r=US&IR=T[](https://www.windowscentral.com/best-windows-10-keyboard-shortcuts)">More Chrome / Browser Shortcuts</a>
