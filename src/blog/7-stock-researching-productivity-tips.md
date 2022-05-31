@@ -291,7 +291,7 @@ YouTube Shortcuts:
 
 <li>
 
-<kbd>&#8594;</kbd> - Back 10 sec
+<kbd>&#8592;</kbd> - Back 10 sec
 
 </li>
 
