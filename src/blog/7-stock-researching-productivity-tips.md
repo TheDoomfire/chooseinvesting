@@ -273,7 +273,7 @@ YouTube Shortcuts:
 
 <li>
 
-<kbd>#8593;</kbd> - Volume Up
+<kbd>&#8593;</kbd> - Volume Up
 
 </li>
 
