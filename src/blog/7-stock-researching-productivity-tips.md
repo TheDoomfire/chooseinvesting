@@ -281,13 +281,13 @@ YouTube Shortcuts:
 
 <li>
 
-<kbd>&#8594;</kbd> - Fast Forward 10 sec
+<kbd>&#8594;</kbd> - Fast Forward &#x293B; 10 sec
 
 </li>
 
 <li>
 
-<kbd>&#8592;</kbd> - Back 10 sec
+<kbd>&#8592;</kbd> - Back &#x293A; 10 sec
 
 </li>
 
@@ -307,7 +307,7 @@ Let’s say we want a report of a company. We can simple typ type in <abbr>Compa
 
 <abbr>*</abbr> is to fill in the blanks between words.
 
-The parentheses <abbr>“”</abbr> and the search must cointaint that word or sentence.
+The quotation mark <abbr>“”</abbr> and the search must cointaint that word or sentence.
 
 <abbr>..</abbr> means within the range of 2020..2022.
 
