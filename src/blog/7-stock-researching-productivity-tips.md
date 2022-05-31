@@ -1,5 +1,5 @@
 ---
-title: 7 Stock Researching Productivity Tips
+title: 7+ Stock Researching Productivity Tips
 description: These tips are not just for stocks but for many other types of
   researching and some may not be as obvious as others. Focusing most on how to
   make this researching work more smothless.
