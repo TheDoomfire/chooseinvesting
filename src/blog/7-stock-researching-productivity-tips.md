@@ -297,8 +297,6 @@ YouTube Shortcuts:
 
 </ul>
 
-Arrow Right & Left - fast forward/back 10sec
-
 More Windows Shortcuts - <https://www.windowscentral.com/best-windows-10-keyboard-shortcuts>
 
 More Chrome / browser Shortcuts - https://www.businessinsider.com/chrome-keyboard-shortcuts?r=US&IR=T
