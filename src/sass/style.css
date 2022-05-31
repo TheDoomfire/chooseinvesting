@@ -78,6 +78,21 @@ figcaption {
   color: white;
 }
 
+kbd {
+  border-radius: 2px;
+  padding: 2px;
+  border: 1px solid black;
+  padding: 0.3em;
+}
+@media (prefers-color-scheme: dark) {
+  kbd {
+    border: 1px solid white;
+  }
+}
+kbd:hover {
+  margin-top: 1px;
+}
+
 .mt {
   margin-top: 10em;
 }
@@ -284,21 +299,28 @@ li a:hover {
   margin-top: 3em;
 }
 .list-nav li {
-  list-style: circle;
+  list-style: none;
+}
+.list-nav li::before {
+  content: "➜ ";
+  font-size: clamp(1.2rem, 5vw, 1.8rem);
 }
 .list-nav li a {
   font-size: clamp(1.2rem, 5vw, 1.8rem);
 }
 
-.list-pro li {
-  list-style-image: URL("../../assets/images/green-yes.svg");
-  list-style-position: inside;
+.list-pros li, .list-pros-cons li li {
+  list-style: none;
 }
-.list-pro span:first-child {
-  color: green;
+.list-pros li::before, .list-pros-cons li li::before {
+  content: "✔ ";
 }
-.list-pro svg {
-  fill: #30AA47;
+
+.list-cons li, .list-pros-cons li:nth-child(2) li {
+  list-style: none;
+}
+.list-cons li::before, .list-pros-cons li:nth-child(2) li::before {
+  content: "✖ ";
 }
 
 .test span:first-child {

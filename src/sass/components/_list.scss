@@ -64,32 +64,49 @@ li {
 .list-nav {
     @extend .list;
     margin-top: 3em;
-    
+    $list-nav-font-size: clamp($font-size * 1.2, 5vw, $font-size * 1.8);
     li {
-        list-style: circle; 
+        list-style: none;
+        
+        &::before {
+            content: "\0279C\000A0";
+            font-size: $list-nav-font-size;
+        }
         a {
-            font-size: clamp($font-size * 1.2, 5vw, $font-size * 1.8);
+            font-size: $list-nav-font-size;
         }
     }
 }
 
-.list-pro {
+.list-pros {
 
     li {
-        list-style-image:URL('../../assets/images/green-yes.svg');
-        list-style-position: inside;
+        list-style: none;
+        &::before {
+            content: "\02714\000A0";
+        }
+    };
+}
+.list-cons {
 
-    }
+    li {
+        list-style: none;
+        &::before {
+            content: "\02716\000A0";
+        }
+    };
+}
 
-    span {
-        &:first-child {
-            color: green;
+.list-pros-cons {
+
+    li {
+        @extend .list-pros;
+        
+        &:nth-child(2) {
+            @extend .list-cons;
         }
     }
 
-    svg {
-        fill: $color-green;
-    }
 }
 
 .test {

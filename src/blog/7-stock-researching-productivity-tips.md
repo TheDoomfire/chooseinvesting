@@ -37,13 +37,11 @@ For example in some stock screeners we can sort by stock multipliers like P/E an
 Setting more multipliers for example P/E under X and P/B under 1 could better find stocks that are more interesting since they fit our criterias.
 
 <ul class="numbers">
-
 <li>
 
 Bloomberg Terminal
 
 The professionals are using this but it’s very expensiv so not realtistic for us regular folk to use.
-
 </li>
 
 <li>
@@ -51,7 +49,6 @@ The professionals are using this but it’s very expensiv so not realtistic for 
 <a target="_blank" href="https://finviz.com/screener.ashx">Fitz</a>
 
 Very populair screener that seems to be the favorite for most people
-
 </li>
 
 <li>
@@ -72,7 +69,7 @@ For international Markets.
 
 <li>
 
-<a target="_blank" href="https://borsdata.se/en">borsdata</a>
+<a target="_blank" href="https://borsdata.se/en">Borsdata</a>
 
 I like this premium but it’s sadly mostly just work for scandinavian companies.
 
@@ -95,7 +92,6 @@ First of all use a good browser that supports Extentions/addons.
 Not in any kind of order:
 
 <ul>
-
 <li>
 
 <a target="_blank" href="https://www.google.com/intl/en/chrome/">Google Chrome</a>
@@ -133,7 +129,6 @@ Pros: Good privacy, customizable, extensions available on android.
 <a target="_blank" href="https://vivaldi.com/">Vivaldi</a>
 
 </li>
-
 </ul>
 
 Test the browser on <a target="_blank" href="http://speed-battle.com/speedtest_e.php">Speed Battle</a> if you want the fastest.
@@ -220,7 +215,7 @@ Apparently most users don’t know this one and I use it for every document I’
 
 <li>
 
-<kbd>CTRL</kbd> + <kbd>+</kbd>/<kbd>-</kbd> - Zoom <kbd>+</kbd> in & <kbd>-</kbd> out
+<kbd>CTRL</kbd> + Zoom <kbd>+</kbd> in & <kbd>-</kbd> out
 
 </li>
 
@@ -240,7 +235,7 @@ In browsers go to next tab. We often find ourselves having many tabs open and th
 
 <li>
 
-<kbd>CTRL</kbd> + <kbd>1</kbd>-<kbd>9</kbd>
+<kbd>CTRL</kbd> + <kbd>1</kbd> - <kbd>9</kbd>
 
 In browsers go to that tab.
 
