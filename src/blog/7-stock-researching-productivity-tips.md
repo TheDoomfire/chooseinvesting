@@ -165,44 +165,137 @@ With <kbd>D</kbd> and <kbd>S</kbd> key you can speed up any kind of video in you
 
 </li>
 
+<li>
 
+<a target="_blank" href="https://www.returnyoutubedislike.com/">Return YouTube Dislike</a>
+
+If a video has a lof of dislikes it is a warning that the video dosen’t probably fufill the promise of the title. Or something else is wrong.
+
+</li>
+
+<li>
+
+<a target="_blank" href="https://chrome.google.com/webstore/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone">SponsorBlock for YouTube</a>
+
+Skips sponsor and intro in youtube videos. Making us able to even faster see all the content.
+
+</li>
 
 </ul>
 
-1. Return YouTube Dislike - If a video has a lof of dislikes it is a warning that the video dosen’t probably fufill the promise of the title. Or something else is wrong.
-2. SponsorBlock för YouTube - Skips sponsor and intro in youtube videos. Making us able to even faster see all the content.
-
-Use Hotkeys
+<h2 id="hotkeys">Use Hotkeys</h2>
 
 Speeds up the process by knowing what to press for keys. Sometimes it’s way faster to press a few buttons than for example scroll.
 
-1. CTRL + F - Find in Page
+<ul>
+
+<li>
+
+<kbd>CTRL</kbd> + <kbd>F</kbd> - Find in Page
 
 Just press this and then type in whatever you want to find in the webpage / document. For example if we want to find the revenue information we just write it in.
 
 Apparently most users don’t know this one and I use it for every document I’ve ever read.
 
-2. CTRL + A, C, V
+</li>
 
-A - Focus all text
+<li>
 
-C - Copies it
+<kbd>CTRL</kbd> + <kbd>A</kbd> - Select All
 
-V - Pasts it.
+</li>
 
-3. CTRL + +/- Zooms in or OUT
-4. Ctrl + L targets the searchbar
-5. CTRL + Shift - In browsers go to next tab. We often find ourselves having many tabs open and this does indeed speed up the process.
-6. CTRL + 1-9 - In browsers go to that tab.
-7. ALT + TAB - Change programs, for example the browser to a PDF reader.
+<li>
 
-YouTube has shortcuts aswell.
+<kbd>CTRL</kbd> + <kbd>C</kbd> - Copy Text
 
-F - Fullscreen
+</li>
 
-Space - Play
+<li>
 
-Arrow Keys up & down - volume
+<kbd>CTRL</kbd> + <kbd>V</kbd> - Paste Text
+
+</li>
+
+<li>
+
+<kbd>CTRL</kbd> + <kbd>+</kbd>/<kbd>-</kbd> - Zoom <kbd>+</kbd> in & <kbd>-</kbd> out
+
+</li>
+
+<li>
+
+<kbd>CTRL</kbd> + <kbd>L</kbd> - Target the searchbar
+
+</li>
+
+<li>
+
+<kbd>CTRL</kbd> + <kbd>Shift</kbd>
+
+In browsers go to next tab. We often find ourselves having many tabs open and this does indeed speed up the process.
+
+</li>
+
+<li>
+
+<kbd>CTRL</kbd> + <kbd>1</kbd>-<kbd>9</kbd>
+
+In browsers go to that tab.
+
+</li>
+
+<li>
+
+<kbd>ALT</kbd> + <kbd>TAB</kbd>
+
+Change programs, for example the browser to a PDF reader.
+
+</li>
+
+</ul>
+
+YouTube Shortcuts:
+
+<ul>
+
+<li>
+
+<kbd>F</kbd> - Fullscreen
+
+</li>
+
+<li>
+
+<kbd>Space</kbd> - Play/Pause
+
+</li>
+
+<li>
+
+<kbd>#8593;</kbd> - Volume Up
+
+</li>
+
+<li>
+
+<kbd>&#8595;</kbd> - Volume Down
+
+</li>
+
+<li>
+
+<kbd>&#8594;</kbd> - Fast Forward 10 sec
+
+</li>
+
+<li>
+
+<kbd>&#8594;</kbd> - Back 10 sec
+
+</li>
+
+</ul>
 
 Arrow Right & Left - fast forward/back 10sec
 
