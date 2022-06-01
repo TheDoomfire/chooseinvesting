@@ -20,7 +20,7 @@ canonical: blog/2022-03-31-treasure-asa-analysis/
     Other than that I don’t quite know why it’s selling so low. Let’s find out and get straight to business.
 </p>
 
-<ul>
+<nav class="list-nav">
     <li><a href="#netassetvalue">Net Asset Value</a></li>
     <li><a href="#equityratio">Equity Ratio</a></li>
     <li><a href="#underlyingasset">The Underlying Asset</a></li>
@@ -29,7 +29,7 @@ canonical: blog/2022-03-31-treasure-asa-analysis/
     <li><a href="#debt">Debt to Equity</a></li>
     <li><a href="#assets">Assets</a></li>
     <li><a href="#conclusion">Conclusion</a></li>
-</ul>
+</nav>
 
 <h2 id="netassetvalue">Net Asset Value</h2>
 

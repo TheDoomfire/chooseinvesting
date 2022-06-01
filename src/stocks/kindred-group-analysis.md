@@ -21,7 +21,7 @@ canonical: blog/2022-03-30-kindred-group-analysis/
 Kindred has grown massively but could still be traded for rather cheap as we will see in this analysis.
 </p>
 
-<ul>
+<nav class="list-nav">
 
 <li><a href="#about-kindred">About Kindred & Cons</a></li>
 
@@ -33,7 +33,7 @@ Kindred has grown massively but could still be traded for rather cheap as we wil
 
 <li><a href="#conclusion">Conclusion</a></li>
 
-</ul>
+</nav>
 
 <h2 id="about-kindred">About Kindred & Cons</h2>
 
