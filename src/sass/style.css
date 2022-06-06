@@ -473,6 +473,22 @@ blockquote p {
   font-size: 1rem;
 }
 
+.rating span {
+  font-weight: 600;
+  font-size: clamp(1rem, 2.5vw, 3rem);
+}
+.rating::before {
+  content: "★ ";
+  color: yellow;
+  font-size: clamp(1rem, 4.5vw, 5rem);
+}
+
+.space-between {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
 .overlay-fullscreen {
   display: none;
   opacity: 1;
