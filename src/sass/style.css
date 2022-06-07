@@ -93,6 +93,13 @@ kbd:hover {
   margin-top: 1px;
 }
 
+em::before {
+  content: "» ";
+}
+em::after {
+  content: " «";
+}
+
 .mt {
   margin-top: 10em;
 }
@@ -475,7 +482,7 @@ blockquote p {
 
 .rating span {
   font-weight: 600;
-  font-size: clamp(1rem, 2.5vw, 3rem);
+  font-size: clamp(1.5rem, 2.5vw, 3rem);
 }
 .rating::before {
   content: "★ ";
@@ -487,6 +494,9 @@ blockquote p {
   display: flex;
   justify-content: space-between;
   align-items: center;
+}
+.space-between h3 {
+  margin-bottom: 1.8em;
 }
 
 .overlay-fullscreen {

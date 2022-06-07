@@ -89,6 +89,16 @@ kbd {
     &:hover {
         margin-top: 1px;
     }
+
+  }
+
+  em {
+      &::before {
+          content: "\000BB\000A0";
+      }
+      &::after {
+        content: "\000A0\000AB";
+      }
   }
 
 //Paddings/margins

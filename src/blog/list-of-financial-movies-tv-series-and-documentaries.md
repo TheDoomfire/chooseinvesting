@@ -12,42 +12,71 @@ image: https://images.unsplash.com/photo-1485846234645-a62644f84728?ixlib=rb-1.2
 imageAlt: Clap board at roadside
 draft: true
 ---
-List of Financial Movies, TV Series, and Documentaries
  
-Full list of every financial movie, TV series, and documentary I could find. Currently a total of 26 but growing.
- 
-Some may not be as good as others but hope you will find anything interesting here.
- 
-Not in any order.
+Some may not be as good as others but hope you will find anything interesting here. Not in any order.
 
 ## Movies:
  
-### The Big Short
-<br>
+<div class="space-between">
+  <h3>The Big Short <span>(2015)</span></h3>
+  <p class="rating"><span>7.8</span>/10</p>
+</div>
 <figure>
 <img loading="lazy" width="100%" src="https://www.theresemabon.se/wp-content/uploads/2016/04/the-big-short-1.jpg" alt="The big short poster">
-<!-- <figcaption>
+<figcaption>
+
+<a target="_blank" href="https://www.youtube.com/watch?v=vgqG3ITMv1Q"><em>Watch Trailer</em></a>
+</figcaption>
+</figure>
+
+This movie exposes a great scam that shows how flawed and corrupt the market is.
+
+Based on a <b>true story</b> and on <a target="_blank" href="https://www.amazon.com/Big-Short-Inside-Doomsday-Machine/dp/0393338827">This Book</a>.
+ 
+ 
+<div class="space-between">
+  <h3>The Wolf of Wallstreet <span>(2013)</span></h3>
+  <p class="rating"><span>8.2</span>/10</p>
+</div>
+<figure>
+<img loading="lazy" width="100%" src="https://wallpaperaccess.com/full/1306888.jpg" alt="The wolf of wallstreet poster">
+<figcaption>
+
+<a target="_blank" href="https://www.youtube.com/watch?v=iszwuX1AK6A"><em>Watch Trailer</em></a>
+</figcaption>
+</figure>
+
+This may be hard to believe but this movie is based on actual events and people.
+
+Based on a <b>true story</b>
 
 <div class="space-between">
-<p>
-Based on a book
-</p>
-<p class="rating"><span>7.8</span>/10</p>
+  <h3>Boiler Room <span>(2000)</span></h3>
+  <p class="rating"><span>7.0</span>/10</p>
 </div>
-</figcaption> -->
+<figure>
+<img loading="lazy" width="100%" src="https://new.static.tv.nu/117055124?forceFit=0&height=720&quality=50&width=1280" alt="Boiler room poster">
+<figcaption>
+
+<a target="_blank" href="https://www.youtube.com/watch?v=kgCLG4gCAvI"><em>Watch Trailer</em></a>
+</figcaption>
 </figure>
  
-This movie exposes a great scam that shows how flawed and corrupt the market is.
- 
-### The Wolf of Wallstreet
- 
-This may be hard to believe but this movie is based on actual events and people.
- 
-### Boiler Room
- 
 Way back before the great recession, it takes place. This movie is loosely based on characters from The Wolf of Wallstreet.
- 
-### Too Big to Fail
+
+Based on a <b>true story</b>
+
+<div class="space-between">
+  <h3>Too Big to Fail <span>(2011)</span></h3>
+  <p class="rating"><span>7.3</span>/10</p>
+</div>
+<figure>
+<img loading="lazy" width="100%" src="https://m.media-amazon.com/images/M/MV5BODI5MzcyNjkyN15BMl5BanBnXkFtZTcwODk0MTUxNQ@@._V1_.jpg" alt="Business man at phone in the street">
+<figcaption>
+
+<a target="_blank" href="https://www.youtube.com/watch?v=HIOLWBD_g1o"><em>Watch Trailer</em></a>
+</figcaption>
+</figure>
  
 The name means that the economic fallout would be too dramatic if it collapsed. If a bank that’s too big to fail fails it does not just mean problems for the bank but a hell of a lot more.
  
@@ -175,3 +204,4 @@ About an algorithm builder and high-frequency trading.
  
 A documentary series that suits people who like wall street and trading. They do cover pre and after the 2008 crash.
 
+<!-- {% include 'components/show-movies.njk' %} -->

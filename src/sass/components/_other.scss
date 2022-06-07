@@ -138,21 +138,26 @@ align-items: center;
 }
 
 .rating {
-
+   // position: static;
     span {
         font-weight: 600;
-        font-size: clamp($font-size, 2.5vw, $font-size * 3);
+        font-size: clamp($font-size * 1.5, 2.5vw, $font-size * 3);
     }
 
     &::before {
-        content: "\02605\000A0";
-        color: $color-yellow;
-        font-size: clamp($font-size, 4.5vw, $font-size * 5);
-    }
+                content: "\02605\000A0";
+                color: $color-yellow;
+                font-size: clamp($font-size, 4.5vw, $font-size * 5);
+            }
 }
 
 .space-between {
     display: flex;
     justify-content: space-between;
     align-items: center;
+
+    h3 {
+        //Cant get the objects to be next to eachother so this is a temporarily solution.
+        margin-bottom: 1.8em;
+    }
 }

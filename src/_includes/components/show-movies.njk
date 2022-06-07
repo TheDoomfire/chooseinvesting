@@ -1,0 +1,18 @@
+<h2>Movies:</h2>
+
+{%- for movies in components/show-movies -%}
+<div class="space-between">
+<h3>{{ title }} <span>(2000)</span></h3>
+<p class="rating"><span>7.0</span>/10</p>
+</div>
+<figure>
+<img loading="lazy" width="100%" src="https://new.static.tv.nu/117055124?forceFit=0&height=720&quality=50&width=1280" alt="Boiler room poster">
+<figcaption>
+
+<a target="_blank" href="hello"><em>Watch Trailer</em></a>
+</figcaption>
+</figure>
+<p>
+{{ post.data.description }}
+</p>
+{%- endfor -%}

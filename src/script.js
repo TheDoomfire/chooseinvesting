@@ -97,3 +97,20 @@ function scalePages(page, maxWidth, maxHeight) {
   page.attr('style', '-webkit-transform:scale(' + basePage.scale + ');left:' + newLeftPos + 'px;top:' + newTopPos + 'px;');
 }
 });
+
+//Trying to save data for use in nunjucks template
+var nunjucks = require('nunjucks');
+nunjucks.render(
+  'components/show-movies.njk', {
+    movies: [
+    {
+      title: "hello",
+      year: "2001"
+    },
+    {
+      title: "hello2",
+      year: "2002"
+    }
+    ]
+  }
+)
