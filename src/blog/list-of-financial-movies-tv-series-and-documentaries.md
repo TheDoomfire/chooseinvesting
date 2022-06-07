@@ -299,8 +299,7 @@ Before computer trading, there was a trading floor and the job was very stressfu
  
 A great introduction to economics.
  
-And there are three books. "Freakonomics", "Superfreakonomics", and "Think Like a Freak".
-<a target="_blank" href="https://www.amazon.com/Freakonomics-Revised-Edition-audiobook/dp/B000TK5BS2/ref=sr_1_1?keywords=Freakonomics&qid=1654626606&s=books&sr=1-1">Freakonomics</a>, <a target="_blank" href="https://www.amazon.com/SuperFreakonomics-audiobook/dp/B002TNABPK/ref=sr_1_1?crid=2SHK1560D41O7&keywords=Superfreakonomics&qid=1654626675&s=audible&sprefix=superfreakonomics%2Caudible%2C351&sr=1-1">Superfreakonomics</a> and <a target="_blank" href="https://www.amazon.com/Think-Like-Freak-audiobook/dp/B00JBL4NJ8/ref=sr_1_1?crid=NAU53LC3GBYZ&keywords=Think+Like+a+Freak&qid=1654626800&s=audible&sprefix=think+like+a+freak%2Caudible%2C505&sr=1-1">Think Like a Freak</a>
+And there are three books. <a target="_blank" href="https://www.amazon.com/Freakonomics-Revised-Edition-audiobook/dp/B000TK5BS2/ref=sr_1_1?keywords=Freakonomics&qid=1654626606&s=books&sr=1-1">Freakonomics</a>, <a target="_blank" href="https://www.amazon.com/SuperFreakonomics-audiobook/dp/B002TNABPK/ref=sr_1_1?crid=2SHK1560D41O7&keywords=Superfreakonomics&qid=1654626675&s=audible&sprefix=superfreakonomics%2Caudible%2C351&sr=1-1">Superfreakonomics</a> and <a target="_blank" href="https://www.amazon.com/Think-Like-Freak-audiobook/dp/B00JBL4NJ8/ref=sr_1_1?crid=NAU53LC3GBYZ&keywords=Think+Like+a+Freak&qid=1654626800&s=audible&sprefix=think+like+a+freak%2Caudible%2C505&sr=1-1">Think Like a Freak</a>
  
 Even have a <a target="_blank" href="https://freakonomics.com/series/freakonomics-radio/">podcast</a>
 
