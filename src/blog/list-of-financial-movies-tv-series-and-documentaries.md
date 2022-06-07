@@ -80,31 +80,83 @@ Based on a <b>true story</b>
  
 The name means that the economic fallout would be too dramatic if it collapsed. If a bank that’s too big to fail fails it does not just mean problems for the bank but a hell of a lot more.
  
-### Margin Call
+<div class="space-between">
+  <h3>Margin Call <span>(2011)</span></h3>
+  <p class="rating"><span>7.1</span>/10</p>
+</div>
+<figure>
+<img loading="lazy" width="100%" src="https://www.justwatch.com/images/backdrop/8951950/s640/margin-call" alt="Margin call poster">
+<figcaption>
+
+<a target="_blank" href="https://www.youtube.com/watch?v=IjZ-ke1kJrA"><em>Watch Trailer</em></a>
+</figcaption>
+</figure>
  
 This movie takes place during the early stages of the 2008 great recession. Loved it.
- 
-“Explain it to me as you would to a small child, or a golden retriever”
 
-### Moneyball 
+Based on a <b>true story</b>
+
+<div class="space-between">
+  <h3>Moneyball <span>(2011)</span></h3>
+  <p class="rating"><span>7.6</span>/10</p>
+</div>
+<figure>
+<img loading="lazy" width="100%" src="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/21cba7b45b2c504bd56fab751a8a032775992d9ee760aa51ac5b4ee437d21443._V_SX1080_.jpg" alt="Baseball captain">
+<figcaption>
+
+<a target="_blank" href="https://www.youtube.com/watch?v=-4QPVo0UIzc"><em>Watch Trailer</em></a>
+</figcaption>
+</figure>
  
 How people who had nothing to do with baseball. Had a theory on how to use statistics and probability to find undervalued players.
  
 And then finally a baseball captain tries this method.
  
-Based on a true story.
+Based on a <b>true story</b>
 
-### Inside Job 2010
+<div class="space-between">
+  <h3>Inside Job <span>(2010)</span></h3>
+  <p class="rating"><span>8.2</span>/10</p>
+</div>
+<figure>
+<img loading="lazy" width="100%" src="https://cdn.playpilot.tech/5ac5cf6ab1dd11ecb14e0a58a9feac02/src/img?optimizer=image&quality=75&width=1280&aspect_ratio=16%3A9" alt="Business man stands on a pile of cash with his back turned and fingers crossed">
+<figcaption>
+
+<a target="_blank" href="https://www.youtube.com/watch?v=FzrBurlJUNk"><em>Watch Trailer</em></a> &nbsp; or &nbsp; <a target="_blank" href="https://www.youtube.com/watch?v=T2IaJwkqgPk"><em>Full Documentary Movie (free)</em></a>
+</figcaption>
+</figure>
  
-Yet another 2008 financial documentary that’s about the systematic corruption in America. I find this documentary being a bit complex.
+Yet another 2008 financial documentary that’s about the systematic corruption in America. I find this documentary being a bit complex but very well made.
  
-### Enron: The Smartest Guys in the Room
+<div class="space-between">
+  <h3>Enron: The Smartest Guys in the Room <span>(2005)</span></h3>
+  <p class="rating"><span>7.6</span>/10</p>
+</div>
+<figure>
+<img loading="lazy" width="100%" src="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/21a1581d003af74f96b89aabf5417708b5a79df57f3a8f96bb28bb98574ac20c._UY500_UX667_RI_V_TTW_.jpg" alt="Enron movie poster">
+<figcaption>
+
+<a target="_blank" href="https://www.youtube.com/watch?v=-w6duQhWuVk"><em>Watch Trailer</em></a> &nbsp; or &nbsp; <a target="_blank" href="https://www.youtube.com/watch?v=rDyMz1V-GSg"><em>Full Documentary Movie (free)</em></a>
+</figcaption>
+</figure>
  
-Based on the book with the same name. Explains in simple terms about an American company that was a scam.
+Explains in simple terms about an American company that was a scam.
  
 Very interesting that a company of that size was involved in so many criminal scams.
- 
-### Wall Street: Money Never Sleeps
+
+Based on a <b>true story</b> and this <a target="_blank" href="https://www.amazon.com/Smartest-Guys-Room-Amazing-Scandalous/dp/1591840538">this book</a>
+
+<div class="space-between">
+  <h3>Wall Street: Money Never Sleeps <span>(2010)</span></h3>
+  <p class="rating"><span>6.2</span>/10</p>
+</div>
+<figure>
+<img loading="lazy" width="100%" src="https://new.static.tv.nu/37882922?forceFit=1&height=675&width=1200" alt="Two business men posing">
+<figcaption>
+
+<a target="_blank" href="https://www.youtube.com/watch?v=HcMFA2SHES4"><em>Watch Trailer</em></a>
+</figcaption>
+</figure>
  
 Or better known as “Wall Street 2”
  
@@ -112,37 +164,99 @@ Around the 2008 financial crisis
  
 ## TV Series:
  
-### Billions
+<div class="space-between">
+  <h3>Billions <span>(2016-)</span></h3>
+  <p class="rating"><span>8.4</span>/10</p>
+</div>
+<figure>
+<img loading="lazy" width="100%" src="https://www.svtstatic.se/image/large/1024/30223194/1613746518?format=auto&chromaSubSampling=false&enableAvif=true" alt="Billions poster">
+<figcaption>
+
+<a target="_blank" href="https://www.youtube.com/watch?v=_raEUMLL-ZI"><em>Watch Trailer</em></a>
+</figcaption>
+</figure>
  
 This series is very well made and about a hedge fund. It can be very hard to understand so it would take a few episodes and some re-watching to understand it all. At least for me.
  
 But at some point, you will love and hate almost every character in the show. And it does a great job at showing a more brutal reality.
  
-### Black Monday
+<div class="space-between">
+  <h3>Black Monday <span>(2019-2021)</span></h3>
+  <p class="rating"><span>7.4</span>/10</p>
+</div>
+<figure>
+<img loading="lazy" width="100%" src="https://d2iltjk184xms5.cloudfront.net/uploads/photo/file/393928/d81e5af20f8a2c3e2d5c38cfc581403d-Black_20Monday2.png" alt="Two businessmen and a bussiness woman standing on wall street">
+<figcaption>
+
+<a target="_blank" href="https://www.youtube.com/watch?v=o2yEnwgvsts"><em>Watch Trailer</em></a>
+</figcaption>
+</figure>
  
 About black Monday when the Dow Jones Industrial Average lost almost 22% in a single day.
  
 This happened in 1987. And computerized trading was a pretty new thing that aided in that massive drop.
  
 ## Documentaries:
- 
-### Black Wednesday
+
+<div class="space-between">
+  <h3>Black Wednesday <span>(1997)</span></h3>
+  <p class="rating"><span>7.2</span>/10</p>
+</div>
+<figure>
+<img loading="lazy" width="100%" src="http://prod-upp-image-read.ft.com/1157a334-97d5-11e7-8c5c-c8d8fa6961bb" alt="Businessman reading a newspaper in a busy street">
+<figcaption>
+
+<a target="_blank" href="https://www.youtube.com/watch?v=K_oET45GzMI"><em>Watch Full Documentary Movie (free)</em></a>
+</figcaption>
+</figure>
  
 Black Wednesday refers to September 16, 1992. When the UK government had to withdraw from the European Exchange Rate. Because their currency pound declined massively.
  
-### Inside the Meltdown
+<div class="space-between">
+  <h3>Inside the Meltdown <span>(2009)</span></h3>
+  <p class="rating"><span>8.1</span>/10</p>
+</div>
+<figure>
+<img loading="lazy" width="100%" src="https://image.pbs.org/video-assets/pbs/frontline/13385/images/Mezzanine_329.jpg?focalcrop=1200x630x50x10&format=auto" alt="Businessman leaning against a wall and looking down">
+<figcaption>
+
+<a target="_blank" href="https://www.youtube.com/watch?v=3dsUk5akwLQ"><em>Watch Full Documentary Movie (free)</em></a>
+</figcaption>
+</figure>
  
 About the 2008 recession.
- 
-### Capitalism: A Love Story
+
+<div class="space-between">
+  <h3>Capitalism: A Love Story <span>(2009)</span></h3>
+  <p class="rating"><span>7.4</span>/10</p>
+</div>
+<figure>
+<img loading="lazy" width="100%" src="https://i-viaplay-com.akamaized.net/viaplay-prod/990/664/1560330949-58dff2a76c30b207e9ef83dba3017996e6fe6350.jpg?width=960&height=540" alt="Businessman waving a american flag to the people while holding a bag of cash behind his back">
+<figcaption>
+
+  <a target="_blank" href="https://www.youtube.com/watch?v=JeROnVUADj0"><em>Watch Trailer</em></a> &nbsp; or &nbsp; <a target="_blank" href="https://www.youtube.com/watch?v=cK4H79j1I4A"><em>Full Documentary Movie (free)</em></a>
+</figcaption>
+</figure>
  
 Showing the system and idea that American corporations are executing. And what the public has to pay for it. The capitalist system in America differs from a lot of other countries.
  
-### The Corporation
+<div class="space-between">
+  <h3>The Corporation <span>(2003)</span></h3>
+  <p class="rating"><span>8.0</span>/10</p>
+</div>
+<figure>
+<img loading="lazy" width="100%" src="https://watchdocumentaries.com/wp-content/uploads/the-corporation.jpg" alt="Cartoon of a red businessman with a halo and a devils tail">
+<figcaption>
+
+<a target="_blank" href="https://www.youtube.com/watch?v=5LKBRCaUUc0"><em>Watch Trailer</em></a> &nbsp; or &nbsp; <a target="_blank" href="https://www.youtube.com/watch?v=zpQYsk-8dWg"><em>Full Documentary Movie (free)</em></a>
+</figcaption>
+</figure>
  
 Long and interesting documentary about what is a corporation. And how do they affect our daily lives? Even compare corporations to sociopaths in a brilliant matter. A long and interesting
  
-Based on the book.
+Based on <a target="_blank" href="https://www.amazon.com/Corporation-Pathological-Pursuit-Profit-Power/dp/0743247469">this book</a>.
+
+
  
 ### Dirty Money: Drug Short - Documentary Series
  
