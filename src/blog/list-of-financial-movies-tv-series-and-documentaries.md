@@ -257,64 +257,182 @@ Long and interesting documentary about what is a corporation. And how do they af
 Based on <a target="_blank" href="https://www.amazon.com/Corporation-Pathological-Pursuit-Profit-Power/dp/0743247469">this book</a>.
 
 
- 
-### Dirty Money: Drug Short - Documentary Series
+<div class="space-between">
+  <h3>Dirty Money: Drug Short <span>(2018)</span></h3>
+  <p class="rating"><span>8.5</span>/10</p>
+</div>
+<figure>
+<img loading="lazy" width="100%" src="https://simkl.net/episodes/64/64948903d3a3cb2ff_0.jpg" alt="Pills on a surface">
+<figcaption>
+
+<a target="_blank" href="https://www.youtube.com/watch?v=CsplLiZHbj0"><em>Watch Trailer</em></a>
+</figcaption>
+</figure>
  
 Maybe you have heard of Martin Shkreli that raised the price of a life-saving drug by 5455%. Big pharmaceuticals are allowed to do this in America and that's kinda messed up.
  
-### Floored
+<div class="space-between">
+  <h3>Floored <span>(2009)</span></h3>
+  <p class="rating"><span>6.7</span>/10</p>
+</div>
+<figure>
+<img loading="lazy" width="100%" src="https://i0.wp.com/www.marketcalls.in/wp-content/uploads/2016/08/equities-trading-floor.jpg?resize=680%2C420" alt="Trading floor filled with traders">
+<figcaption>
+
+<a target="_blank" href="https://www.youtube.com/watch?v=lW37sEkXMMc"><em>Watch Trailer</em></a> &nbsp; or &nbsp; <a target="_blank" href="https://www.youtube.com/watch?v=--H8SY334Zw"><em>Full Documentary Movie (free)</em></a>
+</figcaption>
+</figure>
  
 Before computer trading, there was a trading floor and the job was very stressful. And then computer trading came to be.
- 
-### Freakonomics
+
+<div class="space-between">
+  <h3>Freakonomics <span>(2010)</span></h3>
+  <p class="rating"><span>6.3</span>/10</p>
+</div>
+<figure>
+<img loading="lazy" width="100%" src="https://images-na.ssl-images-amazon.com/images/S/sgp-catalog-images/region_US/magnolia-FREAKMAG-Full-Image_GalleryCover-en-US-1484002114909._UY500_UX667_RI_V84adff5f3533467957d4b1c0d1f1cd04_TTW_.jpg" alt="Sliced apple that's a orange on the inside">
+<figcaption>
+
+<a target="_blank" href="https://www.youtube.com/watch?v=LrceH3952Hg"><em>Watch Trailer</em></a> &nbsp; or &nbsp; <a target="_blank" href="https://www.youtube.com/watch?v=1sB2q1JlW8Y"><em>Full Documentary Movie (free)</em></a>
+</figcaption>
+</figure>
  
 A great introduction to economics.
  
-Based on the book
- 
 And there are three books. "Freakonomics", "Superfreakonomics", and "Think Like a Freak".
+<a target="_blank" href="https://www.amazon.com/Freakonomics-Revised-Edition-audiobook/dp/B000TK5BS2/ref=sr_1_1?keywords=Freakonomics&qid=1654626606&s=books&sr=1-1">Freakonomics</a>, <a target="_blank" href="https://www.amazon.com/SuperFreakonomics-audiobook/dp/B002TNABPK/ref=sr_1_1?crid=2SHK1560D41O7&keywords=Superfreakonomics&qid=1654626675&s=audible&sprefix=superfreakonomics%2Caudible%2C351&sr=1-1">Superfreakonomics</a> and <a target="_blank" href="https://www.amazon.com/Think-Like-Freak-audiobook/dp/B00JBL4NJ8/ref=sr_1_1?crid=NAU53LC3GBYZ&keywords=Think+Like+a+Freak&qid=1654626800&s=audible&sprefix=think+like+a+freak%2Caudible%2C505&sr=1-1">Think Like a Freak</a>
  
-Even have a podcast
- 
-### The China Hustle
+Even have a <a target="_blank" href="https://freakonomics.com/series/freakonomics-radio/">podcast</a>
+
+<div class="space-between">
+  <h3>The China Hustle <span>(2017)</span></h3>
+  <p class="rating"><span>7.1</span>/10</p>
+</div>
+<figure>
+<img loading="lazy" width="100%" src="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/40af6569ad19c7acd7dca820ab4afc7805c0d5215145434df03c73cd87d39ec8._UY500_UX667_RI_V_TTW_.jpg" alt="The China Hustle poster">
+<figcaption>
+
+<a target="_blank" href="https://www.youtube.com/watch?v=55892jT06aI"><em>Watch Trailer</em></a> &nbsp; or &nbsp; <a target="_blank" href="https://www.youtube.com/watch?v=O-EM4J0POZw"><em>Full Documentary Movie (free)</em></a>
+</figcaption>
+</figure>
  
 It’s about American scammers that preyed on small Chinese companies to fool investors.
- 
-### Million Dollar Traders (3-part series)
+
+<div class="space-between">
+  <h3>Million Dollar Traders <span>(2009-)</span></h3>
+  <p class="rating"><span>7.3</span>/10</p>
+</div>
+<figure>
+<img loading="lazy" width="100%" src="https://ichef.bbci.co.uk/images/ic/624x351/p01l3hsq.jpg" alt="Million Dollar Traders poster">
+<figcaption>
+
+<a target="_blank" href="https://www.youtube.com/watch?v=oXno18pOHgo"><em>Part 1</em></a> <a target="_blank" href="https://www.youtube.com/watch?v=Qo03EF3okz4"><em>Part 2</em></a> <a target="_blank" href="https://www.youtube.com/watch?v=Y--PjLk1A1Y"><em>Part 3</em></a> (all free)
+</figcaption>
+</figure>
  
 12 wannabe traders are given $1 million and then the financial crisis happens.
- 
-### Mind Over Money
+
+<div class="space-between">
+  <h3>Mind Over Money <span>(2010)</span></h3>
+  <p class="rating"><span>7.1</span>/10</p>
+</div>
+<figure>
+<img loading="lazy" width="100%" src="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/877d194afa354660b72a4289192cd6a700d4efd36874fba79820e26ebad036c9._UY500_UX667_RI_V_TTW_SX329_.jpg" alt="Mind over money poster">
+<figcaption>
+
+<a target="_blank" href="https://www.youtube.com/watch?v=dNwFyB7HjuE"><em>Full Documentary Movie (free)</em></a>
+</figcaption>
+</figure>
  
 Why did mainstream economics fail to predict the 2008 financial crash?
  
 Human psychology and the financial market. Can markets be rational when humans aren't?
- 
-### Money & Speed: Inside the Black Box
+
+<div class="space-between">
+  <h3>Money & Speed: Inside the Black Box <span>(2011)</span></h3>
+  <p class="rating"><span>8.2</span>/10</p>
+</div>
+<figure>
+<img loading="lazy" width="100%" src="https://www.researchgate.net/profile/Peter-Sonderen/publication/349821813/figure/fig1/AS:997998083440640@1614952693454/PRO-and-Catalogtree-Money-Speed-Inside-the-Black-Box-2011-Still-from-a-dynamic-data.ppm" alt="Stock screener">
+<figcaption>
+
+<a target="_blank" href="https://www.youtube.com/watch?v=Gc29yTSNK4E"><em>Full Documentary Movie (free)</em></a>
+</figcaption>
+</figure>
  
 About the trading market. It's scary to see how the big traders can “gamble” and if enough of them make bad bets, the public has to pay for it.
- 
-### Money For Nothing
+
+<div class="space-between">
+  <h3>Money For Nothing <span>(2013)</span></h3>
+  <p class="rating"><span>7.3</span>/10</p>
+</div>
+<figure>
+<img loading="lazy" width="100%" src="https://www.justwatch.com/images/backdrop/263278185/s640/money-for-nothing-inside-the-federal-reserve" alt="Money for nothing poster">
+<figcaption>
+
+<a target="_blank" href="https://www.youtube.com/watch?v=LkIPiA2QHmI"><em>Watch Trailer</em></a> &nbsp; or &nbsp; <a target="_blank" href="https://www.youtube.com/watch?v=LJkljVZ_M3w"><em>Full Documentary Movie (free)</em></a>
+</figcaption>
+</figure>
  
 American federal reserve and how it affects our society.
- 
-### Quants: The Alchemists Of Wall Street
- 
+
+<div class="space-between">
+  <h3>Quants: The Alchemists Of Wall Street <span>(2010)</span></h3>
+  <p class="rating"><span>7.1</span>/10</p>
+</div>
+<figure>
+<img loading="lazy" width="100%" src="https://watchdocumentaries.com/wp-content/uploads/quants-the-alchemists-of-wall-street.jpg" alt="Quants the alchemists of wall street poster">
+<figcaption>
+
+<a target="_blank" href="https://www.youtube.com/watch?v=ed2FWNWwE3I"><em>Watch Full Documentary Movie (free)</em></a>
+</figcaption>
+</figure>
+
 Quants are math guys that focus on the quantitative part of the business. Some of these guys are smart and it’s kinda depressing that they work for the CEO.
  
 Today's einstein may very well be working for a CEO on wall street.
- 
-### The Trillion Dollar Bet
+
+<div class="space-between">
+  <h3>The Trillion Dollar Bet <span>(2000)</span></h3>
+  <p class="rating"><span>7.2</span>/10</p>
+</div>
+<figure>
+<img loading="lazy" width="100%" src="https://www.pbs.org/wgbh/nova/stockmarket/images/stockmarkethomeimage.jpg" alt="The Trillion Dollar Bet poster">
+<figcaption>
+
+<a target="_blank" href="https://watchdocumentaries.com/trillion-dollar-bet/"><em>Watch Full Documentary Movie (free)</em></a>
+</figcaption>
+</figure>
  
 The history behind one of the greatest financial formulas Black-Scholes-Merton options pricing model. Where two of its creators were awarded the Nobel Prize for this formula.
  
 And they created a hedge fund together. Which failed massively.
- 
-### The Wall Street Code
- 
+
+<div class="space-between">
+  <h3>The Wall Street Code <span>(2013)</span></h3>
+  <p class="rating"><span>8.7</span>/10</p>
+</div>
+<figure>
+<img loading="lazy" width="100%" src="https://watchdocumentaries.com/wp-content/uploads/the-wall-street-code.jpg" alt="Money for nothing poster">
+<figcaption>
+
+<a target="_blank" href="https://www.youtube.com/watch?v=kFQJNeQDDHA"><em>Watch Full Documentary Movie (free)</em></a>
+</figcaption>
+</figure>
+
 About an algorithm builder and high-frequency trading.
- 
-### Wall Street Warriors (series)
+
+<div class="space-between">
+  <h3>Wall Street Warriors  <span>(2006-)</span></h3>
+  <p class="rating"><span>7.2</span>/10</p>
+</div>
+<figure>
+<img loading="lazy" width="100%" src="https://static.next-episode.net/tv-shows-images/huge/wall-street-warriors.jpg" alt="Wall Street Warriors poster">
+<figcaption>
+
+<a target="_blank" href="https://www.youtube.com/watch?v=HzE248nqj4w&list=PLD8QO40miutZxBq_9xB2vAgh1WngMh8x0"><em>All 3 Seasons (free)</em></a>
+</figcaption>
+</figure>
  
 A documentary series that suits people who like wall street and trading. They do cover pre and after the 2008 crash.
 
