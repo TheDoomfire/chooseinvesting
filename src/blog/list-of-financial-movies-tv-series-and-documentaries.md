@@ -6,8 +6,8 @@ date: 2022-06-06
 dateposted: 2022-06-06
 tags:
   - post
-  - media
-keywords: Stocks, researching, productivity, windows,browsers
+  - movies
+keywords: financial movies, stocks, financial, movie, documentary, investing
 image: https://images.unsplash.com/photo-1485846234645-a62644f84728?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=859&q=80
 imageAlt: Clap board at roadside
 draft: true
@@ -29,13 +29,18 @@ Some may not be as good as others but hope you will find anything interesting he
 </figcaption>
 </figure>
 
-This movie exposes a great scam that shows how flawed and corrupt the market is.
+Shorting in business means betting against. You lending an overpriced asset and selling it. Then wait, buy it back and keep the change. 
+ 
+Before the 2008 crisis, some people did figure out the crash was going to happen. And they were alone in thinking that and got laughed at. Well, until it happens that is.
+ 
+This movie is very hilarious and well made. Few financial movies are this good and have these quality actors.
+
 
 Based on a <b>true story</b> and on <a target="_blank" href="https://www.amazon.com/Big-Short-Inside-Doomsday-Machine/dp/0393338827">This Book</a>.
  
  
 <div class="space-between">
-  <h3>The Wolf of Wallstreet <span>(2013)</span></h3>
+  <h3>The Wolf of Wall Street <span>(2013)</span></h3>
   <p class="rating"><span>8.2</span>/10</p>
 </div>
 <figure>
@@ -46,7 +51,12 @@ Based on a <b>true story</b> and on <a target="_blank" href="https://www.amazon.
 </figcaption>
 </figure>
 
+The story of a stockbroker who dreamt of the American dream but then the corporate dream. The greed is so strong and the things these guys get away with are insane.
+ 
 This may be hard to believe but this movie is based on actual events and people.
+ 
+Very hilarious movie and also well made with great actors.
+
 
 Based on a <b>true story</b>
 
@@ -62,7 +72,10 @@ Based on a <b>true story</b>
 </figcaption>
 </figure>
  
-Way back before the great recession, it takes place. This movie is loosely based on characters from The Wolf of Wallstreet.
+
+Way back before the great recession. When corporate fraud and stuff like that got built up.
+
+This movie is loosely based on characters from The Wolf of Wall Street. But plays out before the fact and not after as in The Wolf of Wall Street 
 
 Based on a <b>true story</b>
 
@@ -79,7 +92,13 @@ Based on a <b>true story</b>
 </figure>
  
 The name means that the economic fallout would be too dramatic if it collapsed. If a bank that’s too big to fail fails it does not just mean problems for the bank but a hell of a lot more.
- 
+
+This movie takes place in the 2008 financial crisis.
+
+I don’t know what I like about this movie just that I do in fact like this movie a lot.
+
+Based on a <b>true story</b> and on <a target="_blank" href="https://www.amazon.com/Too-Big-to-Fail-audiobook/dp/B002VGER5A/ref=sr_1_1?crid=2RWBPUR31D9JT&keywords=Too+Big+to+Fail%3A+The+Inside+Story+of+How+Wall+Street+and+Washington+Fought+to+Save+the+Financial+System&qid=1654681535&sprefix=too+big+to+fail+the+inside+story+of+how+wall+street+and+washington+fought+to+save+the+financial+system%2Caps%2C559&sr=8-1">This Book</a>
+
 <div class="space-between">
   <h3>Margin Call <span>(2011)</span></h3>
   <p class="rating"><span>7.1</span>/10</p>
@@ -92,6 +111,8 @@ The name means that the economic fallout would be too dramatic if it collapsed. 
 </figcaption>
 </figure>
  
+Margin Call is when you are forced to sell an asset. Because you have so many loans so if it drops too much you won’t have money to pay back the lender.
+
 This movie takes place during the early stages of the 2008 great recession. Loved it.
 
 Based on a <b>true story</b>
@@ -108,11 +129,13 @@ Based on a <b>true story</b>
 </figcaption>
 </figure>
  
-How people who had nothing to do with baseball. Had a theory on how to use statistics and probability to find undervalued players.
+A guy who worked in a cannery and never once played baseball. Once wrote a book about using statistics and probability to find undervalued baseball players.
  
-And then finally a baseball captain tries this method.
+And then finally a baseball captain hires an economist and tries this method.
  
-Based on a <b>true story</b>
+I never thought a film about baseball could be so financially related. And shows so well how we as people behave and value based on unrelated criteria.
+ 
+Based on a <b>true story</b> and on <a target="_blank" href="https://www.amazon.com/Bill-James/e/B000APEB6Y?ref=sr_ntt_srch_lnk_3&qid=1654683193&sr=8-3">Bill James</a>
 
 <div class="space-between">
   <h3>Inside Job <span>(2010)</span></h3>

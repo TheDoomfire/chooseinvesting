@@ -99,7 +99,7 @@ function scalePages(page, maxWidth, maxHeight) {
 });
 
 //Trying to save data for use in nunjucks template
-var nunjucks = require('nunjucks');
+/* var nunjucks = require('nunjucks');
 nunjucks.render(
   'components/show-movies.njk', {
     movies: [
@@ -113,4 +113,6 @@ nunjucks.render(
     }
     ]
   }
-)
+) */
+
+var items = [{ title: "foo", id: 1 }, { title: "bar", id: 2}];
