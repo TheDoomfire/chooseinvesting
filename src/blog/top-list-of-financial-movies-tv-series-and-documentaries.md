@@ -1,5 +1,5 @@
 ---
-title: List of Financial Movies, TV Series, and Documentaries
+title: Top List of Financial Movies, TV Series, and Documentaries
 description: Full list of every financial movie, TV series, and documentary I could find. Currently a total of 26 but growing.
 author: Albini
 date: 2022-06-06
@@ -138,38 +138,6 @@ I never thought a film about baseball could be so financially related. And shows
 Based on a <b>true story</b> and on <a target="_blank" href="https://www.amazon.com/Bill-James/e/B000APEB6Y?ref=sr_ntt_srch_lnk_3&qid=1654683193&sr=8-3">Bill James</a>
 
 <div class="space-between">
-  <h3>Inside Job <span>(2010)</span></h3>
-  <p class="rating"><span>8.2</span>/10</p>
-</div>
-<figure>
-<img loading="lazy" width="100%" src="https://cdn.playpilot.tech/5ac5cf6ab1dd11ecb14e0a58a9feac02/src/img?optimizer=image&quality=75&width=1280&aspect_ratio=16%3A9" alt="Business man stands on a pile of cash with his back turned and fingers crossed">
-<figcaption>
-
-<a target="_blank" href="https://www.youtube.com/watch?v=FzrBurlJUNk"><em>Watch Trailer</em></a> &nbsp; or &nbsp; <a target="_blank" href="https://www.youtube.com/watch?v=T2IaJwkqgPk"><em>Full Documentary Movie (free)</em></a>
-</figcaption>
-</figure>
- 
-Yet another 2008 financial documentary that’s about the systematic corruption in America. I find this documentary being a bit complex but very well made.
- 
-<div class="space-between">
-  <h3>Enron: The Smartest Guys in the Room <span>(2005)</span></h3>
-  <p class="rating"><span>7.6</span>/10</p>
-</div>
-<figure>
-<img loading="lazy" width="100%" src="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/21a1581d003af74f96b89aabf5417708b5a79df57f3a8f96bb28bb98574ac20c._UY500_UX667_RI_V_TTW_.jpg" alt="Enron movie poster">
-<figcaption>
-
-<a target="_blank" href="https://www.youtube.com/watch?v=-w6duQhWuVk"><em>Watch Trailer</em></a> &nbsp; or &nbsp; <a target="_blank" href="https://www.youtube.com/watch?v=rDyMz1V-GSg"><em>Full Documentary Movie (free)</em></a>
-</figcaption>
-</figure>
- 
-Explains in simple terms about an American company that was a scam.
- 
-Very interesting that a company of that size was involved in so many criminal scams.
-
-Based on a <b>true story</b> and this <a target="_blank" href="https://www.amazon.com/Smartest-Guys-Room-Amazing-Scandalous/dp/1591840538">this book</a>
-
-<div class="space-between">
   <h3>Wall Street: Money Never Sleeps <span>(2010)</span></h3>
   <p class="rating"><span>6.2</span>/10</p>
 </div>
@@ -234,7 +202,40 @@ This happened in 1987. And computerized trading was a pretty new thing that aide
 </figure>
  
 Black Wednesday refers to September 16, 1992. When the UK government had to withdraw from the European Exchange Rate. Because their currency pound declined massively.
+
+<div class="space-between">
+  <h3>Inside Job <span>(2010)</span></h3>
+  <p class="rating"><span>8.2</span>/10</p>
+</div>
+<figure>
+<img loading="lazy" width="100%" src="https://cdn.playpilot.tech/5ac5cf6ab1dd11ecb14e0a58a9feac02/src/img?optimizer=image&quality=75&width=1280&aspect_ratio=16%3A9" alt="Business man stands on a pile of cash with his back turned and fingers crossed">
+<figcaption>
+
+<a target="_blank" href="https://www.youtube.com/watch?v=FzrBurlJUNk"><em>Watch Trailer</em></a> &nbsp; or &nbsp; <a target="_blank" href="https://www.youtube.com/watch?v=T2IaJwkqgPk"><em>Full Documentary Movie (free)</em></a>
+</figcaption>
+</figure>
  
+Yet another 2008 financial documentary that’s about the systematic corruption in America. I find this documentary being a bit complex but very well made.
+ 
+<div class="space-between">
+  <h3>Enron: The Smartest Guys in the Room <span>(2005)</span></h3>
+  <p class="rating"><span>7.6</span>/10</p>
+</div>
+<figure>
+<img loading="lazy" width="100%" src="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/21a1581d003af74f96b89aabf5417708b5a79df57f3a8f96bb28bb98574ac20c._UY500_UX667_RI_V_TTW_.jpg" alt="Enron movie poster">
+<figcaption>
+
+<a target="_blank" href="https://www.youtube.com/watch?v=-w6duQhWuVk"><em>Watch Trailer</em></a> &nbsp; or &nbsp; <a target="_blank" href="https://www.youtube.com/watch?v=rDyMz1V-GSg"><em>Full Documentary Movie (free)</em></a>
+</figcaption>
+</figure>
+ 
+Explains in simple terms about an American company that was a scam.
+ 
+Very interesting that a company of that size was involved in so many criminal scams.
+
+Based on a <b>true story</b> and this <a target="_blank" href="https://www.amazon.com/Smartest-Guys-Room-Amazing-Scandalous/dp/1591840538">this book</a>
+
+
 <div class="space-between">
   <h3>Inside the Meltdown <span>(2009)</span></h3>
   <p class="rating"><span>8.1</span>/10</p>

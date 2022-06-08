@@ -147,7 +147,7 @@ align-items: center;
     &::before {
                 content: "\02605\000A0";
                 color: $color-yellow;
-                font-size: clamp($font-size, 4.5vw, $font-size * 5);
+                font-size: clamp($font-size * 2, 4.5vw, $font-size * 5);
             }
 }
 
