@@ -687,10 +687,19 @@ footer .container {
   gap: 1em;
   transition: 0.3s;
   width: 100%;
-  font-size: 1.5rem;
+  height: 100%;
+  font-size: 2rem;
   font-weight: 700;
   padding: 2em;
   justify-content: space-between;
+}
+.main-header nav li:last-child {
+  padding-bottom: 2em;
+}
+@media (min-width: 900px) {
+  .main-header nav li:last-child {
+    padding-bottom: 0;
+  }
 }
 @media (prefers-color-scheme: dark) {
   .main-header nav {
