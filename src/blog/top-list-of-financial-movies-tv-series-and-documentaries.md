@@ -15,6 +15,8 @@ draft: true
  
 Some may not be as good as others but hope you will find anything interesting here. Not in any order.
 
+{% include 'components/warning-affiliate.njk' %}
+
 ## Movies:
  
 <div class="space-between">
@@ -36,7 +38,7 @@ Before the 2008 crisis, some people did figure out the crash was going to happen
 This movie is very hilarious and well made. Few financial movies are this good and have these quality actors.
 
 
-Based on a <b>true story</b> and on <a target="_blank" href="https://www.amazon.com/Big-Short-Inside-Doomsday-Machine/dp/0393338827">This Book</a>.
+Based on a <b>true story</b> and on <a target="_blank" href="https://amzn.to/3xjjrtd">This Book</a>.
  
  
 <div class="space-between">
@@ -97,7 +99,7 @@ This movie takes place in the 2008 financial crisis.
 
 I don’t know what I like about this movie just that I do in fact like this movie a lot.
 
-Based on a <b>true story</b> and on <a target="_blank" href="https://www.amazon.com/Too-Big-to-Fail-audiobook/dp/B002VGER5A/ref=sr_1_1?crid=2RWBPUR31D9JT&keywords=Too+Big+to+Fail%3A+The+Inside+Story+of+How+Wall+Street+and+Washington+Fought+to+Save+the+Financial+System&qid=1654681535&sprefix=too+big+to+fail+the+inside+story+of+how+wall+street+and+washington+fought+to+save+the+financial+system%2Caps%2C559&sr=8-1">This Book</a>
+Based on a <b>true story</b> and on <a target="_blank" href="https://amzn.to/3mD6fug">This Book</a>
 
 <div class="space-between">
   <h3>Margin Call <span>(2011)</span></h3>
@@ -135,7 +137,7 @@ And then finally a baseball captain hires an economist and tries this method.
  
 I never thought a film about baseball could be so financially related. And shows so well how we as people behave and value based on unrelated criteria.
  
-Based on a <b>true story</b> and on <a target="_blank" href="https://www.amazon.com/Bill-James/e/B000APEB6Y?ref=sr_ntt_srch_lnk_3&qid=1654683193&sr=8-3">Bill James</a>
+Based on a <b>true story</b> and the strategy on books from <a target="_blank" href="https://amzn.to/3O9l6Iy">Bill James</a>
 
 <div class="space-between">
   <h3>Wall Street: Money Never Sleeps <span>(2010)</span></h3>
@@ -233,7 +235,7 @@ Explains in simple terms about an American company that was a scam.
  
 Very interesting that a company of that size was involved in so many criminal scams.
 
-Based on a <b>true story</b> and this <a target="_blank" href="https://www.amazon.com/Smartest-Guys-Room-Amazing-Scandalous/dp/1591840538">this book</a>
+Based on a <b>true story</b> and this <a target="_blank" href="https://amzn.to/3O3bBLa">this book</a>
 
 
 <div class="space-between">
@@ -278,7 +280,7 @@ Showing the system and idea that American corporations are executing. And what t
  
 Long and interesting documentary about what is a corporation. And how do they affect our daily lives? Even compare corporations to sociopaths in a brilliant matter. A long and interesting
  
-Based on <a target="_blank" href="https://www.amazon.com/Corporation-Pathological-Pursuit-Profit-Power/dp/0743247469">this book</a>.
+Based on <a target="_blank" href="https://amzn.to/3ttPHbZ">this book</a>.
 
 
 <div class="space-between">
@@ -323,7 +325,7 @@ Before computer trading, there was a trading floor and the job was very stressfu
  
 A great introduction to economics.
  
-And there are three books. <a target="_blank" href="https://www.amazon.com/Freakonomics-Revised-Edition-audiobook/dp/B000TK5BS2/ref=sr_1_1?keywords=Freakonomics&qid=1654626606&s=books&sr=1-1">Freakonomics</a>, <a target="_blank" href="https://www.amazon.com/SuperFreakonomics-audiobook/dp/B002TNABPK/ref=sr_1_1?crid=2SHK1560D41O7&keywords=Superfreakonomics&qid=1654626675&s=audible&sprefix=superfreakonomics%2Caudible%2C351&sr=1-1">Superfreakonomics</a> and <a target="_blank" href="https://www.amazon.com/Think-Like-Freak-audiobook/dp/B00JBL4NJ8/ref=sr_1_1?crid=NAU53LC3GBYZ&keywords=Think+Like+a+Freak&qid=1654626800&s=audible&sprefix=think+like+a+freak%2Caudible%2C505&sr=1-1">Think Like a Freak</a>
+And there are three books. <a target="_blank" href="https://amzn.to/3Q7wAOR">Freakonomics</a>, <a target="_blank" href="https://amzn.to/39aHeDP">Superfreakonomics</a> and <a target="_blank" href="https://amzn.to/3zuxuik">Think Like a Freak</a>
  
 Even have a <a target="_blank" href="https://freakonomics.com/series/freakonomics-radio/">podcast</a>
 
