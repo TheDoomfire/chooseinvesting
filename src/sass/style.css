@@ -421,6 +421,9 @@ blockquote p {
 .text-minus {
   color: red;
 }
+.text-minus::before {
+  content: "-";
+}
 
 .float-right {
   float: right;
@@ -622,6 +625,7 @@ blockquote p {
 }
 
 th, tr, td {
+  text-align: center;
   border: 1px solid black;
 }
 @media (prefers-color-scheme: dark) {
@@ -633,6 +637,11 @@ th, tr, td {
 th {
   padding: 0.4em;
 }
+@media (min-width: 900px) {
+  th {
+    padding: 0.5em;
+  }
+}
 
 table {
   width: 100%;
@@ -641,6 +650,10 @@ table {
   table {
     width: auto;
   }
+}
+
+.table-big {
+  width: 100%;
 }
 
 footer {

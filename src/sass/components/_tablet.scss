@@ -1,7 +1,8 @@
 @use "../utilities" as *;
 
 th, tr, td {
-    border: 1px solid $color-black;
+  text-align: center;
+  border: 1px solid $color-black;
 
     @include theme(dark) {
       border-color: $color-light-200;
@@ -10,6 +11,10 @@ th, tr, td {
 
   th {
     padding: 0.4em;
+
+    @include screen(tablet) {
+      padding: 0.5em;
+    }
   }
 
   table {
@@ -18,5 +23,8 @@ th, tr, td {
     @include screen(tablet) {
       width: auto;
     }
+  }
 
+  .table-big {
+    width: 100%;
   }
