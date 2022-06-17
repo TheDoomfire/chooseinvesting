@@ -133,11 +133,11 @@ This crash had the fastest drop in history -12% in a day. About -37% at the bott
 
 This speed is for sure nothing ordinary and I understand why we have seen a lot of new investors after this crash.
 
-<h2 id="average">Average Stock Market Crash</h2>
+<h2 id="average">Average Length of Bear Market</h2>
 
 All the numbers here are the average. Meaning that they can greatly differ from actual bear markets.
 
-Every 3.6 years there is a bear market, the decline is 36% and it lasts 9.6 months. Meaning stocks go up 78% of the time.
+On average every 3.6 years there is a bear market, the average decline is 36% and average length of bear market 9.6 months. Meaning stocks go up 78% of the time.
 
 Bull markets tend to go up 114%.
 
