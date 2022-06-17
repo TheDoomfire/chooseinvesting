@@ -1,5 +1,6 @@
 @use "../utilities" as *;
 
+$list-nav-font-size: clamp($font-size * 1.2, 5vw, $font-size * 1.8);
 
 // Defaults
 
@@ -64,7 +65,6 @@ li {
 .list-nav {
     @extend .list;
     margin-top: 3em;
-    $list-nav-font-size: clamp($font-size * 1.2, 5vw, $font-size * 1.8);
     li {
         list-style: none;
         
@@ -135,5 +135,32 @@ blockquote {
     p {
         margin: 0;
         padding: 0;
+    }
+}
+
+.list-number {
+    @extend .list;
+    font-size: $list-nav-font-size;
+
+    color: $color-special;
+
+    @include theme(dark) {
+        color: $color-special-200;
+    }
+
+    li {
+        list-style: number;
+
+        a {
+            color: $color-dark;
+
+            @include theme(dark) {
+                color: $color-light-200;
+            }
+
+            &:hover {
+                color: inherit;
+            }
+        }
     }
 }

@@ -165,3 +165,15 @@ align-items: center;
         margin-bottom: 1.8em;
     }
 }
+
+.title-number {
+    color: $color-special;
+
+    @include theme(dark) {
+        color: $color-special-200;
+    }
+
+    &::after {
+        content: "\000A0";
+    }
+}

@@ -270,7 +270,7 @@ li a:hover {
   color: #11823b;
 }
 
-.list, .list-nav {
+.list, .list-number, .list-nav {
   padding: 2em;
 }
 
@@ -355,6 +355,30 @@ blockquote {
 blockquote p {
   margin: 0;
   padding: 0;
+}
+
+.list-number {
+  font-size: clamp(1.2rem, 5vw, 1.8rem);
+  color: #11823b;
+}
+@media (prefers-color-scheme: dark) {
+  .list-number {
+    color: #30AA47;
+  }
+}
+.list-number li {
+  list-style: number;
+}
+.list-number li a {
+  color: #3A4E4F;
+}
+@media (prefers-color-scheme: dark) {
+  .list-number li a {
+    color: #ececec;
+  }
+}
+.list-number li a:hover {
+  color: inherit;
 }
 
 .text-box, .text-warning, .text-box-2 {
@@ -500,6 +524,18 @@ blockquote p {
 }
 .space-between h3 {
   margin-bottom: 1.8em;
+}
+
+.title-number {
+  color: #11823b;
+}
+@media (prefers-color-scheme: dark) {
+  .title-number {
+    color: #30AA47;
+  }
+}
+.title-number::after {
+  content: " ";
 }
 
 .overlay-fullscreen {
