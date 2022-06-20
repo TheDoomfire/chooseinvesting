@@ -12,7 +12,7 @@ body {
 }
 @media (prefers-color-scheme: dark) {
   body {
-    background-color: #292929;
+    background-color: #2d2d30;
   }
 }
 
@@ -713,7 +713,7 @@ footer .container {
 }
 @media (prefers-color-scheme: dark) {
   .main-header {
-    background-color: #292929;
+    background-color: #2d2d30;
   }
 }
 .main-header.active {
@@ -752,7 +752,7 @@ footer .container {
 }
 @media (prefers-color-scheme: dark) {
   .main-header nav {
-    background-color: #292929;
+    background-color: #2d2d30;
   }
   .main-header nav a {
     color: white;
