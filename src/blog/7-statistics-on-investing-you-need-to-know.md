@@ -69,7 +69,7 @@ A bear market is a major market index decline of <span class="text-minus">20%</s
 
 Someone investing in the stock market needs to have the stomach for it. Few people can withstand losses even if it's not realized.
 
-Read more here: <a href="/blog/crashes-and-bear-markets-how-bad-can-it-get/">Crashes and Bear Markets. How Bad Can It Get?</a>
+**Read more here:** <a href="/blog/crashes-and-bear-markets-how-bad-can-it-get/">Crashes and Bear Markets. How Bad Can It Get?</a>
 
 ## 90% of traders lose money in the stock market
 
