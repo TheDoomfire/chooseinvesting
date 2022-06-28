@@ -26,6 +26,8 @@ Average return: <b>31%</b>
 
 Between 1968 to 2011 total of <b>43 years</b>.
 
+<br>
+
 <q>My investment philosophy, generally, with exceptions, is to buy something when no one wants it.</q>
 
 He implements value investing and buying stocks he see is undervalued and poor manganged. He often start by low P/E or low P/B.
@@ -46,9 +48,15 @@ Bet big on your best ideas while having a long-term mindset. But a short term mi
 
 ## Benjamin Graham
 
-Average return: 20%
+<br>
+<img width="100%" loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/0/04/Benjamin_Graham_%281894-1976%29_in_1950.jpg" alt="Bejamin graham sitting">
+<br>
+
+Average return: <b>20%</b>
 
 Between 1936 to 1956 a total of <u>19 years</u>
+
+<br>
 
 Aka “father of value investing” taught Warren Buffet and has written several books explaining his strategy and mindset.
 
@@ -58,20 +66,29 @@ Deep value investing also originates from benjamin graham and if your familiar w
 
 Here is his 10 commandments on stock picking that he explains in chapter 14 in his book: The Intelligent Investor
 
-1. Earnings to price of at least twice the AAA bond rate
-2. P/E less than 40% of the highest P/E the stock has had over the past 5 years
-3. Dividend Yield of at least ⅔ of the AAA bond yield
-4. Stock price below ⅔ of tangible book value per share
-5. Stock price below ⅔ of Net Current Asset Value
-6. Total debt less than Bookvalue
-7. Current ratio greater than 2
-8. Total debt less than 2 times Net Current Asset Value
-9. Earnings Growth of prior 10 years at least 7% compounded rate
-10. Stable growth of earnings that no more than no more than 2 declines of 5% or more in year end earnings in the prior 10 years are permissible
+<br>
+
+<ol>
+<li>Earnings to price of at least twice the AAA bond rate</li>
+<li>P/E less than 40% of the highest P/E the stock has had over the past 5 years</li>
+<li>Dividend Yield of at least ⅔ of the AAA bond yield</li>
+<li>Stock price below ⅔ of tangible book value per share</li>
+<li>Stock price below ⅔ of Net Current Asset Value</li>
+<li>Total debt less than Bookvalue</li>
+<li>Current ratio greater than 2</li>
+<li>Total debt less than 2 times Net Current Asset Value</li>
+<li>Earnings Growth of prior 10 years at least 7% compounded rate</li>
+<li>Stable growth of earnings that no more than no more than 2 declines of 5% or more in year end earnings in the prior 10 years are permissible</li>
+</ol>
 
 ## Warren Buffet
 
+<br>
+<img loading="lazy" src="https://media.dagensps.se/app/uploads/2021/06/11134455/warrenbuffett5.jpg" alt="Warren Buffet sitting and raising his hand">
+
 Average return: <b>20.1%</b>
+
+<br>
 
 He is probably the most famous investor. He built his investment strategy around value investing from his teacher Benjamin Graham.
 
@@ -91,15 +108,22 @@ Play big and dont waste opportunity, buy when there’s a opportunity. Going sma
 
 He has two rules.
 
-Don’t lose money
+<ul class="list-counting">
+  <li>Don’t lose money</li>
+  <li>Dont forget number one</li>
+</ul>
 
-Dont forget number one
 
 ## John Templeton
+
+<br>
+<img width="100%" loading="lazy" src="https://finanskursen.se/wp-content/uploads/2020/04/John-Templeton-k%C3%A4nda-v%C3%A4rdeinvesterare.jpg" alt="John Templeton sitting">
 
 Average return: <b>15%</b>
 
 Between 1954-1992 a total of <b>38 years</b>
+
+<br>
 
 Value investor who believed in having many stocks to choose from. He was one of the first to invest in so many countries and being successful.
 
@@ -111,47 +135,32 @@ He wrote a book: Investing the Templeton Way
 
 ## John Neff
 
+<br>
+<img width="100%" loading="lazy" src="https://www.valueresearchonline.com/content-assets/images/46985_john-neff__w660__.jpg" alt="John Neff smiling">
+
 Average return: <b>13.7%</b>
 
 Between 1964-1995 a total of <b>31 years</b>
 
-
+<br>
 
 After his retirement in 1995 he got a annual return of 20% in 10years time in his personal portfolio.
 
-
-
 He was a value investor that is know for buying companies with a really low P/E. With at least 7% fundamental growth.
-
-
 
 Don’t be afraid to buying companies that is “under market attack”.
 
-
-
 If a stock dosen’t do anything you buy more or if you got too much you hold it.
-
-
 
 Growth rate + yield  of twice the P/E
 
-
-
 He bought stocks on average with a 12% growth rate, 2-3% yield so a total return of 15%. Bought for 7.5 P/E. WIth low debt.
-
-
 
 In his business portfolio about 10 of the holdings was about 40% of the portfolio. But in his personal he had about 10 companies in total.
 
-
-
 When you go after something no one wants then you can find good bargains.
 
-
-
 When a stock reached 65% of its appreciation potential he would start to sell about 20-25% of it. And then sell the rest when it reached 40% portfolio appreciation potential.
-
-
 
 He wrote a book: John Neff on Investing
 
@@ -159,7 +168,12 @@ He wrote a book: John Neff on Investing
 
 ## Jesse Livermore
 
+<br>
+<img width="100%" loading="lazy" src="https://i.insider.com/55a92597371d2223518b6ca4?width=750&format=jpeg&auto=webp" alt="Jesse Livermore">
+
 Average return: <b>12.77%</b>
+
+<br>
 
 One if not the best trader of all time, if not the best. He always just traded his own capital and never invested for anyone else nor took debt.
 
@@ -168,6 +182,9 @@ He waited till stocks would trade at some pivotal points (40c) then enter the tr
 Book: Reminiscences of a Stock Operator, How to Trade in Stocks
 
 ## Peter Lynch
+
+<br>
+<img src="https://www.fidelity.com/bin-public/060_www_fidelity_com/images/peter_lynch_2019_twitter.jpg" alt="Peter Lynch sitting">
 
 Average return: <b>29.2%</b>
 
@@ -188,9 +205,14 @@ Read more about his investing principles here: GARP Investment Strategy a Hybrid
 
 ## George Soros
 
+<br>
+<img src="https://gfx.omni.se/images/df3ed405-76f5-4f98-bf57-04e5a9a9495d?h=320&tight=false&w=640" alt="George Soros">
+
 Average return: <b>20%</b>
 
-Between 1970-2010 over a total of 40 years 
+Between 1970-2010 over a total of 40 years
+
+<br>
 
 He was a legendary trader that did invest in most assets. There is bad speculators and their is george soros who is well known for massively shorting the british pound and earned over a billion dollars that day.
 
@@ -210,7 +232,12 @@ If your interested more about philosophy meets investing he wrote a book: The Al
 
 ## John (Jack) Bogle
 
+<br>
+<img src="https://ichef.bbci.co.uk/news/976/cpsprodpb/BAD9/production/_96733874_bogle_modern.jpg" alt="John Bogle sitting and smiling">
+
 Average return: <b>13.6%</b>
+
+<br>
 
 The creator of the first indexfund this legendary investor has made affordable funds that statistically beats majority of actively traded ones.
 
@@ -221,6 +248,9 @@ He believed in just buying a indexfund for a lifetime, whenever you have spare c
 He wrote this book: Common Sense on Mutual Funds
 
 ## Michael Steinhardt
+
+<br>
+<img width="100%" loading="lazy" src="https://media.npr.org/assets/img/2021/12/07/ap951482043301_custom-cf28bf46b5d6ee0f550cb763b587706b75778d67.jpg" alt="Michael Steinhardt">
 
 Average return: <b>24.5%</b>
 
@@ -247,9 +277,14 @@ Book: No Bull: My Life In and Out of Markets, The Art of Execution
 
 ## James O’Shaughnessy
 
+<br>
+<img width="100%" loading="lazy" src="https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fccfa271a-7d95-4a10-a04b-05fb867de8b8_555x311.png" alt="James O’Shaughnessy">
+
 Average return: <b>17.1%</b>
 
 Between 1954 to 1996 a total of <b>42 years</b>.
+
+<br>
 
 Quantitative equity analyst is his specialty. He means that you could essentially write a algorithm to invest.
 

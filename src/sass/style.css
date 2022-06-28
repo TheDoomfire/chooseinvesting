@@ -381,6 +381,14 @@ blockquote p {
   color: inherit;
 }
 
+ol {
+  font-size: 1.3rem;
+}
+
+.list-counting li {
+  list-style: number;
+}
+
 .text-box, .text-warning, .text-box-2 {
   padding: 1em;
   border-radius: 8px;
