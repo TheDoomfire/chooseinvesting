@@ -1,7 +1,6 @@
 User-agent: *
 Disallow: /admin/*
 Disallow: /about/
-Disallow: /blog/index.html/
 Disallow: /page-not-found/
 
 Sitemap: https://www.chooseinvesting.com/sitemap.xml
