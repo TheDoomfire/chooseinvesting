@@ -5,8 +5,8 @@ date: 2022-06-29
 dateposted: 2022-06-29
 tags: ["post"]
 type: article
-image: https://images.unsplash.com/photo-1518186285589-2f7649de83e0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80
-imageAlt: Computer screen with a statistic chart
+image: https://images.unsplash.com/photo-1500099817043-86d46000d58f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80
+imageAlt: A lake with a hand sticking out for help
 description: Investing isn’t easy. At least not at the beginning. This is why so many people lose money in the stock market. Regardless of how hard they work.
 keywords: stock statistics, investing statistics, investing
 ---
