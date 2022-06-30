@@ -181,7 +181,7 @@ He waited till stocks would trade at some pivotal points (40c) then enter the tr
 
 Book: Reminiscences of a Stock Operator, How to Trade in Stocks
 
-## Peter Lynch
+<h2 id="peterlynch">Peter Lynch</h2>
 
 <br>
 <img src="https://www.fidelity.com/bin-public/060_www_fidelity_com/images/peter_lynch_2019_twitter.jpg" alt="Peter Lynch sitting">
@@ -200,7 +200,7 @@ Also every company in the portfolio must have both value and growth criterias. H
 
 He believes that over diversification just for the sake of it can be a bad idea. You have to understand what you buy.
 
-Read more about his investing principles here: GARP Investment Strategy a Hybrid of Growth and Value Investing
+Read more about his investing principles here: <a href="/blog/garp-investment-strategy-a-hybrid-of-growth-and-value-investing/index.html">GARP Investment Strategy a Hybrid of Growth and Value Investing</a>
 
 
 ## George Soros
