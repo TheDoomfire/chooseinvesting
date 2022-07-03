@@ -71,6 +71,7 @@ li {
         &::before {
             content: "\0279C\000A0";
             font-size: $list-nav-font-size;
+            color: $color-special;
         }
         a {
             font-size: $list-nav-font-size;

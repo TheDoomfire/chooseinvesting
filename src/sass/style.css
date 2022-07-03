@@ -320,6 +320,7 @@ li a:hover {
 .list-nav li::before {
   content: "➜ ";
   font-size: clamp(1.2rem, 5vw, 1.8rem);
+  color: #11823b;
 }
 .list-nav li a {
   font-size: clamp(1.2rem, 5vw, 1.8rem);
