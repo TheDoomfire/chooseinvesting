@@ -298,6 +298,9 @@ li a:hover {
   display: flex;
   flex-direction: column;
   gap: 0.5em;
+  /*         li {
+              list-style-type: square;
+          } */
   /*         a {
               color: inherit;
               font-size: $font-size *1.5;
@@ -306,9 +309,6 @@ li a:hover {
                   color: $color-special;
               }
           } */
-}
-.posts ul li {
-  list-style-type: square;
 }
 
 .list-nav {
@@ -326,17 +326,21 @@ li a:hover {
 }
 
 .list-pros li, .list-pros-cons li li {
+  font-size: clamp(1rem, 1.5vw, 1.3rem);
   list-style: none;
 }
 .list-pros li::before, .list-pros-cons li li::before {
-  content: "✔ ";
+  content: "✔  ";
+  color: #30AA47;
 }
 
 .list-cons li, .list-pros-cons li:nth-child(2) li {
+  font-size: clamp(1rem, 1.5vw, 1.3rem);
   list-style: none;
 }
 .list-cons li::before, .list-pros-cons li:nth-child(2) li::before {
   content: "✖ ";
+  color: red;
 }
 
 .test span:first-child {

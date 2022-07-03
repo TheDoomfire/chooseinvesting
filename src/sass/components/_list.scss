@@ -47,9 +47,9 @@ li {
         flex-direction: column;
         gap: 0.5em;
 
-        li {
+/*         li {
             list-style-type: square;
-        }
+        } */
 
 /*         a {
             color: inherit;
@@ -81,18 +81,22 @@ li {
 .list-pros {
 
     li {
+        font-size: clamp($font-size, 1.5vw, $font-size * 1.3);
         list-style: none;
         &::before {
-            content: "\02714\000A0";
+            content: "\02714\000A0\000A0";
+            color: $color-green;
         }
     };
 }
 .list-cons {
 
     li {
+        font-size: clamp($font-size, 1.5vw, $font-size * 1.3);
         list-style: none;
         &::before {
             content: "\02716\000A0";
+            color: $color-red;
         }
     };
 }
