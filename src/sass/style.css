@@ -714,6 +714,31 @@ table {
   width: 100%;
 }
 
+.table-formula {
+  display: inline-table;
+  font-size: 1rem;
+  border-collapse: collapse;
+  vertical-align: middle;
+  font-size: 1rem;
+  width: auto;
+}
+.table-formula td {
+  padding: 0px;
+  border: none;
+  font-size: 1.3rem;
+}
+.table-formula tr {
+  border: none;
+}
+.table-formula tr:last-child td {
+  border-top: 1px solid black;
+}
+@media (prefers-color-scheme: dark) {
+  .table-formula tr:last-child td {
+    border-color: #ececec;
+  }
+}
+
 footer {
   background-color: #11823b;
   color: white;

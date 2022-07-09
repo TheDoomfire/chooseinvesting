@@ -1,5 +1,7 @@
 @use "../utilities" as *;
 
+$table-border: 1px solid $color-black;
+
 th, tr, td {
   text-align: center;
   border: 1px solid $color-black;
@@ -28,3 +30,31 @@ th, tr, td {
   .table-big {
     width: 100%;
   }
+
+.table-formula {
+  display:inline-table; 
+  font-size:$font-size; 
+  border-collapse:collapse; 
+  vertical-align:middle;
+  font-size: $font-size;
+  width: auto;
+
+  td {
+    padding:0px;
+    border:none;
+    font-size: $font-size * 1.3;
+  }
+
+  tr {
+    border: none;
+
+    &:last-child {
+      td {
+        border-top: $table-border;
+        @include theme(dark) {
+          border-color: $color-light-200;
+        }
+      }
+    }
+  }
+}
