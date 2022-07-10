@@ -134,7 +134,7 @@ In the short run, the market is a voting machine but in the long run, it is a we
 </blockquote>
 
 <blockquote>
-Price is what you pay, value is what you get. Price is what you pay; value is what you get. Whether we're talking about socks or stocks, I like buying quality merchandise when it is marked down.
+Price is what you pay, value is what you get. Whether we're talking about socks or stocks, I like buying quality merchandise when it is marked down.
 <cite>- Ben Graham</cite>
 </blockquote>
 
