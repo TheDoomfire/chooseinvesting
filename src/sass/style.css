@@ -572,6 +572,22 @@ ol {
   background-color: rgba(0, 0, 0, 0.5);
 }
 
+blockquote {
+  display: block;
+  position: relative;
+  margin: 4em 0;
+  font-size: 1.3rem;
+}
+blockquote::before, blockquote::after {
+  content: "“";
+}
+blockquote cite {
+  display: block;
+  position: absolute;
+  padding-left: 1em;
+  font-size: 1rem;
+}
+
 .share {
   display: none;
   position: absolute;
