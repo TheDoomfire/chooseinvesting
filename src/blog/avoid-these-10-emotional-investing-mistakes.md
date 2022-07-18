@@ -211,3 +211,7 @@ Books on the topic:
 
 beyond greed and fear understanding behavioral finance and the psychology of investing
 
+The Little Book of Behavioral Investing: How not to be your own worst enemy
+
+The Behavioral Investor
+
