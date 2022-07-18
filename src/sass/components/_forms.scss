@@ -2,4 +2,10 @@
 
 input {
     width: 100%;
+    padding: 0.5em;
+    font-size: clamp($font-size * 1.2, 2vw, $font-size * 1.5);
+
+/*     @include screen(tablet) {
+        max-width: 20em;
+    } */
 }

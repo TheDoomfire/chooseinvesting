@@ -204,6 +204,15 @@ h4 {
   }
 }
 
+input {
+  width: 100%;
+  padding: 0.5em;
+  font-size: clamp(1.2rem, 2vw, 1.5rem);
+  /*     @include screen(tablet) {
+          max-width: 20em;
+      } */
+}
+
 .hero, .hero-img, .hero-special {
   margin-bottom: 5em;
 }
@@ -420,13 +429,11 @@ ol {
 }
 
 .zoom {
-  transition: transform 0.2s;
-  /* Animation */
+  transition: transform 0.2s; /* Animation */
 }
 
 .zoom:hover {
-  transform: scale(1.5);
-  /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+  transform: scale(1.5); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
 }
 
 .text-centered {
@@ -499,8 +506,7 @@ ol {
   width: 120px;
   bottom: 100%;
   left: 50%;
-  margin-left: -60px;
-  /* Use half of the width (120/2 = 60), to center the tooltip */
+  margin-left: -60px; /* Use half of the width (120/2 = 60), to center the tooltip */
 }
 .tooltip:hover text {
   visibility: visible;
