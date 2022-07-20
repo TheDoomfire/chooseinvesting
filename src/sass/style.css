@@ -580,6 +580,13 @@ ol {
   font-size: 1.5rem;
 }
 
+.responsive-two section:first-child input {
+  min-width: 20em;
+  margin-bottom: 0.5em;
+}
+.responsive-two section:first-child label {
+  font-size: 1.3rem;
+}
 @media (min-width: 900px) {
   .responsive-two {
     display: flex;
@@ -587,6 +594,14 @@ ol {
   .responsive-two .compound-result {
     padding: 1em 3em;
   }
+}
+
+.compound-result {
+  background-color: #333333;
+  margin-left: 3em;
+  width: -webkit-fill-available;
+  width: -moz-available;
+  width: fill;
 }
 
 .overlay-fullscreen {

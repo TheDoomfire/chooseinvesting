@@ -7,19 +7,21 @@ author: Albini
 keywords: investing, stocks, cheap, value
 ---
 
-<article class="container">
+<div class="hero-special">
+    <div class="container">
+        <h1>Compounding Interest Calculator</h1>
+        <h4>- The Eighth Wonder of the World</h4>
+    </div>
+</div>
 
-<h1>Compounding Interest Calculator</h1>
-<br>
-<h2>The Eighth Wonder of the World</h2>
-<br>
+<article class="container">
 
 <div class="responsive-two">
     <section>
         <label for="">Starting Capital $</label>
         <br>
         <input type="number" id="capital" value="10000" onchange="compounding();">
-        <label for="">Monthy Savings $</label>
+        <label for="">Monthly Contribution $</label>
         <br>
         <input type="number" id="savings" value="100" onchange="compounding();">
         <label for="">Years Investing</label>
@@ -33,18 +35,23 @@ keywords: investing, stocks, cheap, value
         <h3>Result</h3>
         <label for="">Total after <span id="totalYears"></span> years:</label>
         <span id="totalCompound"></span>
-        <label for="">Return:</label>
+<!--         <label for="">Return:</label>
         <span id="totalReturn"></span>
         <label for="">Total Savings: </label>
-        <span id="totalSavings"></span>
+        <span id="totalSavings"></span> -->
     </section>
 </div>
 
+<!-- TODO -->
 <!-- Make it run on startup once. -->
+<!-- Make it work with montly contributions -->
+<!-- https://i.imgur.com/krxbOg0.jpg -->
+<!-- https://www.reddit.com/r/financialindependence/comments/3gvwdm/question_about_compound_interest_math/-->
 
 <br>
 
-<table>
+<!-- cell spacing removes the space between td-->
+<table cellspacing=0>
 <!--     <thead>
         <tr>
             <th>Year</th>

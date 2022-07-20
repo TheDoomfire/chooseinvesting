@@ -145,7 +145,7 @@ function compounding() {
   for (let i = 1; i <= inputYears; i++) {
     compoundValue = Math.round(inputCapital * Math.pow(inputReturns/100+1, i));
 
-    tableBody.innerHTML += `<tr><td>${i} Year</td><td type="number">$${separateNumber(compoundValue)}</td></tr>`;
+    tableBody.innerHTML += `<tr><td>${i}&nbsp;Year</td><td type="number">$${separateNumber(compoundValue)}</td></tr>`;
 
   };
 
