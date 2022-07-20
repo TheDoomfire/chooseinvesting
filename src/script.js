@@ -118,7 +118,8 @@ nunjucks.render(
 var items = [{ title: "foo", id: 1 }, { title: "bar", id: 2}];
 
 function separateNumber(x) {
-  return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, " ");
+  removedDecimals = Math.trunc(x)
+  return removedDecimals.toString().replace(/\B(?=(\d{3})+(?!\d))/g, " ");
 };
 
 /* document.addEventListener("DOMContentLoaded", function() {
@@ -137,21 +138,27 @@ function compounding() {
   let inputReturns = parseInt(document.getElementById('returns').value);
   let tableBody = document.getElementById('tableData');
 
-  document.getElementById("totalCompound").innerHTML = "$" + separateNumber(Math.round(inputCapital * Math.pow(inputReturns/100+1, inputYears)));
-
   document.getElementById("totalYears").innerHTML = inputYears
   
   tableBody.innerHTML = "";
   for (let i = 1; i <= inputYears; i++) {
-    compoundValue = Math.round(inputCapital * Math.pow(inputReturns/100+1, i));
+    compoundValue = Math.round((inputCapital) * Math.pow(inputReturns/100+1, i)) + (inputSavings*12) * (Math.pow(inputReturns/100+1, i) - 1)/(inputReturns/100);
+
+    //P * ([1 + I]^N - 1 )/I
+    //compoundMonthy = (inputSavings*12) * (Math.pow(inputReturns/100+1, i) - 1)/(inputReturns/100);
+    //(inputSavings*12) * ((1-(1/Math.pow(inputReturns/100+1, i)))/inputReturns/100)
 
     tableBody.innerHTML += `<tr><td>${i}&nbsp;Year</td><td type="number">$${separateNumber(compoundValue)}</td></tr>`;
 
   };
+  document.getElementById("totalCompound").innerHTML = "$" + separateNumber(compoundValue);
+  document.getElementById("totalSavings").innerHTML = "$" + separateNumber(inputCapital + inputSavings * 12 * inputYears);
+  document.getElementById("totalReturn").innerHTML = "$" + separateNumber(compoundValue - (inputCapital + inputSavings * 12 * inputYears));
 
 };
 
 
 window.onload = () => {
   compounding();
+  console.log("hello")
 };
