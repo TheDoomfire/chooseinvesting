@@ -566,6 +566,20 @@ ol {
   content: " ";
 }
 
+.compound-result {
+  display: flex;
+  flex-direction: column;
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
+.compound-result h3 {
+  margin-bottom: 0.5em;
+}
+
+#totalCompound {
+  font-size: 1.5rem;
+}
+
 .overlay-fullscreen {
   display: none;
   opacity: 1;

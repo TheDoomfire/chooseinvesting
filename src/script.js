@@ -137,6 +137,10 @@ function compounding() {
   let inputReturns = parseInt(document.getElementById('returns').value);
   let tableBody = document.getElementById('tableData');
 
+  document.getElementById("totalCompound").innerHTML = "$" + separateNumber(Math.round(inputCapital * Math.pow(inputReturns/100+1, inputYears)));
+
+  document.getElementById("totalYears").innerHTML = inputYears
+  
   tableBody.innerHTML = "";
   for (let i = 1; i <= inputYears; i++) {
     compoundValue = Math.round(inputCapital * Math.pow(inputReturns/100+1, i));
