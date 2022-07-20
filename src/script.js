@@ -116,3 +116,38 @@ nunjucks.render(
 ) */
 
 var items = [{ title: "foo", id: 1 }, { title: "bar", id: 2}];
+
+function separateNumber(x) {
+  return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, " ");
+};
+
+/* document.addEventListener("DOMContentLoaded", function() {
+  compounding();
+}); */
+
+/* function monthlyCompound(){
+  CI = P(1 + (r/12) )12t - P
+}; */
+
+
+function compounding() {
+  let inputCapital = parseInt(document.getElementById('capital').value);
+  let inputSavings = parseInt(document.getElementById('savings').value);
+  let inputYears = parseInt(document.getElementById('years').value);
+  let inputReturns = parseInt(document.getElementById('returns').value);
+  let tableBody = document.getElementById('tableData');
+
+  tableBody.innerHTML = "";
+  for (let i = 1; i <= inputYears; i++) {
+    compoundValue = Math.round(inputCapital * Math.pow(inputReturns/100+1, i));
+
+    tableBody.innerHTML += `<tr><td>${i} Year</td><td type="number">$${separateNumber(compoundValue)}</td></tr>`;
+
+  };
+
+};
+
+
+window.onload = () => {
+  compounding();
+};
