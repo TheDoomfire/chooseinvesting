@@ -58,3 +58,27 @@ th, tr, td {
     }
   }
 }
+
+.every-other {
+    display: table-row-group;
+    vertical-align: middle;
+    border-color: inherit;
+
+  td {
+    border: none;
+    width: 100%;
+    //min-width: 10em;
+    &:first-child {
+      float: left;
+      padding-left: 1em;
+    }
+  }
+  tr {
+    &:nth-child(odd) {
+      background-color: $color-grey;
+      @include theme(dark) {
+        background-color: $color-black;
+      }
+    }
+  }
+}

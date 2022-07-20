@@ -192,3 +192,14 @@ align-items: center;
 #totalCompound {
     font-size: $font-size * 1.5;
 }
+
+.responsive-two {
+
+    @include screen(tablet) {
+        display: flex;
+
+        .compound-result {
+            padding: 1em 3em;
+        }
+    }
+}

@@ -580,6 +580,15 @@ ol {
   font-size: 1.5rem;
 }
 
+@media (min-width: 900px) {
+  .responsive-two {
+    display: flex;
+  }
+  .responsive-two .compound-result {
+    padding: 1em 3em;
+  }
+}
+
 .overlay-fullscreen {
   display: none;
   opacity: 1;
@@ -772,6 +781,28 @@ table {
 @media (prefers-color-scheme: dark) {
   .table-formula tr:last-child td {
     border-color: #ececec;
+  }
+}
+
+.every-other {
+  display: table-row-group;
+  vertical-align: middle;
+  border-color: inherit;
+}
+.every-other td {
+  border: none;
+  width: 100%;
+}
+.every-other td:first-child {
+  float: left;
+  padding-left: 1em;
+}
+.every-other tr:nth-child(odd) {
+  background-color: #333333;
+}
+@media (prefers-color-scheme: dark) {
+  .every-other tr:nth-child(odd) {
+    background-color: black;
   }
 }
 
