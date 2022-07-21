@@ -30,7 +30,7 @@
     "sass": "^1.49.8"
   },
   "dependencies": {
-    "chart.js": "^3.7.1",
+    "chart.js": "^3.8.0",
     "react-chartjs-2": "^4.0.1",
     "react-hook-use-state": "^1.1.0"
   }

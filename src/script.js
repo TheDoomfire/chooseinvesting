@@ -15,6 +15,10 @@ document.querySelectorAll("nav-link").forEach(n => n.addEventListener("click", (
     navMenu.classList.remove("active");
 }));
 
+//Only for the compound calculator
+//Could be better to move this so it dosent run for every page
+Window.onload = compounding();
+
 // Trying to get the aria-expanded to toggle.
 /* let el = document.getElementById('hamburger');
 console.log(el.ariaExpanded); // false
@@ -155,10 +159,4 @@ function compounding() {
   document.getElementById("totalSavings").innerHTML = "$" + separateNumber(inputCapital + inputSavings * 12 * inputYears);
   document.getElementById("totalReturn").innerHTML = "$" + separateNumber(compoundValue - (inputCapital + inputSavings * 12 * inputYears));
 
-};
-
-
-window.onload = () => {
-  compounding();
-  console.log("hello")
 };
