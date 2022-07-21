@@ -1,55 +1,63 @@
 ---
-title: Compounding Calculator
+title: Compounding Interest Calculator
 layout: 'base.njk'
 type: website
-description: Compounding Calculator
+description: Use this free continuous compound interest calculator. See how much your money might grow in a simple yet effective way. Plus line chart & every year's sum.
 author: Albini
-keywords: investing, stocks, cheap, value
+keywords: compound calculator, continuous compound interest calculator, continuous compound calculator, interest calculator
 ---
 
 <div class="hero-special">
     <div class="container">
-        <h1>Compounding Interest Calculator</h1>
+        <h1>{{ title }}</h1>
         <h4>- The Eighth Wonder of the World</h4>
     </div>
 </div>
 
-<article class="container" onload="compounding();">
+<article class="posts" onload="compounding();">
+    <div class="container">
+
+    <blockquote>
+        Compound interest is the eighth wonder of the world. He who understands it, earns it … he who doesn’t … pays it.
+        <cite>- Albert Einstein</cite>
+    </blockquote>
+
+<p>
+    {{ description }}
+</p> 
+
+<br>
+<br>
 
 <div class="responsive-two">
     <section>
-        <label for="">Starting Capital $</label>
+        <label for="">Starting Capital ($)</label>
         <br>
         <input type="number" id="capital" value="10000" onchange="compounding();">
-        <label for="">Monthly Contribution $</label>
+        <label for="">Monthly Contribution ($)</label>
         <br>
         <input type="number" id="savings" value="100" onchange="compounding();">
         <label for="">Years Investing</label>
         <br>
         <input type="number" id="years" value="25" onchange="compounding();">
-        <label for="">Returns %</label>
+        <label for="">Interest Rate (%)</label>
         <br>
         <input type="number" id="returns" value="10" onchange="compounding();">
     </section>
     <section class="compound-result">
-        <h3>Result</h3>
-        <label for="">Total after <span id="totalYears"></span> years:</label>
+        <span class="big-text">Result</span>
+        <label for="">Total sum after <span id="totalYears"></span> years:</label>
         <span id="totalCompound"></span>
-        <label for="">Return:</label>
+        <label for="">Compound return:</label>
         <span id="totalReturn"></span>
-        <label for="">Total Savings: </label>
+        <label for="">Total capital invested: </label>
         <span id="totalSavings"></span>
     </section>
 </div>
 
-<!-- TODO -->
-<!-- Make a chart -->
-
 <br>
 
-<div>
-<canvas id="myChart" style="width:100%;max-width:700px" class="lineChart"></canvas>
-</div>
+<canvas id="myChart" class="lineChart"></canvas>
 
 <!-- cell spacing removes the space between td-->
 <table cellspacing=0>
@@ -62,6 +70,29 @@ keywords: investing, stocks, cheap, value
     <tbody id="tableData" class="every-other"></tbody>
 </table>
 
+<h2>Compound Interest Formula</h2>
+
+<p class="table-big-formula">
+Starting Capital * (1 + Interest/100)<sup>Years</sup>
+</p>
+
+<h2>Future Value of an Annuity Formula</h2>
+
+<p class="table-big-formula">
+    (Monthly Contribution * 12) * ((1 + Interest/100)<sup>Years</sup>-1)/(Interest/100)
+</p>
+
+<h2>This Calculator Formula</h2>
+
+<p>
+    Compound Interest Formula + Future Value of an Annuity Formula
+</p>
+
+<p class="table-big-formula">
+    Starting Capital * (1 + Interest/100)<sup>Years</sup> + (Monthly Contribution * 12) * ((1 + Interest/100)<sup>Years</sup>-1)/(Interest/100)
+    </p>
+
+</div>
 </article>
 
 <!-- Chart.js | https://www.w3schools.com/ai/ai_chartjs.asp -->

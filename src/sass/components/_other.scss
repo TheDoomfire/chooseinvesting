@@ -198,7 +198,7 @@ align-items: center;
 section {
     &:first-child {
         input {
-            min-width: 20em;
+            min-width: 15em;
             margin-bottom: 0.5em;
         }
         label {
@@ -217,7 +217,20 @@ section {
 }
 
 .compound-result {
-    background-color: $color-grey;
-    margin-left: 3em;
+    background-color: $color-grey-200;
+    padding: 2em;
     width: fill;
+
+    .big-text {
+        font-size: $font-size * 2;
+        font-weight: 500;
+    }
+
+    @include screen(tablet) {
+        margin-left: 3em;
+        padding: 0;
+    }
+    @include theme(dark) {
+        background-color: $color-grey;
+    }
 }

@@ -158,7 +158,7 @@ function compounding() {
   for (let i = 1; i <= inputYears; i++) {
     compoundValue = Math.round((inputCapital) * Math.pow(inputReturns/100+1, i)) + (inputSavings*12) * (Math.pow(inputReturns/100+1, i) - 1)/(inputReturns/100);
 
-    yearList.push(i);
+    yearList.push(i + " y");
     compoundList.push(removeDecimals(compoundValue));
 
 
@@ -173,12 +173,13 @@ function compounding() {
 };
 
 function myCustomChart(chartType, chartLabels, chartDataset) {
+
   const myChartData = {
     labels: chartLabels,
     datasets: [{
       label: 'Compound Rate',
-      backgroundColor: 'rgb(255, 99, 132)',
-      borderColor: 'rgb(255, 99, 132)',
+      backgroundColor: 'rgb(0,128,0)',
+      borderColor: 'rgb(50,128,50)',
       data: chartDataset,
     }]
   };
@@ -186,11 +187,21 @@ function myCustomChart(chartType, chartLabels, chartDataset) {
   const chartConfig = {
     type: chartType,
     data: myChartData,
-    option: {}
-  };
+    options: {
+      legend: {
+        display: false //Removes the Label.
+     },
+     tooltips: {
+      callbacks: {
+          label: function(tooltipItems, data) {
+              return "$" + tooltipItems.yLabel.toString();
+          }
+}
+    }}};
 
   const myChart = new Chart(
     document.getElementById('myChart'),
     chartConfig
   );
+
 };

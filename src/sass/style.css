@@ -204,6 +204,11 @@ h4 {
   }
 }
 
+.lineChart {
+  margin: 2em 0;
+  width: 100%;
+}
+
 input {
   width: 100%;
   padding: 0.5em;
@@ -219,7 +224,7 @@ input {
 .hero img, .hero-img img, .hero-special img {
   width: 100%;
 }
-.hero h1, .hero-img h1, .hero-special h1, .hero h2, .hero-img h2, .hero-special h2, .hero p, .hero-img p, .hero-special p {
+.hero h1, .hero-img h1, .hero-special h1, .hero h2, .hero-img h2, .hero-special h2, .hero h3, .hero-img h3, .hero-special h3, .hero h4, .hero-img h4, .hero-special h4, .hero p, .hero-img p, .hero-special p {
   color: white;
   margin-bottom: 0.2em;
 }
@@ -581,7 +586,7 @@ ol {
 }
 
 .responsive-two section:first-child input {
-  min-width: 20em;
+  min-width: 15em;
   margin-bottom: 0.5em;
 }
 .responsive-two section:first-child label {
@@ -597,11 +602,26 @@ ol {
 }
 
 .compound-result {
-  background-color: #333333;
-  margin-left: 3em;
+  background-color: rgb(218, 214, 214);
+  padding: 2em;
   width: -webkit-fill-available;
   width: -moz-available;
   width: fill;
+}
+.compound-result .big-text {
+  font-size: 2rem;
+  font-weight: 500;
+}
+@media (min-width: 900px) {
+  .compound-result {
+    margin-left: 3em;
+    padding: 0;
+  }
+}
+@media (prefers-color-scheme: dark) {
+  .compound-result {
+    background-color: #333333;
+  }
 }
 
 .overlay-fullscreen {
@@ -797,6 +817,10 @@ table {
   .table-formula tr:last-child td {
     border-color: #ececec;
   }
+}
+
+.table-big-formula {
+  font-size: 1.4rem;
 }
 
 .every-other {

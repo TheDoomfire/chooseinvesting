@@ -28,7 +28,6 @@ No need to guess. And figure things out yourself.
 The original formula can sometimes give a very high valuation to companies. There is an edited formula that should value better.
 
 
-
 **The Orginal formula:** 
 
 <br>

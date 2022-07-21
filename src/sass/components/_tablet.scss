@@ -59,6 +59,10 @@ th, tr, td {
   }
 }
 
+.table-big-formula {
+  font-size: $font-size * 1.4;
+}
+
 .every-other {
     display: table-row-group;
     vertical-align: middle;
