@@ -1,4 +1,7 @@
+//const { Chart } = require("react-chartjs-2");
+
 //Made from this tutorial:
+
 // https://www.youtube.com/watch?v=flItyHiDm7E&t=22s
 const hamburger = document.querySelector(".hamburger");
 const navMenu = document.querySelector(".main-nav");
@@ -122,9 +125,13 @@ nunjucks.render(
 var items = [{ title: "foo", id: 1 }, { title: "bar", id: 2}];
 
 function separateNumber(x) {
-  removedDecimals = Math.trunc(x)
+  removeDecimals(x)
   return removedDecimals.toString().replace(/\B(?=(\d{3})+(?!\d))/g, " ");
 };
+
+function removeDecimals(x) {
+  return removedDecimals = Math.trunc(x)
+}
 
 /* document.addEventListener("DOMContentLoaded", function() {
   compounding();
@@ -143,14 +150,17 @@ function compounding() {
   let tableBody = document.getElementById('tableData');
 
   document.getElementById("totalYears").innerHTML = inputYears
-  
+
+  var yearList = [];
+  var compoundList = [];
+
   tableBody.innerHTML = "";
   for (let i = 1; i <= inputYears; i++) {
     compoundValue = Math.round((inputCapital) * Math.pow(inputReturns/100+1, i)) + (inputSavings*12) * (Math.pow(inputReturns/100+1, i) - 1)/(inputReturns/100);
 
-    //P * ([1 + I]^N - 1 )/I
-    //compoundMonthy = (inputSavings*12) * (Math.pow(inputReturns/100+1, i) - 1)/(inputReturns/100);
-    //(inputSavings*12) * ((1-(1/Math.pow(inputReturns/100+1, i)))/inputReturns/100)
+    yearList.push(i);
+    compoundList.push(removeDecimals(compoundValue));
+
 
     tableBody.innerHTML += `<tr><td>${i}&nbsp;Year</td><td type="number">$${separateNumber(compoundValue)}</td></tr>`;
 
@@ -158,5 +168,29 @@ function compounding() {
   document.getElementById("totalCompound").innerHTML = "$" + separateNumber(compoundValue);
   document.getElementById("totalSavings").innerHTML = "$" + separateNumber(inputCapital + inputSavings * 12 * inputYears);
   document.getElementById("totalReturn").innerHTML = "$" + separateNumber(compoundValue - (inputCapital + inputSavings * 12 * inputYears));
+  myCustomChart("line", yearList,compoundList);
+  console.log(yearList, compoundList)
+};
 
+function myCustomChart(chartType, chartLabels, chartDataset) {
+  const myChartData = {
+    labels: chartLabels,
+    datasets: [{
+      label: 'Compound Rate',
+      backgroundColor: 'rgb(255, 99, 132)',
+      borderColor: 'rgb(255, 99, 132)',
+      data: chartDataset,
+    }]
+  };
+
+  const chartConfig = {
+    type: chartType,
+    data: myChartData,
+    option: {}
+  };
+
+  const myChart = new Chart(
+    document.getElementById('myChart'),
+    chartConfig
+  );
 };
